@@ -13,7 +13,7 @@
 
 # Współtworzenie Roo Code
 
-Roo Code to projekt napędzany przez społeczność i bardzo cenimy każdy wkład. Aby usprawnić współpracę, działamy według zasady [Issue-First](#podejście-issue-first), co oznacza, że wszystkie [Pull Requesty (PR)](#zgłaszanie-pull-requesta) muszą najpierw być powiązane z GitHub Issue. Prosimy o uważne zapoznanie się z tym przewodnikiem.
+Alchemi Code to projekt napędzany przez społeczność i bardzo cenimy każdy wkład. Aby usprawnić współpracę, działamy według zasady [Issue-First](#podejście-issue-first), co oznacza, że wszystkie [Pull Requesty (PR)](#zgłaszanie-pull-requesta) muszą najpierw być powiązane z GitHub Issue. Prosimy o uważne zapoznanie się z tym przewodnikiem.
 
 ## Spis treści
 
@@ -80,7 +80,7 @@ Każdy wkład musi zaczynać się od GitHub Issue.
 ### Decydowanie, nad czym pracować
 
 - Sprawdź [Projekt GitHub](https://github.com/orgs/RooCodeInc/projects/1) w poszukiwaniu nieprzypisanych "Good First Issues".
-- W kwestii dokumentacji odwiedź [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- W kwestii dokumentacji odwiedź [Alchemi Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
 
 ### Zgłaszanie błędów
 

@@ -158,7 +158,7 @@ describe("extractTextFromXLSX", () => {
 
 			const result = await extractTextFromXLSX(workbook)
 
-			expect(result).toContain("Roo Code (https://roocode.com/)")
+			expect(result).toContain("Alchemi Code (https://roocode.com/)")
 		})
 
 		it("should handle formulas with and without results", async () => {

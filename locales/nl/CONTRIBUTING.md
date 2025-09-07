@@ -13,7 +13,7 @@
 
 # Bijdragen aan Roo Code
 
-Roo Code is een door de community gedreven project en we waarderen elke bijdrage enorm. Om de samenwerking te stroomlijnen, werken we volgens een [Issue-First](#issue-first-aanpak) principe, wat betekent dat alle [Pull Requests (PR's)](#een-pull-request-indienen) eerst gekoppeld moeten worden aan een GitHub Issue. Lees deze gids zorgvuldig door.
+Alchemi Code is een door de community gedreven project en we waarderen elke bijdrage enorm. Om de samenwerking te stroomlijnen, werken we volgens een [Issue-First](#issue-first-aanpak) principe, wat betekent dat alle [Pull Requests (PR's)](#een-pull-request-indienen) eerst gekoppeld moeten worden aan een GitHub Issue. Lees deze gids zorgvuldig door.
 
 ## Inhoudsopgave
 
@@ -80,7 +80,7 @@ Elke bijdrage moet beginnen met een GitHub Issue.
 ### Bepalen waar je aan werkt
 
 - Bekijk het [GitHub Project](https://github.com/orgs/RooCodeInc/projects/1) voor niet-toegewezen "Good First Issues".
-- Voor documentatie, bezoek [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- Voor documentatie, bezoek [Alchemi Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
 
 ### Bugs of problemen melden
 

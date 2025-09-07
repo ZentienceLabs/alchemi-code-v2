@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Roo Code 커뮤니티에 참여하세요</h2>
+  <h2>Alchemi Code 커뮤니티에 참여하세요</h2>
   <p>개발자들과 연결하고, 아이디어를 기여하고, 최신 AI 기반 코딩 도구를 계속 확인하세요.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Discord%20참여-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord 참여"></a>
@@ -28,9 +28,9 @@
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline" target="_blank"><img src="https://img.shields.io/badge/VS%20Marketplace에서%20다운로드-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Marketplace에서 다운로드"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code" target="_blank"><img src="https://img.shields.io/badge/VS%20Marketplace에서%20다운로드-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Marketplace에서 다운로드"></a>
 <a href="https://github.com/RooCodeInc/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><img src="https://img.shields.io/badge/기능%20요청-yellow?style=for-the-badge" alt="기능 요청"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/평가%20%26%20리뷰-green?style=for-the-badge" alt="평가 & 리뷰"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/평가%20%26%20리뷰-green?style=for-the-badge" alt="평가 & 리뷰"></a>
 <a href="https://docs.roocode.com" target="_blank"><img src="https://img.shields.io/badge/문서-6B46C1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="문서"></a>
 
 </div>
@@ -50,9 +50,9 @@
 
 ---
 
-## 🎉 Roo Code 3.25 출시
+## 🎉 Alchemi Code 3.25 출시
 
-Roo Code 3.25가 개발 워크플로우를 향상시키는 강력한 새 기능과 중요한 개선사항을 제공합니다!
+Alchemi Code 3.25가 개발 워크플로우를 향상시키는 강력한 새 기능과 중요한 개선사항을 제공합니다!
 
 - **<bold>브라우저 세션 관리</bold>** - 여러 브라우저 세션을 동시에 관리하여 다양한 작업과 테스트 환경을 분리할 수 있습니다.
 - **<bold>프롬프트 캐싱</bold>** - 자주 사용되는 프롬프트를 캐시하여 응답 시간을 크게 단축하고 API 사용량을 줄입니다.
@@ -71,7 +71,7 @@ Roo Code 3.25가 개발 워크플로우를 향상시키는 강력한 새 기능�
 
 ## 빠른 시작
 
-1. [Roo Code 설치](https://docs.roocode.com/getting-started/installing)
+1. [Alchemi Code 설치](https://docs.roocode.com/getting-started/installing)
 2. [AI 제공자 연결](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [첫 번째 작업 시도](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -157,7 +157,7 @@ npm run build
 `bin/` 디렉토리에 `.vsix` 파일이 나타나며 다음 명령으로 설치할 수 있습니다:
 
 ```sh
-code --install-extension bin/roo-cline-<version>.vsix
+code --install-extension bin/alchemi-code-<version>.vsix
 ```
 
 버전 관리 및 게시를 위해 [changesets](https://github.com/changesets/changesets)를 사용합니다. 릴리스 노트는 `CHANGELOG.md`를 확인하세요.

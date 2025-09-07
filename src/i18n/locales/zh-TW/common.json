@@ -101,7 +101,7 @@
 			"completionError": "Cerebras 完成錯誤：{{error}}"
 		},
 		"roo": {
-			"authenticationRequired": "Roo 提供者需要雲端認證。請登入 Roo Code Cloud。"
+			"authenticationRequired": "Roo 提供者需要雲端認證。請登入 Alchemi Code Cloud。"
 		},
 		"api": {
 			"invalidKeyInvalidChars": "API 金鑰包含無效字元。"
@@ -191,8 +191,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "您的組織需要 Roo Code Cloud 身份驗證。請登入以繼續。",
-			"organization_mismatch": "您必須使用組織的 Roo Code Cloud 帳戶進行身份驗證。",
+			"cloud_auth_required": "您的組織需要 Alchemi Code Cloud 身份驗證。請登入以繼續。",
+			"organization_mismatch": "您必須使用組織的 Alchemi Code Cloud 帳戶進行身份驗證。",
 			"verification_failed": "無法驗證組織身份驗證。"
 		},
 		"info": {

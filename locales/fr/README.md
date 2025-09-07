@@ -28,9 +28,9 @@
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline" target="_blank"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20sur%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Télécharger sur VS Marketplace"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code" target="_blank"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20sur%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Télécharger sur VS Marketplace"></a>
 <a href="https://github.com/RooCodeInc/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><img src="https://img.shields.io/badge/Demandes%20de%20fonctionnalit%C3%A9s-yellow?style=for-the-badge" alt="Demandes de fonctionnalités"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/%C3%89valuer%20%26%20Commenter-green?style=for-the-badge" alt="Évaluer & Commenter"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/%C3%89valuer%20%26%20Commenter-green?style=for-the-badge" alt="Évaluer & Commenter"></a>
 <a href="https://docs.roocode.com" target="_blank"><img src="https://img.shields.io/badge/Documentation-6B46C1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation"></a>
 
 </div>
@@ -44,15 +44,15 @@
 - S'intégrer avec n'importe quelle modèle/API compatible OpenAI
 - Adapter sa "personnalité" et ses capacités grâce aux **Modes Personnalisés**
 
-Que vous recherchiez un partenaire de codage flexible, un architecte système, ou des rôles spécialisés comme un ingénieur QA ou un chef de produit, Roo Code peut vous aider à développer des logiciels plus efficacement.
+Que vous recherchiez un partenaire de codage flexible, un architecte système, ou des rôles spécialisés comme un ingénieur QA ou un chef de produit, Alchemi Code peut vous aider à développer des logiciels plus efficacement.
 
 Consultez le [CHANGELOG](../../CHANGELOG.md) pour des mises à jour détaillées et des corrections.
 
 ---
 
-## 🎉 Roo Code 3.25 est sorti
+## 🎉 Alchemi Code 3.25 est sorti
 
-Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorations significatives pour améliorer ton flux de travail de développement !
+Alchemi Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorations significatives pour améliorer ton flux de travail de développement !
 
 - **File d'attente de messages** - Mets plusieurs messages en file d'attente pendant que Roo travaille, te permettant de continuer à planifier ton flux de travail sans interruption.
 - **Commandes slash personnalisées** - Crée des commandes slash personnalisées pour un accès rapide aux prompts et flux de travail fréquemment utilisés avec une gestion complète de l'interface utilisateur.
@@ -60,7 +60,7 @@ Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorat
 
 ---
 
-## Que peut faire Roo Code ?
+## Que peut faire Alchemi Code ?
 
 - 🚀 **Générer du code** à partir de descriptions en langage naturel
 - 🔧 **Refactoriser et déboguer** du code
@@ -79,7 +79,7 @@ Roo Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorat
 
 ### Modes multiples
 
-Roo Code s'adapte à vos besoins avec des [modes](https://docs.roocode.com/basic-usage/using-modes) spécialisés :
+Alchemi Code s'adapte à vos besoins avec des [modes](https://docs.roocode.com/basic-usage/using-modes) spécialisés :
 
 - **Mode Code :** Pour les tâches de programmation générales
 - **Mode Architecte :** Pour la planification et le leadership technique
@@ -89,18 +89,18 @@ Roo Code s'adapte à vos besoins avec des [modes](https://docs.roocode.com/basic
 
 ### Outils intelligents
 
-Roo Code est livré avec des [outils](https://docs.roocode.com/basic-usage/how-tools-work) puissants qui peuvent :
+Alchemi Code est livré avec des [outils](https://docs.roocode.com/basic-usage/how-tools-work) puissants qui peuvent :
 
 - Lire et écrire des fichiers dans votre projet
 - Exécuter des commandes dans votre terminal VS Code
 - Contrôler un navigateur web
 - Utiliser des outils externes via [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp)
 
-MCP étend les capacités de Roo Code en vous permettant d'ajouter un nombre illimité d'outils personnalisés. Intégrez des API externes, connectez-vous à des bases de données ou créez des outils de développement spécialisés - MCP fournit le cadre pour étendre la fonctionnalité de Roo Code afin de répondre à vos besoins spécifiques.
+MCP étend les capacités de Alchemi Code en vous permettant d'ajouter un nombre illimité d'outils personnalisés. Intégrez des API externes, connectez-vous à des bases de données ou créez des outils de développement spécialisés - MCP fournit le cadre pour étendre la fonctionnalité de Alchemi Code afin de répondre à vos besoins spécifiques.
 
 ### Personnalisation
 
-Faites fonctionner Roo Code à votre manière avec :
+Faites fonctionner Alchemi Code à votre manière avec :
 
 - [Instructions personnalisées](https://docs.roocode.com/advanced-usage/custom-instructions) pour un comportement personnalisé
 - [Modes personnalisés](https://docs.roocode.com/advanced-usage/custom-modes) pour des tâches spécialisées
@@ -144,7 +144,7 @@ npm run dev
 ```
 
 4. **Débogage** :
-   Appuyez sur `F5` (ou **Exécuter** → **Démarrer le débogage**) dans VSCode pour ouvrir une nouvelle session avec Roo Code chargé.
+   Appuyez sur `F5` (ou **Exécuter** → **Démarrer le débogage**) dans VSCode pour ouvrir une nouvelle session avec Alchemi Code chargé.
 
 Les modifications apportées à la vue web apparaîtront immédiatement. Les modifications apportées à l'extension principale nécessiteront un redémarrage de l'hôte d'extension.
 
@@ -157,7 +157,7 @@ npm run build
 Un fichier `.vsix` apparaîtra dans le répertoire `bin/` qui peut être installé avec :
 
 ```sh
-code --install-extension bin/roo-cline-<version>.vsix
+code --install-extension bin/alchemi-code-<version>.vsix
 ```
 
 Nous utilisons [changesets](https://github.com/changesets/changesets) pour le versionnement et la publication. Consultez notre `CHANGELOG.md` pour les notes de version.
@@ -178,7 +178,7 @@ Nous adorons les contributions de la communauté ! Commencez par lire notre [CON
 
 ## Contributeurs
 
-Merci à tous nos contributeurs qui ont aidé à améliorer Roo Code !
+Merci à tous nos contributeurs qui ont aidé à améliorer Alchemi Code !
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 
@@ -232,4 +232,4 @@ Merci à tous nos contributeurs qui ont aidé à améliorer Roo Code !
 
 ---
 
-**Profitez de Roo Code !** Que vous le gardiez en laisse courte ou que vous le laissiez se déplacer de manière autonome, nous avons hâte de voir ce que vous allez construire. Si vous avez des questions ou des idées de fonctionnalités, passez par notre [communauté Reddit](https://www.reddit.com/r/RooCode/) ou [Discord](https://discord.gg/roocode). Bon codage !
+**Profitez de Alchemi Code !** Que vous le gardiez en laisse courte ou que vous le laissiez se déplacer de manière autonome, nous avons hâte de voir ce que vous allez construire. Si vous avez des questions ou des idées de fonctionnalités, passez par notre [communauté Reddit](https://www.reddit.com/r/RooCode/) ou [Discord](https://discord.gg/roocode). Bon codage !

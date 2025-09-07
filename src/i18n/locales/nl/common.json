@@ -102,7 +102,7 @@
 			"completionError": "Cerebras-voltooiingsfout: {{error}}"
 		},
 		"roo": {
-			"authenticationRequired": "Roo provider vereist cloud authenticatie. Log in bij Roo Code Cloud."
+			"authenticationRequired": "Roo provider vereist cloud authenticatie. Log in bij Alchemi Code Cloud."
 		},
 		"api": {
 			"invalidKeyInvalidChars": "API-sleutel bevat ongeldige karakters."
@@ -191,8 +191,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "Je organisatie vereist Roo Code Cloud-authenticatie. Log in om door te gaan.",
-			"organization_mismatch": "Je moet geauthenticeerd zijn met het Roo Code Cloud-account van je organisatie.",
+			"cloud_auth_required": "Je organisatie vereist Alchemi Code Cloud-authenticatie. Log in om door te gaan.",
+			"organization_mismatch": "Je moet geauthenticeerd zijn met het Alchemi Code Cloud-account van je organisatie.",
 			"verification_failed": "Kan organisatie-authenticatie niet verifiëren."
 		},
 		"info": {

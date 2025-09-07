@@ -28,9 +28,9 @@
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline" target="_blank"><img src="https://img.shields.io/badge/Descarregueu%20al%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Descarregueu al VS Marketplace"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code" target="_blank"><img src="https://img.shields.io/badge/Descarregueu%20al%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Descarregueu al VS Marketplace"></a>
 <a href="https://github.com/RooCodeInc/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><img src="https://img.shields.io/badge/Sol·licituds%20de%20funcions-yellow?style=for-the-badge" alt="Sol·licituds de funcions"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/Valoreu%20%26%20Reviseu-green?style=for-the-badge" alt="Valoreu & Reviseu"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/Valoreu%20%26%20Reviseu-green?style=for-the-badge" alt="Valoreu & Reviseu"></a>
 <a href="https://docs.roocode.com" target="_blank"><img src="https://img.shields.io/badge/Documentació-6B46C1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentació"></a>
 
 </div>
@@ -44,15 +44,15 @@
 - Integrar-se amb qualsevol API/model compatible amb OpenAI o personalitzat
 - Adaptar la seva "personalitat" i capacitats mitjançant **Modes Personalitzats**
 
-Tant si busqueu un soci de programació flexible, un arquitecte de sistemes o rols especialitzats com un enginyer de control de qualitat o un gestor de producte, Roo Code us pot ajudar a construir programari de manera més eficient.
+Tant si busqueu un soci de programació flexible, un arquitecte de sistemes o rols especialitzats com un enginyer de control de qualitat o un gestor de producte, Alchemi Code us pot ajudar a construir programari de manera més eficient.
 
 Consulteu el [CHANGELOG](../../CHANGELOG.md) per a actualitzacions i correccions detallades.
 
 ---
 
-## 🎉 Roo Code 3.25 Llançat
+## 🎉 Alchemi Code 3.25 Llançat
 
-Roo Code 3.25 aporta noves funcionalitats potents i millores significatives per millorar el vostre flux de treball de desenvolupament!
+Alchemi Code 3.25 aporta noves funcionalitats potents i millores significatives per millorar el vostre flux de treball de desenvolupament!
 
 - **Cua de missatges** - Poseu diversos missatges a la cua mentre Roo treballa, permetent-vos continuar planificant el vostre flux de treball sense interrupcions.
 - **Comandes slash personalitzades** - Creeu comandes slash personalitzades per a accés ràpid a prompts i fluxos de treball utilitzats freqüentment amb gestió completa de la interfície d'usuari.
@@ -79,7 +79,7 @@ Roo Code 3.25 aporta noves funcionalitats potents i millores significatives per 
 
 ### Múltiples modes
 
-Roo Code s'adapta a les vostres necessitats amb [modes](https://docs.roocode.com/basic-usage/using-modes) especialitzats:
+Alchemi Code s'adapta a les vostres necessitats amb [modes](https://docs.roocode.com/basic-usage/using-modes) especialitzats:
 
 - **Mode Codi:** Per a tasques de programació de propòsit general
 - **Mode Arquitecte:** Per a planificació i lideratge tècnic
@@ -89,18 +89,18 @@ Roo Code s'adapta a les vostres necessitats amb [modes](https://docs.roocode.com
 
 ### Eines intel·ligents
 
-Roo Code ve amb potents [eines](https://docs.roocode.com/basic-usage/how-tools-work) que poden:
+Alchemi Code ve amb potents [eines](https://docs.roocode.com/basic-usage/how-tools-work) que poden:
 
 - Llegir i escriure fitxers en el vostre projecte
 - Executar comandes en el vostre terminal de VS Code
 - Controlar un navegador web
 - Utilitzar eines externes a través del [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp)
 
-MCP amplia les capacitats de Roo Code permetent-vos afegir eines personalitzades il·limitades. Integreu amb APIs externes, connecteu-vos a bases de dades o creeu eines de desenvolupament especialitzades - MCP proporciona el marc per expandir la funcionalitat de Roo Code per satisfer les vostres necessitats específiques.
+MCP amplia les capacitats de Alchemi Code permetent-vos afegir eines personalitzades il·limitades. Integreu amb APIs externes, connecteu-vos a bases de dades o creeu eines de desenvolupament especialitzades - MCP proporciona el marc per expandir la funcionalitat de Alchemi Code per satisfer les vostres necessitats específiques.
 
 ### Personalització
 
-Feu que Roo Code funcioni a la vostra manera amb:
+Feu que Alchemi Code funcioni a la vostra manera amb:
 
 - [Instruccions personalitzades](https://docs.roocode.com/advanced-usage/custom-instructions) per a comportament personalitzat
 - [Modes personalitzats](https://docs.roocode.com/advanced-usage/custom-modes) per a tasques especialitzades
@@ -144,7 +144,7 @@ npm run dev
 ```
 
 4. **Depuració**:
-   Premeu `F5` (o **Execució** → **Inicia la depuració**) a VSCode per obrir una nova sessió amb Roo Code carregat.
+   Premeu `F5` (o **Execució** → **Inicia la depuració**) a VSCode per obrir una nova sessió amb Alchemi Code carregat.
 
 Els canvis a la vista web apareixeran immediatament. Els canvis a l'extensió principal requeriran reiniciar l'amfitrió de l'extensió.
 
@@ -157,7 +157,7 @@ npm run build
 Apareixerà un fitxer `.vsix` al directori `bin/` que es pot instal·lar amb:
 
 ```sh
-code --install-extension bin/roo-cline-<version>.vsix
+code --install-extension bin/alchemi-code-<version>.vsix
 ```
 
 Utilitzem [changesets](https://github.com/changesets/changesets) per a la gestió de versions i publicació. Consulteu el nostre `CHANGELOG.md` per a notes de llançament.

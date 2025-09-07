@@ -21,7 +21,7 @@
 		"sharePublicly": "Share Publicly",
 		"sharePubliclyDescription": "Anyone with the link can access",
 		"connectToCloud": "Connect to Cloud",
-		"connectToCloudDescription": "Sign in to Roo Code Cloud to share tasks",
+		"connectToCloudDescription": "Sign in to Alchemi Code Cloud to share tasks",
 		"sharingDisabledByOrganization": "Sharing disabled by organization",
 		"shareSuccessOrganization": "Organization link copied to clipboard",
 		"shareSuccessPublic": "Public link copied to clipboard"
@@ -271,17 +271,17 @@
 	"autoApprove": {
 		"title": "Auto-approve:",
 		"none": "None",
-		"description": "Auto-approve allows Roo Code to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>.",
+		"description": "Auto-approve allows Alchemi Code to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>.",
 		"selectOptionsFirst": "Select at least one option below to enable auto-approval",
 		"toggleAriaLabel": "Toggle auto-approval",
 		"disabledAriaLabel": "Auto-approval disabled - select options first"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} Released",
+		"title": "🎉 Alchemi Code {{version}} Released",
 		"stealthModel": {
 			"feature": "The Sonic stealth model is now <bold>Grok Code Fast</bold>! This high-performance reasoning model is available as <code>grok-code-fast-1</code> under the <bold>xAI (Grok)</bold> provider.",
-			"note": "As a thank you for all the helpful feedback on Sonic, xAI is extending free access to <code>grok-code-fast-1</code> for another week through the <bold>Roo Code Cloud</bold> provider.",
-			"connectButton": "Connect to Roo Code Cloud",
+			"note": "As a thank you for all the helpful feedback on Sonic, xAI is extending free access to <code>grok-code-fast-1</code> for another week through the <bold>Alchemi Code Cloud</bold> provider.",
+			"connectButton": "Connect to Alchemi Code Cloud",
 			"selectModel": "Visit <settingsLink>Settings</settingsLink> to update your provider configuration."
 		}
 	},
@@ -329,7 +329,7 @@
 	"profileViolationWarning": "The current profile isn't compatible with your organization's settings",
 	"shellIntegration": {
 		"title": "Command Execution Warning",
-		"description": "Your command is being executed without VSCode terminal shell integration. To suppress this warning you can disable shell integration in the <strong>Terminal</strong> section of the <settingsLink>Roo Code settings</settingsLink> or troubleshoot VSCode terminal integration using the link below.",
+		"description": "Your command is being executed without VSCode terminal shell integration. To suppress this warning you can disable shell integration in the <strong>Terminal</strong> section of the <settingsLink>Alchemi Code settings</settingsLink> or troubleshoot VSCode terminal integration using the link below.",
 		"troubleshooting": "Click here for shell integration documentation."
 	},
 	"ask": {
@@ -355,7 +355,7 @@
 		"ariaLabel": "Version {{version}} - Click to view release notes"
 	},
 	"rooCloudCTA": {
-		"title": "Roo Code Cloud is evolving!",
+		"title": "Alchemi Code Cloud is evolving!",
 		"description": "Run Roomote agents in the cloud, access your tasks from anywhere, collaborate with others, and more.",
 		"joinWaitlist": "Sign up to get the latest updates."
 	},

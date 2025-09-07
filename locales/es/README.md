@@ -28,9 +28,9 @@
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline" target="_blank"><img src="https://img.shields.io/badge/Descargar%20en%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Descargar en VS Marketplace"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code" target="_blank"><img src="https://img.shields.io/badge/Descargar%20en%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Descargar en VS Marketplace"></a>
 <a href="https://github.com/RooCodeInc/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><img src="https://img.shields.io/badge/Solicitudes%20de%20Funciones-yellow?style=for-the-badge" alt="Solicitudes de Funciones"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/Valorar%20%26%20Opinar-green?style=for-the-badge" alt="Valorar & Opinar"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/Valorar%20%26%20Opinar-green?style=for-the-badge" alt="Valorar & Opinar"></a>
 <a href="https://docs.roocode.com" target="_blank"><img src="https://img.shields.io/badge/Documentaci%C3%B3n-6B46C1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentación"></a>
 
 </div>
@@ -44,15 +44,15 @@
 - Integrarse con cualquier API/modelo compatible con OpenAI o personalizado
 - Adaptar su "personalidad" y capacidades a través de **Modos Personalizados**
 
-Ya sea que busques un socio de programación flexible, un arquitecto de sistemas o roles especializados como ingeniero de control de calidad o gestor de productos, Roo Code puede ayudarte a construir software de manera más eficiente.
+Ya sea que busques un socio de programación flexible, un arquitecto de sistemas o roles especializados como ingeniero de control de calidad o gestor de productos, Alchemi Code puede ayudarte a construir software de manera más eficiente.
 
 Consulta el [CHANGELOG](../../CHANGELOG.md) para ver actualizaciones detalladas y correcciones.
 
 ---
 
-## 🎉 Roo Code 3.25 Lanzado
+## 🎉 Alchemi Code 3.25 Lanzado
 
-¡Roo Code 3.25 trae nuevas funcionalidades poderosas y mejoras significativas para mejorar tu flujo de trabajo de desarrollo!
+¡Alchemi Code 3.25 trae nuevas funcionalidades poderosas y mejoras significativas para mejorar tu flujo de trabajo de desarrollo!
 
 - **Cola de mensajes** - Pon varios mensajes en cola mientras Roo trabaja, permitiéndote continuar planificando tu flujo de trabajo sin interrupciones.
 - **Comandos slash personalizados** - Crea comandos slash personalizados para acceso rápido a prompts y flujos de trabajo utilizados frecuentemente con gestión completa de la interfaz de usuario.
@@ -79,7 +79,7 @@ Consulta el [CHANGELOG](../../CHANGELOG.md) para ver actualizaciones detalladas 
 
 ### Múltiples modos
 
-Roo Code se adapta a tus necesidades con [modos](https://docs.roocode.com/basic-usage/using-modes) especializados:
+Alchemi Code se adapta a tus necesidades con [modos](https://docs.roocode.com/basic-usage/using-modes) especializados:
 
 - **Modo Código:** Para tareas generales de programación
 - **Modo Arquitecto:** Para planificación y liderazgo técnico
@@ -89,18 +89,18 @@ Roo Code se adapta a tus necesidades con [modos](https://docs.roocode.com/basic-
 
 ### Herramientas inteligentes
 
-Roo Code viene con potentes [herramientas](https://docs.roocode.com/basic-usage/how-tools-work) que pueden:
+Alchemi Code viene con potentes [herramientas](https://docs.roocode.com/basic-usage/how-tools-work) que pueden:
 
 - Leer y escribir archivos en tu proyecto
 - Ejecutar comandos en tu terminal de VS Code
 - Controlar un navegador web
 - Usar herramientas externas a través de [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp)
 
-MCP amplía las capacidades de Roo Code al permitirte añadir herramientas personalizadas ilimitadas. Integra con APIs externas, conéctate a bases de datos o crea herramientas de desarrollo especializadas - MCP proporciona el marco para expandir la funcionalidad de Roo Code para satisfacer tus necesidades específicas.
+MCP amplía las capacidades de Alchemi Code al permitirte añadir herramientas personalizadas ilimitadas. Integra con APIs externas, conéctate a bases de datos o crea herramientas de desarrollo especializadas - MCP proporciona el marco para expandir la funcionalidad de Alchemi Code para satisfacer tus necesidades específicas.
 
 ### Personalización
 
-Haz que Roo Code funcione a tu manera con:
+Haz que Alchemi Code funcione a tu manera con:
 
 - [Instrucciones personalizadas](https://docs.roocode.com/advanced-usage/custom-instructions) para comportamiento personalizado
 - [Modos personalizados](https://docs.roocode.com/advanced-usage/custom-modes) para tareas especializadas
@@ -144,7 +144,7 @@ npm run dev
 ```
 
 4. **Depuración**:
-   Presiona `F5` (o **Ejecutar** → **Iniciar depuración**) en VSCode para abrir una nueva sesión con Roo Code cargado.
+   Presiona `F5` (o **Ejecutar** → **Iniciar depuración**) en VSCode para abrir una nueva sesión con Alchemi Code cargado.
 
 Los cambios en la vista web aparecerán inmediatamente. Los cambios en la extensión principal requerirán un reinicio del host de extensión.
 
@@ -157,7 +157,7 @@ npm run build
 Aparecerá un archivo `.vsix` en el directorio `bin/` que se puede instalar con:
 
 ```sh
-code --install-extension bin/roo-cline-<version>.vsix
+code --install-extension bin/alchemi-code-<version>.vsix
 ```
 
 Usamos [changesets](https://github.com/changesets/changesets) para versionar y publicar. Consulta nuestro `CHANGELOG.md` para ver las notas de lanzamiento.

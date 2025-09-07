@@ -21,7 +21,7 @@
 		"sharePublicly": "Bagikan secara publik",
 		"sharePubliclyDescription": "Siapa pun dengan tautan dapat mengakses",
 		"connectToCloud": "Hubungkan ke Cloud",
-		"connectToCloudDescription": "Masuk ke Roo Code Cloud untuk berbagi tugas",
+		"connectToCloudDescription": "Masuk ke Alchemi Code Cloud untuk berbagi tugas",
 		"sharingDisabledByOrganization": "Berbagi dinonaktifkan oleh organisasi",
 		"shareSuccessOrganization": "Tautan organisasi disalin ke clipboard",
 		"shareSuccessPublic": "Tautan publik disalin ke clipboard"
@@ -274,20 +274,20 @@
 	"autoApprove": {
 		"title": "Auto-approve:",
 		"none": "Tidak Ada",
-		"description": "Auto-approve memungkinkan Roo Code melakukan aksi tanpa meminta izin. Hanya aktifkan untuk aksi yang benar-benar kamu percayai. Konfigurasi lebih detail tersedia di <settingsLink>Pengaturan</settingsLink>.",
+		"description": "Auto-approve memungkinkan Alchemi Code melakukan aksi tanpa meminta izin. Hanya aktifkan untuk aksi yang benar-benar kamu percayai. Konfigurasi lebih detail tersedia di <settingsLink>Pengaturan</settingsLink>.",
 		"selectOptionsFirst": "Pilih setidaknya satu opsi di bawah untuk mengaktifkan persetujuan otomatis",
 		"toggleAriaLabel": "Beralih persetujuan otomatis",
 		"disabledAriaLabel": "Persetujuan otomatis dinonaktifkan - pilih opsi terlebih dahulu"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} Dirilis",
+		"title": "🎉 Alchemi Code {{version}} Dirilis",
 		"stealthModel": {
 			"feature": "Model stealth Sonic kini adalah <bold>Grok Code Fast</bold>! Model penalaran berperforma tinggi ini tersedia sebagai <code>grok-code-fast-1</code> di bawah penyedia <bold>xAI (Grok)</bold>.",
-			"note": "Sebagai ucapan terima kasih atas semua masukan berguna tentang Sonic, xAI memperpanjang akses gratis ke <code>grok-code-fast-1</code> selama satu minggu lagi melalui penyedia <bold>Roo Code Cloud</bold>.",
-			"connectButton": "Hubungkan ke Roo Code Cloud",
+			"note": "Sebagai ucapan terima kasih atas semua masukan berguna tentang Sonic, xAI memperpanjang akses gratis ke <code>grok-code-fast-1</code> selama satu minggu lagi melalui penyedia <bold>Alchemi Code Cloud</bold>.",
+			"connectButton": "Hubungkan ke Alchemi Code Cloud",
 			"selectModel": "Kunjungi <settingsLink>Pengaturan</settingsLink> untuk memperbarui konfigurasi penyedia."
 		},
-		"description": "Roo Code {{version}} menghadirkan fitur-fitur baru yang kuat dan peningkatan signifikan untuk meningkatkan alur kerja pengembangan Anda.",
+		"description": "Alchemi Code {{version}} menghadirkan fitur-fitur baru yang kuat dan peningkatan signifikan untuk meningkatkan alur kerja pengembangan Anda.",
 		"whatsNew": "Yang Baru",
 		"feature1": "<bold>Antrian Pesan</bold>: Antrikan beberapa pesan saat Roo sedang bekerja, memungkinkan Anda melanjutkan perencanaan alur kerja tanpa gangguan.",
 		"feature2": "<bold>Perintah Slash Kustom</bold>: Buat perintah slash yang dipersonalisasi untuk akses cepat ke prompt dan alur kerja yang sering digunakan, dengan manajemen UI lengkap.",
@@ -365,7 +365,7 @@
 		"ariaLabel": "Versi {{version}} - Klik untuk melihat catatan rilis"
 	},
 	"rooCloudCTA": {
-		"title": "Roo Code Cloud sedang berkembang!",
+		"title": "Alchemi Code Cloud sedang berkembang!",
 		"description": "Jalankan agen jarak jauh di cloud, akses tugas Anda dari mana saja, berkolaborasi dengan orang lain, dan banyak lagi.",
 		"joinWaitlist": "Daftar untuk mendapatkan pembaruan terbaru."
 	},

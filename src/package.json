@@ -1,5 +1,5 @@
 {
-	"name": "roo-cline",
+	"name": "alchemi-code",
 	"displayName": "%extension.displayName%",
 	"description": "%extension.description%",
 	"publisher": "RooVeterinaryInc",
@@ -54,124 +54,124 @@
 		"viewsContainers": {
 			"activitybar": [
 				{
-					"id": "roo-cline-ActivityBar",
+					"id": "alchemi-code-ActivityBar",
 					"title": "%views.activitybar.title%",
 					"icon": "assets/icons/icon.svg"
 				}
 			]
 		},
 		"views": {
-			"roo-cline-ActivityBar": [
+			"alchemi-code-ActivityBar": [
 				{
 					"type": "webview",
-					"id": "roo-cline.SidebarProvider",
+					"id": "alchemi-code.SidebarProvider",
 					"name": "%views.sidebar.name%"
 				}
 			]
 		},
 		"commands": [
 			{
-				"command": "roo-cline.plusButtonClicked",
+				"command": "alchemi-code.plusButtonClicked",
 				"title": "%command.newTask.title%",
 				"icon": "$(add)"
 			},
 			{
-				"command": "roo-cline.promptsButtonClicked",
+				"command": "alchemi-code.promptsButtonClicked",
 				"title": "%command.prompts.title%",
 				"icon": "$(organization)"
 			},
 			{
-				"command": "roo-cline.mcpButtonClicked",
+				"command": "alchemi-code.mcpButtonClicked",
 				"title": "%command.mcpServers.title%",
 				"icon": "$(server)"
 			},
 			{
-				"command": "roo-cline.historyButtonClicked",
+				"command": "alchemi-code.historyButtonClicked",
 				"title": "%command.history.title%",
 				"icon": "$(history)"
 			},
 			{
-				"command": "roo-cline.marketplaceButtonClicked",
+				"command": "alchemi-code.marketplaceButtonClicked",
 				"title": "%command.marketplace.title%",
 				"icon": "$(extensions)"
 			},
 			{
-				"command": "roo-cline.popoutButtonClicked",
+				"command": "alchemi-code.popoutButtonClicked",
 				"title": "%command.openInEditor.title%",
 				"icon": "$(link-external)"
 			},
 			{
-				"command": "roo-cline.cloudButtonClicked",
+				"command": "alchemi-code.cloudButtonClicked",
 				"title": "%command.cloud.title%",
 				"icon": "$(cloud)"
 			},
 			{
-				"command": "roo-cline.settingsButtonClicked",
+				"command": "alchemi-code.settingsButtonClicked",
 				"title": "%command.settings.title%",
 				"icon": "$(settings-gear)"
 			},
 			{
-				"command": "roo-cline.openInNewTab",
+				"command": "alchemi-code.openInNewTab",
 				"title": "%command.openInNewTab.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.explainCode",
+				"command": "alchemi-code.explainCode",
 				"title": "%command.explainCode.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.fixCode",
+				"command": "alchemi-code.fixCode",
 				"title": "%command.fixCode.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.improveCode",
+				"command": "alchemi-code.improveCode",
 				"title": "%command.improveCode.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.addToContext",
+				"command": "alchemi-code.addToContext",
 				"title": "%command.addToContext.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.newTask",
+				"command": "alchemi-code.newTask",
 				"title": "%command.newTask.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.terminalAddToContext",
+				"command": "alchemi-code.terminalAddToContext",
 				"title": "%command.terminal.addToContext.title%",
 				"category": "Terminal"
 			},
 			{
-				"command": "roo-cline.terminalFixCommand",
+				"command": "alchemi-code.terminalFixCommand",
 				"title": "%command.terminal.fixCommand.title%",
 				"category": "Terminal"
 			},
 			{
-				"command": "roo-cline.terminalExplainCommand",
+				"command": "alchemi-code.terminalExplainCommand",
 				"title": "%command.terminal.explainCommand.title%",
 				"category": "Terminal"
 			},
 			{
-				"command": "roo-cline.setCustomStoragePath",
+				"command": "alchemi-code.setCustomStoragePath",
 				"title": "%command.setCustomStoragePath.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.importSettings",
+				"command": "alchemi-code.importSettings",
 				"title": "%command.importSettings.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.focusInput",
+				"command": "alchemi-code.focusInput",
 				"title": "%command.focusInput.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.acceptInput",
+				"command": "alchemi-code.acceptInput",
 				"title": "%command.acceptInput.title%",
 				"category": "%configuration.title%"
 			}
@@ -179,143 +179,143 @@
 		"menus": {
 			"editor/context": [
 				{
-					"submenu": "roo-cline.contextMenu",
+					"submenu": "alchemi-code.contextMenu",
 					"group": "1"
 				}
 			],
-			"roo-cline.contextMenu": [
+			"alchemi-code.contextMenu": [
 				{
-					"command": "roo-cline.addToContext",
+					"command": "alchemi-code.addToContext",
 					"group": "1_actions@1"
 				},
 				{
-					"command": "roo-cline.explainCode",
+					"command": "alchemi-code.explainCode",
 					"group": "1_actions@2"
 				},
 				{
-					"command": "roo-cline.improveCode",
+					"command": "alchemi-code.improveCode",
 					"group": "1_actions@3"
 				}
 			],
 			"terminal/context": [
 				{
-					"submenu": "roo-cline.terminalMenu",
+					"submenu": "alchemi-code.terminalMenu",
 					"group": "2"
 				}
 			],
-			"roo-cline.terminalMenu": [
+			"alchemi-code.terminalMenu": [
 				{
-					"command": "roo-cline.terminalAddToContext",
+					"command": "alchemi-code.terminalAddToContext",
 					"group": "1_actions@1"
 				},
 				{
-					"command": "roo-cline.terminalFixCommand",
+					"command": "alchemi-code.terminalFixCommand",
 					"group": "1_actions@2"
 				},
 				{
-					"command": "roo-cline.terminalExplainCommand",
+					"command": "alchemi-code.terminalExplainCommand",
 					"group": "1_actions@3"
 				}
 			],
 			"view/title": [
 				{
-					"command": "roo-cline.plusButtonClicked",
+					"command": "alchemi-code.plusButtonClicked",
 					"group": "navigation@1",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.marketplaceButtonClicked",
+					"command": "alchemi-code.marketplaceButtonClicked",
 					"group": "navigation@2",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.settingsButtonClicked",
+					"command": "alchemi-code.settingsButtonClicked",
 					"group": "navigation@3",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.cloudButtonClicked",
+					"command": "alchemi-code.cloudButtonClicked",
 					"group": "navigation@4",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.historyButtonClicked",
+					"command": "alchemi-code.historyButtonClicked",
 					"group": "overflow@1",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.promptsButtonClicked",
+					"command": "alchemi-code.promptsButtonClicked",
 					"group": "overflow@2",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.mcpButtonClicked",
+					"command": "alchemi-code.mcpButtonClicked",
 					"group": "overflow@3",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.popoutButtonClicked",
+					"command": "alchemi-code.popoutButtonClicked",
 					"group": "overflow@4",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == alchemi-code.SidebarProvider"
 				}
 			],
 			"editor/title": [
 				{
-					"command": "roo-cline.plusButtonClicked",
+					"command": "alchemi-code.plusButtonClicked",
 					"group": "navigation@1",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.marketplaceButtonClicked",
+					"command": "alchemi-code.marketplaceButtonClicked",
 					"group": "navigation@2",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.settingsButtonClicked",
+					"command": "alchemi-code.settingsButtonClicked",
 					"group": "navigation@3",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.cloudButtonClicked",
+					"command": "alchemi-code.cloudButtonClicked",
 					"group": "navigation@4",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.historyButtonClicked",
+					"command": "alchemi-code.historyButtonClicked",
 					"group": "overflow@1",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.promptsButtonClicked",
+					"command": "alchemi-code.promptsButtonClicked",
 					"group": "overflow@2",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.mcpButtonClicked",
+					"command": "alchemi-code.mcpButtonClicked",
 					"group": "overflow@3",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.popoutButtonClicked",
+					"command": "alchemi-code.popoutButtonClicked",
 					"group": "overflow@4",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				}
 			]
 		},
 		"submenus": [
 			{
-				"id": "roo-cline.contextMenu",
+				"id": "alchemi-code.contextMenu",
 				"label": "%views.contextMenu.label%"
 			},
 			{
-				"id": "roo-cline.terminalMenu",
+				"id": "alchemi-code.terminalMenu",
 				"label": "%views.terminalMenu.label%"
 			}
 		],
 		"configuration": {
 			"title": "%configuration.title%",
 			"properties": {
-				"roo-cline.allowedCommands": {
+				"alchemi-code.allowedCommands": {
 					"type": "array",
 					"items": {
 						"type": "string"
@@ -327,7 +327,7 @@
 					],
 					"description": "%commands.allowedCommands.description%"
 				},
-				"roo-cline.deniedCommands": {
+				"alchemi-code.deniedCommands": {
 					"type": "array",
 					"items": {
 						"type": "string"
@@ -335,14 +335,14 @@
 					"default": [],
 					"description": "%commands.deniedCommands.description%"
 				},
-				"roo-cline.commandExecutionTimeout": {
+				"alchemi-code.commandExecutionTimeout": {
 					"type": "number",
 					"default": 0,
 					"minimum": 0,
 					"maximum": 600,
 					"description": "%commands.commandExecutionTimeout.description%"
 				},
-				"roo-cline.commandTimeoutAllowlist": {
+				"alchemi-code.commandTimeoutAllowlist": {
 					"type": "array",
 					"items": {
 						"type": "string"
@@ -350,12 +350,12 @@
 					"default": [],
 					"description": "%commands.commandTimeoutAllowlist.description%"
 				},
-				"roo-cline.preventCompletionWithOpenTodos": {
+				"alchemi-code.preventCompletionWithOpenTodos": {
 					"type": "boolean",
 					"default": false,
 					"description": "%commands.preventCompletionWithOpenTodos.description%"
 				},
-				"roo-cline.vsCodeLmModelSelector": {
+				"alchemi-code.vsCodeLmModelSelector": {
 					"type": "object",
 					"properties": {
 						"vendor": {
@@ -369,39 +369,39 @@
 					},
 					"description": "%settings.vsCodeLmModelSelector.description%"
 				},
-				"roo-cline.customStoragePath": {
+				"alchemi-code.customStoragePath": {
 					"type": "string",
 					"default": "",
 					"description": "%settings.customStoragePath.description%"
 				},
-				"roo-cline.enableCodeActions": {
+				"alchemi-code.enableCodeActions": {
 					"type": "boolean",
 					"default": true,
 					"description": "%settings.enableCodeActions.description%"
 				},
-				"roo-cline.autoImportSettingsPath": {
+				"alchemi-code.autoImportSettingsPath": {
 					"type": "string",
 					"default": "",
 					"description": "%settings.autoImportSettingsPath.description%"
 				},
-				"roo-cline.useAgentRules": {
+				"alchemi-code.useAgentRules": {
 					"type": "boolean",
 					"default": true,
 					"description": "%settings.useAgentRules.description%"
 				},
-				"roo-cline.apiRequestTimeout": {
+				"alchemi-code.apiRequestTimeout": {
 					"type": "number",
 					"default": 600,
 					"minimum": 0,
 					"maximum": 3600,
 					"description": "%settings.apiRequestTimeout.description%"
 				},
-				"roo-cline.newTaskRequireTodos": {
+				"alchemi-code.newTaskRequireTodos": {
 					"type": "boolean",
 					"default": false,
 					"description": "%settings.newTaskRequireTodos.description%"
 				},
-				"roo-cline.codeIndex.embeddingBatchSize": {
+				"alchemi-code.codeIndex.embeddingBatchSize": {
 					"type": "number",
 					"default": 60,
 					"minimum": 1,

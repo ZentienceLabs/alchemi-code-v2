@@ -102,7 +102,7 @@
 			"completionError": "Erreur d'achèvement de Cerebras : {{error}}"
 		},
 		"roo": {
-			"authenticationRequired": "Le fournisseur Roo nécessite une authentification cloud. Veuillez vous connecter à Roo Code Cloud."
+			"authenticationRequired": "Le fournisseur Roo nécessite une authentification cloud. Veuillez vous connecter à Alchemi Code Cloud."
 		},
 		"api": {
 			"invalidKeyInvalidChars": "La clé API contient des caractères invalides."
@@ -191,8 +191,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "Votre organisation nécessite une authentification Roo Code Cloud. Veuillez vous connecter pour continuer.",
-			"organization_mismatch": "Vous devez être authentifié avec le compte Roo Code Cloud de votre organisation.",
+			"cloud_auth_required": "Votre organisation nécessite une authentification Alchemi Code Cloud. Veuillez vous connecter pour continuer.",
+			"organization_mismatch": "Vous devez être authentifié avec le compte Alchemi Code Cloud de votre organisation.",
 			"verification_failed": "Impossible de vérifier l'authentification de l'organisation."
 		},
 		"info": {

@@ -13,7 +13,7 @@
 
 # Đóng góp cho Roo Code
 
-Roo Code là một dự án do cộng đồng dẫn dắt và chúng mình rất trân trọng mọi đóng góp. Để đơn giản hóa quy trình hợp tác, chúng mình áp dụng cách tiếp cận [Issue-First](#cách-tiếp-cận-issue-first), nghĩa là tất cả [Pull Request (PR)](#gửi-pull-request) phải được liên kết với một GitHub Issue trước. Vui lòng đọc kỹ hướng dẫn này.
+Alchemi Code là một dự án do cộng đồng dẫn dắt và chúng mình rất trân trọng mọi đóng góp. Để đơn giản hóa quy trình hợp tác, chúng mình áp dụng cách tiếp cận [Issue-First](#cách-tiếp-cận-issue-first), nghĩa là tất cả [Pull Request (PR)](#gửi-pull-request) phải được liên kết với một GitHub Issue trước. Vui lòng đọc kỹ hướng dẫn này.
 
 ## Mục lục
 
@@ -80,7 +80,7 @@ Mọi đóng góp đều phải bắt đầu bằng một GitHub Issue.
 ### Quyết định việc cần làm
 
 - Xem [Dự án GitHub](https://github.com/orgs/RooCodeInc/projects/1) để tìm "Good First Issues" chưa được gán.
-- Về tài liệu, hãy xem [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- Về tài liệu, hãy xem [Alchemi Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
 
 ### Báo cáo lỗi
 

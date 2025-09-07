@@ -21,7 +21,7 @@
 		"sharePublicly": "Compartir públicamente",
 		"sharePubliclyDescription": "Cualquiera con el enlace puede acceder",
 		"connectToCloud": "Conectar al Cloud",
-		"connectToCloudDescription": "Inicia sesión en Roo Code Cloud para compartir tareas",
+		"connectToCloudDescription": "Inicia sesión en Alchemi Code Cloud para compartir tareas",
 		"sharingDisabledByOrganization": "Compartir deshabilitado por la organización",
 		"shareSuccessOrganization": "Enlace de organización copiado al portapapeles",
 		"shareSuccessPublic": "Enlace público copiado al portapapeles"
@@ -247,7 +247,7 @@
 	"autoApprove": {
 		"title": "Auto-aprobar:",
 		"none": "Ninguno",
-		"description": "Auto-aprobar permite a Roo Code realizar acciones sin pedir permiso. Habilita solo para acciones en las que confíes plenamente. Configuración más detallada disponible en <settingsLink>Configuración</settingsLink>.",
+		"description": "Auto-aprobar permite a Alchemi Code realizar acciones sin pedir permiso. Habilita solo para acciones en las que confíes plenamente. Configuración más detallada disponible en <settingsLink>Configuración</settingsLink>.",
 		"selectOptionsFirst": "Selecciona al menos una opción a continuación para habilitar la aprobación automática",
 		"toggleAriaLabel": "Alternar aprobación automática",
 		"disabledAriaLabel": "Aprobación automática desactivada: seleccione primero las opciones"
@@ -268,14 +268,14 @@
 		"countdownDisplay": "{{count}}s"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} publicado",
+		"title": "🎉 Alchemi Code {{version}} publicado",
 		"stealthModel": {
 			"feature": "¡El modelo stealth Sonic ahora es <bold>Grok Code Fast</bold>! Este modelo de razonamiento de alto rendimiento está disponible como <code>grok-code-fast-1</code> bajo el proveedor <bold>xAI (Grok)</bold>.",
-			"note": "Como agradecimiento por todos los comentarios útiles sobre Sonic, xAI está extendiendo el acceso gratuito a <code>grok-code-fast-1</code> por una semana más a través del proveedor <bold>Roo Code Cloud</bold>.",
-			"connectButton": "Conectar con Roo Code Cloud",
+			"note": "Como agradecimiento por todos los comentarios útiles sobre Sonic, xAI está extendiendo el acceso gratuito a <code>grok-code-fast-1</code> por una semana más a través del proveedor <bold>Alchemi Code Cloud</bold>.",
+			"connectButton": "Conectar con Alchemi Code Cloud",
 			"selectModel": "Visita <settingsLink>Configuración</settingsLink> para actualizar tu configuración de proveedor."
 		},
-		"description": "Roo Code {{version}} trae poderosas nuevas funcionalidades y mejoras significativas para mejorar tu flujo de trabajo de desarrollo.",
+		"description": "Alchemi Code {{version}} trae poderosas nuevas funcionalidades y mejoras significativas para mejorar tu flujo de trabajo de desarrollo.",
 		"whatsNew": "Novedades",
 		"feature1": "<bold>Cola de Mensajes</bold>: Pon en cola múltiples mensajes mientras Roo está trabajando, permitiéndote continuar planificando tu flujo de trabajo sin interrupciones.",
 		"feature2": "<bold>Comandos de Barra Personalizados</bold>: Crea comandos de barra personalizados para acceso rápido a prompts y flujos de trabajo utilizados frecuentemente, con gestión completa de la interfaz de usuario.",
@@ -359,7 +359,7 @@
 		"ariaLabel": "Versión {{version}} - Haz clic para ver las notas de la versión"
 	},
 	"rooCloudCTA": {
-		"title": "¡Roo Code Cloud está evolucionando!",
+		"title": "¡Alchemi Code Cloud está evolucionando!",
 		"description": "Ejecuta agentes remotos en la nube, accede a tus tareas desde cualquier lugar, colabora con otros y mucho más.",
 		"joinWaitlist": "Regístrate para recibir las últimas actualizaciones."
 	},

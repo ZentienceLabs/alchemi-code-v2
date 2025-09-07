@@ -102,7 +102,7 @@
 			"completionError": "Kesalahan penyelesaian Cerebras: {{error}}"
 		},
 		"roo": {
-			"authenticationRequired": "Penyedia Roo memerlukan autentikasi cloud. Silakan masuk ke Roo Code Cloud."
+			"authenticationRequired": "Penyedia Roo memerlukan autentikasi cloud. Silakan masuk ke Alchemi Code Cloud."
 		},
 		"api": {
 			"invalidKeyInvalidChars": "Kunci API mengandung karakter tidak valid."
@@ -191,8 +191,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "Organisasi kamu memerlukan autentikasi Roo Code Cloud. Silakan masuk untuk melanjutkan.",
-			"organization_mismatch": "Kamu harus diautentikasi dengan akun Roo Code Cloud organisasi kamu.",
+			"cloud_auth_required": "Organisasi kamu memerlukan autentikasi Alchemi Code Cloud. Silakan masuk untuk melanjutkan.",
+			"organization_mismatch": "Kamu harus diautentikasi dengan akun Alchemi Code Cloud organisasi kamu.",
 			"verification_failed": "Tidak dapat memverifikasi autentikasi organisasi."
 		},
 		"info": {

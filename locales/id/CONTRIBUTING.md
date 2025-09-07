@@ -13,7 +13,7 @@
 
 # Berkontribusi pada Roo Code
 
-Roo Code adalah proyek yang didorong oleh komunitas, dan kami sangat menghargai setiap kontribusi. Untuk memperlancar kolaborasi, kami beroperasi berdasarkan pendekatan [Issue-First](#issue-first-approach), yang berarti semua [Pull Request (PR)](#submitting-a-pull-request) harus terlebih dahulu ditautkan ke GitHub Issue. Harap tinjau panduan ini dengan cermat.
+Alchemi Code adalah proyek yang didorong oleh komunitas, dan kami sangat menghargai setiap kontribusi. Untuk memperlancar kolaborasi, kami beroperasi berdasarkan pendekatan [Issue-First](#issue-first-approach), yang berarti semua [Pull Request (PR)](#submitting-a-pull-request) harus terlebih dahulu ditautkan ke GitHub Issue. Harap tinjau panduan ini dengan cermat.
 
 ## Daftar Isi
 
@@ -80,7 +80,7 @@ Semua kontribusi harus dimulai dengan GitHub Issue.
 ### Memutuskan Apa yang Akan Dikerjakan
 
 - Periksa [GitHub Project](https://github.com/orgs/RooCodeInc/projects/1) untuk "Good First Issues" yang belum ditugaskan.
-- Untuk dokumen, kunjungi [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- Untuk dokumen, kunjungi [Alchemi Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
 
 ### Melaporkan Bug
 

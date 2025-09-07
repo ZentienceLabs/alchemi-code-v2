@@ -21,7 +21,7 @@
 		"sharePublicly": "公開分享",
 		"sharePubliclyDescription": "任何擁有連結的人都可存取",
 		"connectToCloud": "連線至雲端",
-		"connectToCloudDescription": "登入 Roo Code Cloud 以分享工作",
+		"connectToCloudDescription": "登入 Alchemi Code Cloud 以分享工作",
 		"sharingDisabledByOrganization": "組織已停用分享功能",
 		"shareSuccessOrganization": "組織連結已複製到剪貼簿",
 		"shareSuccessPublic": "公開連結已複製到剪貼簿"
@@ -271,20 +271,20 @@
 	"autoApprove": {
 		"title": "自動核准：",
 		"none": "無",
-		"description": "自動核准讓 Roo Code 可以在無需徵求您同意的情況下執行操作。請僅對您完全信任的動作啟用此功能。您可以在<settingsLink>設定</settingsLink>中進行更詳細的調整。",
+		"description": "自動核准讓 Alchemi Code 可以在無需徵求您同意的情況下執行操作。請僅對您完全信任的動作啟用此功能。您可以在<settingsLink>設定</settingsLink>中進行更詳細的調整。",
 		"selectOptionsFirst": "請至少選擇以下一個選項以啟用自動核准",
 		"toggleAriaLabel": "切換自動核准",
 		"disabledAriaLabel": "自動核准已停用 - 請先選取選項"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} 已發布",
+		"title": "🎉 Alchemi Code {{version}} 已發布",
 		"stealthModel": {
 			"feature": "Sonic 隱形模型現在是 <bold>Grok Code Fast</bold>！這個高效能推理模型現已作為 <code>grok-code-fast-1</code> 在 <bold>xAI (Grok)</bold> 提供商下提供。",
-			"note": "作為對 Sonic 所有寶貴回饋的感謝，xAI 將透過 <bold>Roo Code Cloud</bold> 提供商延長 <code>grok-code-fast-1</code> 的免費存取一週。",
-			"connectButton": "連接到 Roo Code Cloud",
+			"note": "作為對 Sonic 所有寶貴回饋的感謝，xAI 將透過 <bold>Alchemi Code Cloud</bold> 提供商延長 <code>grok-code-fast-1</code> 的免費存取一週。",
+			"connectButton": "連接到 Alchemi Code Cloud",
 			"selectModel": "造訪<settingsLink>設定</settingsLink>更新你的提供商設定。"
 		},
-		"description": "Roo Code {{version}} 帶來強大的新功能和重大改進，提升您的開發工作流程。",
+		"description": "Alchemi Code {{version}} 帶來強大的新功能和重大改進，提升您的開發工作流程。",
 		"whatsNew": "新功能",
 		"feature1": "<bold>訊息佇列</bold>：在 Roo 工作時將多個訊息排入佇列，讓您可以不間斷地繼續規劃工作流程。",
 		"feature2": "<bold>自訂斜線命令</bold>：建立個人化斜線命令，快速存取常用提示詞和工作流程，具備完整的 UI 管理功能。",
@@ -336,7 +336,7 @@
 	"profileViolationWarning": "目前設定檔與您的組織設定不相容",
 	"shellIntegration": {
 		"title": "命令執行警告",
-		"description": "您的命令正在沒有 VSCode 終端機 Shell 整合的情況下執行。若要隱藏此警告，您可以在 <settingsLink>Roo Code 設定</settingsLink> 的<strong>終端機</strong>區塊中停用 Shell 整合，或使用下方的連結來排解 VSCode 終端機整合問題。",
+		"description": "您的命令正在沒有 VSCode 終端機 Shell 整合的情況下執行。若要隱藏此警告，您可以在 <settingsLink>Alchemi Code 設定</settingsLink> 的<strong>終端機</strong>區塊中停用 Shell 整合，或使用下方的連結來排解 VSCode 終端機整合問題。",
 		"troubleshooting": "點選此處查看 Shell 整合文件。"
 	},
 	"ask": {
@@ -362,7 +362,7 @@
 		"ariaLabel": "版本 {{version}} - 點選查看發布說明"
 	},
 	"rooCloudCTA": {
-		"title": "Roo Code Cloud 正在進化！",
+		"title": "Alchemi Code Cloud 正在進化！",
 		"description": "在雲端執行 Roomote 遠端代理、隨時隨地存取您的工作、與他人協作等等。",
 		"joinWaitlist": "註冊以獲得最新更新。"
 	},

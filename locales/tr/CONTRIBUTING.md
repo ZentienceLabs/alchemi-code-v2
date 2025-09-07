@@ -52,7 +52,7 @@ Yol haritamız projenin yönünü belirler. Katkılarını bu temel hedeflerle u
 
 PR'larında bu alanlarla olan bağlantıyı belirt.
 
-### 3. Roo Code Topluluğuna Katıl
+### 3. Alchemi Code Topluluğuna Katıl
 
 - **Ana yöntem:** [Discord](https://discord.gg/roocode)'umuza katıl ve **Hannes Rudolph (`hrudolph`)**'a DM gönder.
 - **Alternatif:** Deneyimli katkı sağlayanlar [GitHub Projects](https://github.com/orgs/RooCodeInc/projects/1) üzerinden doğrudan katılabilir.
@@ -80,7 +80,7 @@ Tüm katkılar bir GitHub Issue ile başlamalıdır.
 ### Ne Üzerinde Çalışacağına Karar Verme
 
 - [GitHub Projesi](https://github.com/orgs/RooCodeInc/projects/1)'nde atanmamış "Good First Issues" bak.
-- Dokümantasyon için [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs)'u ziyaret et.
+- Dokümantasyon için [Alchemi Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs)'u ziyaret et.
 
 ### Hata veya Sorun Bildirme
 

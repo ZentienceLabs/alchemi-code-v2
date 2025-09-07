@@ -245,7 +245,7 @@ export class ClineProvider
 			])
 		}
 
-		// Initialize Roo Code Cloud profile sync.
+		// Initialize Alchemi Code Cloud profile sync.
 		if (CloudService.hasInstance()) {
 			this.initializeCloudProfileSync().catch((error) => {
 				this.log(`Failed to initialize cloud profile sync: ${error}`)

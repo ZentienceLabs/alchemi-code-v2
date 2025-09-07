@@ -102,7 +102,7 @@
 			"completionError": "Cerebras tamamlama hatası: {{error}}"
 		},
 		"roo": {
-			"authenticationRequired": "Roo sağlayıcısı bulut kimlik doğrulaması gerektirir. Lütfen Roo Code Cloud'a giriş yapın."
+			"authenticationRequired": "Roo sağlayıcısı bulut kimlik doğrulaması gerektirir. Lütfen Alchemi Code Cloud'a giriş yapın."
 		},
 		"api": {
 			"invalidKeyInvalidChars": "API anahtarı geçersiz karakterler içeriyor."
@@ -191,8 +191,8 @@
 	},
 	"mdm": {
 		"errors": {
-			"cloud_auth_required": "Kuruluşunuz Roo Code Cloud kimlik doğrulaması gerektiriyor. Devam etmek için giriş yapın.",
-			"organization_mismatch": "Kuruluşunuzun Roo Code Cloud hesabıyla kimlik doğrulaması yapmalısınız.",
+			"cloud_auth_required": "Kuruluşunuz Alchemi Code Cloud kimlik doğrulaması gerektiriyor. Devam etmek için giriş yapın.",
+			"organization_mismatch": "Kuruluşunuzun Alchemi Code Cloud hesabıyla kimlik doğrulaması yapmalısınız.",
 			"verification_failed": "Kuruluş kimlik doğrulaması doğrulanamıyor."
 		},
 		"info": {

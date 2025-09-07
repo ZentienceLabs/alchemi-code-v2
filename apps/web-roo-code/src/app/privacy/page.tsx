@@ -3,7 +3,7 @@ import { SEO } from "@/lib/seo"
 
 const TITLE = "Privacy Policy"
 const DESCRIPTION =
-	"Privacy policy for Roo Code Cloud and marketing website. Learn how we handle your data and protect your privacy."
+	"Privacy policy for Alchemi Code Cloud and marketing website. Learn how we handle your data and protect your privacy."
 const PATH = "/privacy"
 const OG_IMAGE = SEO.ogImage
 
@@ -44,7 +44,7 @@ export default function Privacy() {
 			<div className="container mx-auto px-4 py-12 sm:px-6 lg:px-8">
 				<div className="prose prose-lg mx-auto max-w-4xl dark:prose-invert">
 					<h1 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-						Roo Code Cloud Privacy Policy
+						Alchemi Code Cloud Privacy Policy
 					</h1>
 					<p className="text-muted-foreground">Last Updated: August 20, 2025</p>
 
@@ -57,23 +57,23 @@ export default function Privacy() {
 							browse any page under <strong>roocode.com</strong> (the <em>Marketing Site</em>); and/or
 						</li>
 						<li>
-							create an account for, sign in to, or otherwise use <strong>Roo Code Cloud</strong> at{" "}
-							<strong>app.roocode.com</strong> or through the Roo Code extension while authenticated to
-							that Cloud account (the <em>Cloud Service</em>).
+							create an account for, sign in to, or otherwise use <strong>Alchemi Code Cloud</strong> at{" "}
+							<strong>app.roocode.com</strong> or through the Alchemi Code extension while authenticated
+							to that Cloud account (the <em>Cloud Service</em>).
 						</li>
 					</ul>
 
 					<div className="my-8 rounded-lg border border-border bg-muted/50 p-6">
 						<h3 className="mt-0 text-lg font-semibold">Extension‑Only Usage</h3>
 						<p className="mb-0">
-							If you run the Roo Code extension <strong>without</strong> connecting to a Cloud account,
-							your data is governed by the standalone{" "}
+							If you run the Alchemi Code extension <strong>without</strong> connecting to a Cloud
+							account, your data is governed by the standalone{" "}
 							<a
 								href="https://github.com/RooCodeInc/Roo-Code/blob/main/PRIVACY.md"
 								target="_blank"
 								rel="noopener noreferrer"
 								className="text-primary hover:underline">
-								Roo Code Extension Privacy Policy
+								Alchemi Code Extension Privacy Policy
 							</a>
 							.
 						</p>
@@ -83,21 +83,22 @@ export default function Privacy() {
 					<ul>
 						<li>
 							<strong>
-								Your source code does not transit Roo Code servers unless you explicitly choose Roo Code
-								as a model provider (proxy mode).
+								Your source code does not transit Alchemi Code servers unless you explicitly choose Roo
+								Code as a model provider (proxy mode).
 							</strong>{" "}
-							When Roo Code Cloud is your model provider, your code briefly transits Roo Code servers only to
-							forward it to the upstream model, is not stored, and is deleted immediately after
-							forwarding. Otherwise, your code is sent <strong>directly</strong>—via client‑to‑provider
-							TLS—to the model you select. Roo Code never stores, inspects, or trains on your code.
+							When Alchemi Code Cloud is your model provider, your code briefly transits Alchemi Code
+							servers only to forward it to the upstream model, is not stored, and is deleted immediately
+							after forwarding. Otherwise, your code is sent <strong>directly</strong>—via
+							client‑to‑provider TLS—to the model you select. Alchemi Code never stores, inspects, or
+							trains on your code.
 						</li>
 						<li>
-							<strong>Prompts and chat snippets are collected by default</strong> in Roo Code Cloud so you
-							can search and re‑use past conversations. Organization admins can disable this collection at
-							any time.
+							<strong>Prompts and chat snippets are collected by default</strong> in Alchemi Code Cloud so
+							you can search and re‑use past conversations. Organization admins can disable this
+							collection at any time.
 						</li>
 						<li>
-							We collect only the data needed to operate Roo Code Cloud, do <strong>not</strong> sell
+							We collect only the data needed to operate Alchemi Code Cloud, do <strong>not</strong> sell
 							customer data, and do <strong>not</strong> use your content to train models.
 						</li>
 					</ul>
@@ -171,7 +172,7 @@ export default function Privacy() {
 					<h2 className="mt-12 text-2xl font-bold">2. How We Use Information</h2>
 					<ul>
 						<li>
-							<strong>Operate & secure Roo Code Cloud</strong> (authentication, completions, abuse
+							<strong>Operate & secure Alchemi Code Cloud</strong> (authentication, completions, abuse
 							prevention)
 						</li>
 						<li>
@@ -205,11 +206,11 @@ export default function Privacy() {
 										Code & files you work on
 									</td>
 									<td className="border border-border px-4 py-2">
-										Your chosen model provider (direct client → provider TLS), or Roo Code (proxy
-										mode; transit‑only) when you select Roo Code as the provider
+										Your chosen model provider (direct client → provider TLS), or Alchemi Code
+										(proxy mode; transit‑only) when you select Alchemi Code as the provider
 									</td>
 									<td className="border border-border px-4 py-2">
-										Roo Code servers (except proxy mode; transit‑only, no storage); ad networks;
+										Alchemi Code servers (except proxy mode; transit‑only, no storage); ad networks;
 										model‑training pipelines
 									</td>
 								</tr>
@@ -218,7 +219,7 @@ export default function Privacy() {
 										Prompts, chat snippets & token counts (Cloud)
 									</td>
 									<td className="border border-border px-4 py-2">
-										Roo Code Cloud (encrypted at rest)
+										Alchemi Code Cloud (encrypted at rest)
 									</td>
 									<td className="border border-border px-4 py-2">Any third‑party</td>
 								</tr>
@@ -227,7 +228,7 @@ export default function Privacy() {
 										Workspace Configuration
 									</td>
 									<td className="border border-border px-4 py-2">
-										Roo Code Cloud (encrypted at rest)
+										Alchemi Code Cloud (encrypted at rest)
 									</td>
 									<td className="border border-border px-4 py-2">Any third-party</td>
 								</tr>
@@ -242,7 +243,7 @@ export default function Privacy() {
 									<td className="border border-border px-4 py-2 font-medium">Payment Data</td>
 									<td className="border border-border px-4 py-2">Stripe (PCI‑DSS Level 1)</td>
 									<td className="border border-border px-4 py-2">
-										Roo Code servers (we store only the Stripe customer ID)
+										Alchemi Code servers (we store only the Stripe customer ID)
 									</td>
 								</tr>
 							</tbody>
@@ -252,7 +253,7 @@ export default function Privacy() {
 					<h2 className="mt-12 text-2xl font-bold">4. Data Retention</h2>
 					<ul>
 						<li>
-							<strong>Source Code:</strong> Never stored on Roo Code servers.
+							<strong>Source Code:</strong> Never stored on Alchemi Code servers.
 						</li>
 						<li>
 							<strong>Prompts & Chat Snippets:</strong> Persist in your Cloud workspace until you or your
@@ -260,7 +261,7 @@ export default function Privacy() {
 						</li>
 						<li>
 							<strong>Operational Logs & Analytics:</strong> Retained only as needed to operate and secure
-							Roo Code Cloud.
+							Alchemi Code Cloud.
 						</li>
 					</ul>
 
@@ -275,7 +276,7 @@ export default function Privacy() {
 						</li>
 						<li>
 							<strong>Delete your Cloud account</strong> at any time from{" "}
-							<strong>Security Settings</strong> inside Roo Code Cloud.
+							<strong>Security Settings</strong> inside Alchemi Code Cloud.
 						</li>
 					</ul>
 

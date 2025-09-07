@@ -21,7 +21,7 @@
 		"sharePublicly": "Öffentlich teilen",
 		"sharePubliclyDescription": "Jeder mit dem Link kann zugreifen",
 		"connectToCloud": "Mit Cloud verbinden",
-		"connectToCloudDescription": "Melde dich bei Roo Code Cloud an, um Aufgaben zu teilen",
+		"connectToCloudDescription": "Melde dich bei Alchemi Code Cloud an, um Aufgaben zu teilen",
 		"sharingDisabledByOrganization": "Freigabe von der Organisation deaktiviert",
 		"shareSuccessOrganization": "Organisationslink in die Zwischenablage kopiert",
 		"shareSuccessPublic": "Öffentlicher Link in die Zwischenablage kopiert"
@@ -268,14 +268,14 @@
 		"countdownDisplay": "{{count}}s"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} veröffentlicht",
+		"title": "🎉 Alchemi Code {{version}} veröffentlicht",
 		"stealthModel": {
 			"feature": "Das Sonic Stealth-Modell heißt jetzt <bold>Grok Code Fast</bold>! Dieses hochleistungsfähige Reasoning-Modell ist als <code>grok-code-fast-1</code> unter dem <bold>xAI (Grok)</bold> Provider verfügbar.",
-			"note": "Als Dankeschön für all das hilfreiche Feedback zu Sonic erweitert xAI den kostenlosen Zugang zu <code>grok-code-fast-1</code> für eine weitere Woche über den <bold>Roo Code Cloud</bold>-Anbieter.",
-			"connectButton": "Mit Roo Code Cloud verbinden",
+			"note": "Als Dankeschön für all das hilfreiche Feedback zu Sonic erweitert xAI den kostenlosen Zugang zu <code>grok-code-fast-1</code> für eine weitere Woche über den <bold>Alchemi Code Cloud</bold>-Anbieter.",
+			"connectButton": "Mit Alchemi Code Cloud verbinden",
 			"selectModel": "Besuche die <settingsLink>Einstellungen</settingsLink>, um deine Provider-Konfiguration zu aktualisieren."
 		},
-		"description": "Roo Code {{version}} bringt mächtige neue Funktionen und bedeutende Verbesserungen, um deinen Entwicklungsworkflow zu verbessern.",
+		"description": "Alchemi Code {{version}} bringt mächtige neue Funktionen und bedeutende Verbesserungen, um deinen Entwicklungsworkflow zu verbessern.",
 		"whatsNew": "Was ist neu",
 		"feature1": "<bold>Nachrichten-Warteschlange</bold>: Stelle mehrere Nachrichten in die Warteschlange, während Roo arbeitet, damit du deinen Workflow ohne Unterbrechung weiter planen kannst.",
 		"feature2": "<bold>Benutzerdefinierte Slash-Befehle</bold>: Erstelle personalisierte Slash-Befehle für schnellen Zugriff auf häufig verwendete Prompts und Workflows mit vollständiger UI-Verwaltung.",
@@ -318,7 +318,7 @@
 	"profileViolationWarning": "Das aktuelle Profil ist nicht kompatibel mit den Einstellungen deiner Organisation",
 	"shellIntegration": {
 		"title": "Befehlsausführungswarnung",
-		"description": "Dein Befehl wird ohne VSCode Terminal-Shell-Integration ausgeführt. Um diese Warnung zu unterdrücken, kannst du die Shell-Integration im Abschnitt <strong>Terminal</strong> der <settingsLink>Roo Code Einstellungen</settingsLink> deaktivieren oder die VSCode Terminal-Integration mit dem Link unten beheben.",
+		"description": "Dein Befehl wird ohne VSCode Terminal-Shell-Integration ausgeführt. Um diese Warnung zu unterdrücken, kannst du die Shell-Integration im Abschnitt <strong>Terminal</strong> der <settingsLink>Alchemi Code Einstellungen</settingsLink> deaktivieren oder die VSCode Terminal-Integration mit dem Link unten beheben.",
 		"troubleshooting": "Klicke hier für die Shell-Integrationsdokumentation."
 	},
 	"ask": {
@@ -359,7 +359,7 @@
 		"ariaLabel": "Version {{version}} - Klicken Sie, um die Versionshinweise anzuzeigen"
 	},
 	"rooCloudCTA": {
-		"title": "Roo Code Cloud entwickelt sich weiter!",
+		"title": "Alchemi Code Cloud entwickelt sich weiter!",
 		"description": "Führe Remote-Agenten in der Cloud aus, greife von überall auf deine Aufgaben zu, arbeite mit anderen zusammen und vieles mehr.",
 		"joinWaitlist": "Melde dich an, um die neuesten Updates zu erhalten."
 	},

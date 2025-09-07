@@ -35,13 +35,19 @@ export function Footer() {
 				<div className="xl:grid xl:grid-cols-3 xl:gap-8">
 					<div className="space-y-8">
 						<div className="flex items-center">
-							<Image src={logoSrc} alt="Roo Code Logo" width={120} height={40} className="h-6 w-auto" />
+							<Image
+								src={logoSrc}
+								alt="Alchemi Code Logo"
+								width={120}
+								height={40}
+								className="h-6 w-auto"
+							/>
 						</div>
 						<p className="max-w-md text-sm leading-6 text-muted-foreground md:pr-16 lg:pr-32">
 							Empowering developers to build better software faster with AI-powered tools and insights.
 						</p>
 
-						{/* Made with Roo Code */}
+						{/* Made with Alchemi Code */}
 						<a
 							href="https://roocode.com"
 							target="_blank"
@@ -249,7 +255,7 @@ export function Footer() {
 															href={INTERNAL_LINKS.PRIVACY_POLICY_WEBSITE}
 															onClick={() => setPrivacyDropdownOpen(false)}
 															className="rounded-md px-3 py-2 transition-colors hover:bg-accent/50 hover:text-foreground">
-															Roo Code Cloud
+															Alchemi Code Cloud
 														</Link>
 													</div>
 												</div>

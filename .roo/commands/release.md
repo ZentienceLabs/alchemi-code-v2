@@ -1,5 +1,5 @@
 ---
-description: "Create a new release of the Roo Code extension"
+description: "Create a new release of the Alchemi Code extension"
 argument-hint: patch | minor | major
 ---
 
@@ -11,7 +11,7 @@ argument-hint: patch | minor | major
 
 ```
 ---
-"roo-cline": patch|minor|major
+"alchemi-code": patch|minor|major
 ---
 [list of changes]
 ```

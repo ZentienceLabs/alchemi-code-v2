@@ -3,16 +3,16 @@
 	"profilePicture": "Zdjęcie profilowe",
 	"logOut": "Wyloguj",
 	"testApiAuthentication": "Testuj uwierzytelnianie API",
-	"signIn": "Połącz z Roo Code Cloud",
+	"signIn": "Połącz z Alchemi Code Cloud",
 	"connect": "Połącz",
-	"cloudBenefitsTitle": "Połącz z Roo Code Cloud",
+	"cloudBenefitsTitle": "Połącz z Alchemi Code Cloud",
 	"cloudBenefitsSubtitle": "Synchronizuj swoje prompty i telemetrię, aby włączyć:",
 	"cloudBenefitHistory": "Historia zadań online",
 	"cloudBenefitSharing": "Funkcje udostępniania i współpracy",
 	"cloudBenefitMetrics": "Metryki użycia oparte na zadaniach, tokenach i kosztach",
 	"cloudBenefitWalkaway": "Śledź i kontroluj zadania z dowolnego miejsca za pomocą Roomote Control",
 	"remoteControl": "Roomote Control",
-	"remoteControlDescription": "Umożliwia śledzenie i interakcję z zadaniami w tym obszarze roboczym za pomocą Roo Code Cloud",
-	"visitCloudWebsite": "Odwiedź Roo Code Cloud",
-	"cloudUrlPillLabel": "URL Roo Code Cloud"
+	"remoteControlDescription": "Umożliwia śledzenie i interakcję z zadaniami w tym obszarze roboczym za pomocą Alchemi Code Cloud",
+	"visitCloudWebsite": "Odwiedź Alchemi Code Cloud",
+	"cloudUrlPillLabel": "URL Alchemi Code Cloud"
 }

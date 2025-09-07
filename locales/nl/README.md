@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Word lid van de Roo Code Community</h2>
+  <h2>Word lid van de Alchemi Code Community</h2>
   <p>Verbind met ontwikkelaars, draag ideeën bij en blijf op de hoogte met de nieuwste AI-gestuurde coderingstools.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Word%20lid%20van%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Word lid van Discord"></a>
@@ -28,9 +28,9 @@
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline" target="_blank"><img src="https://img.shields.io/badge/Download%20op%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Download op VS Marketplace"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code" target="_blank"><img src="https://img.shields.io/badge/Download%20op%20VS%20Marketplace-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Download op VS Marketplace"></a>
 <a href="https://github.com/RooCodeInc/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><img src="https://img.shields.io/badge/Feature%20Requests-yellow?style=for-the-badge" alt="Feature Requests"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/Beoordeel%20%26%20Review-green?style=for-the-badge" alt="Beoordeel & Review"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code&ssr=false#review-details" target="_blank"><img src="https://img.shields.io/badge/Beoordeel%20%26%20Review-green?style=for-the-badge" alt="Beoordeel & Review"></a>
 <a href="https://docs.roocode.com" target="_blank"><img src="https://img.shields.io/badge/Documentatie-6B46C1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentatie"></a>
 
 </div>
@@ -44,15 +44,15 @@
 - Integreren met elke OpenAI-compatibele of aangepaste API/model
 - Zijn "persoonlijkheid" en mogelijkheden aanpassen via **Aangepaste Modi**
 
-Of je nu op zoek bent naar een flexibele codeerpartner, een systeemarchitect, of gespecialiseerde rollen zoals QA-engineer of productmanager, Roo Code helpt je efficiënter software te bouwen.
+Of je nu op zoek bent naar een flexibele codeerpartner, een systeemarchitect, of gespecialiseerde rollen zoals QA-engineer of productmanager, Alchemi Code helpt je efficiënter software te bouwen.
 
 Bekijk de [CHANGELOG](../../CHANGELOG.md) voor gedetailleerde updates en fixes.
 
 ---
 
-## 🎉 Roo Code 3.25 Uitgebracht
+## 🎉 Alchemi Code 3.25 Uitgebracht
 
-Roo Code 3.25 brengt krachtige nieuwe functies en significante verbeteringen om je ontwikkelingsworkflow te verbeteren!
+Alchemi Code 3.25 brengt krachtige nieuwe functies en significante verbeteringen om je ontwikkelingsworkflow te verbeteren!
 
 - **<bold>Browser Sessiebeheer</bold>** - Beheer meerdere browsersessies tegelijkertijd, waardoor verschillende taken en testomgevingen gescheiden kunnen worden.
 - **<bold>Prompt Caching</bold>** - Cache veelgebruikte prompts om responstijden aanzienlijk te verkorten en API-gebruik te verminderen.
@@ -79,7 +79,7 @@ Roo Code 3.25 brengt krachtige nieuwe functies en significante verbeteringen om 
 
 ### Meerdere Modi
 
-Roo Code past zich aan jouw behoeften aan met gespecialiseerde [modi](https://docs.roocode.com/basic-usage/using-modes):
+Alchemi Code past zich aan jouw behoeften aan met gespecialiseerde [modi](https://docs.roocode.com/basic-usage/using-modes):
 
 - **Code-modus:** Voor algemene coderingstaken
 - **Architect-modus:** Voor planning en technisch leiderschap
@@ -89,18 +89,18 @@ Roo Code past zich aan jouw behoeften aan met gespecialiseerde [modi](https://do
 
 ### Slimme Tools
 
-Roo Code wordt geleverd met krachtige [tools](https://docs.roocode.com/basic-usage/how-tools-work) die kunnen:
+Alchemi Code wordt geleverd met krachtige [tools](https://docs.roocode.com/basic-usage/how-tools-work) die kunnen:
 
 - Bestanden in je project lezen en schrijven
 - Commando's uitvoeren in je VS Code-terminal
 - Een webbrowser aansturen
 - Externe tools gebruiken via [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp)
 
-MCP breidt de mogelijkheden van Roo Code uit door je in staat te stellen onbeperkt aangepaste tools toe te voegen. Integreer met externe API's, maak verbinding met databases of creëer gespecialiseerde ontwikkeltools - MCP biedt het framework om Roo Code uit te breiden naar jouw specifieke wensen.
+MCP breidt de mogelijkheden van Alchemi Code uit door je in staat te stellen onbeperkt aangepaste tools toe te voegen. Integreer met externe API's, maak verbinding met databases of creëer gespecialiseerde ontwikkeltools - MCP biedt het framework om Alchemi Code uit te breiden naar jouw specifieke wensen.
 
 ### Aanpassen
 
-Laat Roo Code werken zoals jij wilt met:
+Laat Alchemi Code werken zoals jij wilt met:
 
 - [Aangepaste instructies](https://docs.roocode.com/advanced-usage/custom-instructions) voor gepersonaliseerd gedrag
 - [Aangepaste modi](https://docs.roocode.com/advanced-usage/custom-modes) voor specialistische taken
@@ -144,7 +144,7 @@ npm run dev
 ```
 
 4. **Debuggen**:
-   Druk op `F5` (of **Run** → **Start Debugging**) in VSCode om een nieuwe sessie met Roo Code te openen.
+   Druk op `F5` (of **Run** → **Start Debugging**) in VSCode om een nieuwe sessie met Alchemi Code te openen.
 
 Wijzigingen aan de webview verschijnen direct. Wijzigingen aan de core-extensie vereisen een herstart van de extensiehost.
 
@@ -157,7 +157,7 @@ npm run build
 Een `.vsix`-bestand verschijnt in de `bin/`-map en kan worden geïnstalleerd met:
 
 ```sh
-code --install-extension bin/roo-cline-<versie>.vsix
+code --install-extension bin/alchemi-code-<versie>.vsix
 ```
 
 We gebruiken [changesets](https://github.com/changesets/changesets) voor versiebeheer en publicatie. Bekijk onze `CHANGELOG.md` voor release-opmerkingen.
@@ -178,7 +178,7 @@ We houden van bijdragen uit de community! Begin met het lezen van onze [CONTRIBU
 
 ## Bijdragers
 
-Dank aan alle bijdragers die Roo Code beter hebben gemaakt!
+Dank aan alle bijdragers die Alchemi Code beter hebben gemaakt!
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 

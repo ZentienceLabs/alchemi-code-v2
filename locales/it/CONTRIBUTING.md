@@ -13,7 +13,7 @@
 
 # Contribuire a Roo Code
 
-Roo Code è un progetto guidato dalla community e apprezziamo molto ogni contributo. Per semplificare la collaborazione, operiamo secondo un approccio [Issue-First](#approccio-issue-first), il che significa che tutte le [Pull Request (PR)](#inviare-una-pull-request) devono prima essere collegate a una Issue GitHub. Ti preghiamo di leggere attentamente questa guida.
+Alchemi Code è un progetto guidato dalla community e apprezziamo molto ogni contributo. Per semplificare la collaborazione, operiamo secondo un approccio [Issue-First](#approccio-issue-first), il che significa che tutte le [Pull Request (PR)](#inviare-una-pull-request) devono prima essere collegate a una Issue GitHub. Ti preghiamo di leggere attentamente questa guida.
 
 ## Indice
 
@@ -80,7 +80,7 @@ Tutti i contributi devono iniziare con una Issue GitHub.
 ### Decidere su cosa lavorare
 
 - Controlla il [Progetto GitHub](https://github.com/orgs/RooCodeInc/projects/1) per "Good First Issues" non assegnate.
-- Per la documentazione, visita [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- Per la documentazione, visita [Alchemi Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
 
 ### Segnalare bug
 
