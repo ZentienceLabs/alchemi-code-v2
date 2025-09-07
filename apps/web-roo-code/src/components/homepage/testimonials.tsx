@@ -41,7 +41,7 @@ export const testimonials: Testimonial[] = [
 		name: "Michael",
 		role: "Reviewer",
 		company: "VS Code Marketplace",
-		quote: "I switched from Windsurf to Alchemi Code in January and honestly, it's been a huge upgrade. Windsurf kept making mistakes and being dumb when I ask it for things. Roo just gets it. Projects that used to take a full day now wrap up before lunch. ",
+		quote: "I switched from Windsurf to Alchemi Code in January and honestly, it's been a huge upgrade. Windsurf kept making mistakes and being dumb when I ask it for things. Alchemi just gets it. Projects that used to take a full day now wrap up before lunch. ",
 	},
 ]
 

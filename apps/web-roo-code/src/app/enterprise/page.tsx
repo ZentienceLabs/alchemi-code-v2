@@ -94,7 +94,7 @@ export default async function Enterprise() {
 									size="lg"
 									className="w-full sm:w-auto bg-white/20 dark:bg-white/10 backdrop-blur-sm border border-black/40 dark:border-white/30 hover:border-blue-400 hover:bg-white/30 dark:hover:bg-white/20 hover:shadow-[0_0_20px_rgba(59,130,246,0.5)] transition-all duration-300">
 									<a href="#benefits" className="flex w-full items-center justify-center">
-										Why Roo Code
+										Why Alchemi Code
 									</a>
 								</Button>
 							</div>
@@ -529,7 +529,7 @@ export default async function Enterprise() {
 									<div className="rounded-lg border border-border bg-card/80 backdrop-blur-sm p-6 text-center shadow-lg hover:shadow-xl transition-all duration-300 dark:border-white/20 dark:bg-gray-800/80 dark:hover:border-white/40 dark:hover:bg-gray-700/90 dark:hover:shadow-[0_20px_50px_rgba(255,255,255,0.2)] dark:hover:scale-[1.02]">
 										<h3 className="mb-2 text-xl font-bold">Become an Early Access Partner</h3>
 										<p className="mb-4 text-muted-foreground">
-											Collaborate in shaping Roo Code&apos;s enterprise solution.
+											Collaborate in shaping Alchemi Code&apos;s enterprise solution.
 										</p>
 										<ContactForm
 											formType="early-access"
@@ -540,7 +540,7 @@ export default async function Enterprise() {
 									<div className="rounded-lg border border-border bg-card/80 backdrop-blur-sm p-6 text-center shadow-lg hover:shadow-xl transition-all duration-300 dark:border-white/20 dark:bg-gray-800/80 dark:hover:border-white/40 dark:hover:bg-gray-700/90 dark:hover:shadow-[0_20px_50px_rgba(255,255,255,0.2)] dark:hover:scale-[1.02]">
 										<h3 className="mb-2 text-xl font-bold">Request a Demo</h3>
 										<p className="mb-4 text-muted-foreground">
-											See Roo Code&apos;s enterprise capabilities in action.
+											See Alchemi Code&apos;s enterprise capabilities in action.
 										</p>
 										<ContactForm
 											formType="demo"

@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Rejoignez la communauté Roo Code</h2>
+  <h2>Rejoignez la communauté Alchemi Code</h2>
   <p>Connectez-vous avec des développeurs, contribuez avec vos idées et restez à jour avec les derniers outils de programmation propulsés par l'IA.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Rejoindre%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rejoindre Discord"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** est un **agent de programmation autonome** propulsé par l'IA, au cœur de votre éditeur. Il peut :
+**Alchemi Code** est un **agent de programmation autonome** propulsé par l'IA, au cœur de votre éditeur. Il peut :
 
 - Communiquer en langage naturel
 - Lire et écrire des fichiers directement dans votre espace de travail
@@ -54,7 +54,7 @@ Consultez le [CHANGELOG](../../CHANGELOG.md) pour des mises à jour détaillées
 
 Alchemi Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améliorations significatives pour améliorer ton flux de travail de développement !
 
-- **File d'attente de messages** - Mets plusieurs messages en file d'attente pendant que Roo travaille, te permettant de continuer à planifier ton flux de travail sans interruption.
+- **File d'attente de messages** - Mets plusieurs messages en file d'attente pendant que Alchemi travaille, te permettant de continuer à planifier ton flux de travail sans interruption.
 - **Commandes slash personnalisées** - Crée des commandes slash personnalisées pour un accès rapide aux prompts et flux de travail fréquemment utilisés avec une gestion complète de l'interface utilisateur.
 - **Outils Gemini avancés** - De nouvelles fonctionnalités de contexte d'URL et de fondements de recherche Google fournissent aux modèles Gemini des informations web en temps réel et des capacités de recherche avancées.
 
@@ -71,7 +71,7 @@ Alchemi Code 3.25 apporte de puissantes nouvelles fonctionnalités et des améli
 
 ## Démarrage rapide
 
-1. [Installer Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Installer Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Connecter votre fournisseur d'IA](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Essayer votre première tâche](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -166,7 +166,7 @@ Nous utilisons [changesets](https://github.com/changesets/changesets) pour le ve
 
 ## Avertissement
 
-**Veuillez noter** que Roo Code, Inc **ne fait** aucune représentation ou garantie concernant tout code, modèle ou autre outil fourni ou mis à disposition en relation avec Roo Code, tout outil tiers associé, ou tout résultat. Vous assumez **tous les risques** associés à l'utilisation de tels outils ou résultats ; ces outils sont fournis **"TELS QUELS"** et **"SELON DISPONIBILITÉ"**. Ces risques peuvent inclure, sans s'y limiter, la violation de propriété intellectuelle, les vulnérabilités ou attaques cyber, les biais, les inexactitudes, les erreurs, les défauts, les virus, les temps d'arrêt, la perte ou les dommages matériels, et/ou les blessures corporelles. Vous êtes seul responsable de votre utilisation de ces outils ou résultats (y compris, mais sans s'y limiter, leur légalité, pertinence et résultats).
+**Veuillez noter** que Alchemi Code, Inc **ne fait** aucune représentation ou garantie concernant tout code, modèle ou autre outil fourni ou mis à disposition en relation avec Alchemi Code, tout outil tiers associé, ou tout résultat. Vous assumez **tous les risques** associés à l'utilisation de tels outils ou résultats ; ces outils sont fournis **"TELS QUELS"** et **"SELON DISPONIBILITÉ"**. Ces risques peuvent inclure, sans s'y limiter, la violation de propriété intellectuelle, les vulnérabilités ou attaques cyber, les biais, les inexactitudes, les erreurs, les défauts, les virus, les temps d'arrêt, la perte ou les dommages matériels, et/ou les blessures corporelles. Vous êtes seul responsable de votre utilisation de ces outils ou résultats (y compris, mais sans s'y limiter, leur légalité, pertinence et résultats).
 
 ---
 
@@ -228,7 +228,7 @@ Merci à tous nos contributeurs qui ont aidé à améliorer Alchemi Code !
 
 ## Licence
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 

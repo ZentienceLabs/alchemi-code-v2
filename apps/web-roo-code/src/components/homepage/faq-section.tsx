@@ -13,7 +13,7 @@ interface FAQItem {
 
 const faqs: FAQItem[] = [
 	{
-		question: "What exactly is Roo Code?",
+		question: "What exactly is Alchemi Code?",
 		answer: (
 			<>
 				Alchemi Code is an open-source, AI-powered coding assistant that runs in VS Code. It goes beyond simple
@@ -63,7 +63,7 @@ const faqs: FAQItem[] = [
 				Alchemi Code is fully model-agnostic, giving you the flexibility to work with whatever AI models you
 				prefer. It supports OpenAI models (like GPT-4o, GPT-4, and o1), Anthropic&apos;s Claude (including
 				Claude 3.5 Sonnet), Google&apos;s Gemini models, and local LLMs via APIs or specialized plugins. You can
-				even connect any other model that follows Roo Code&apos;s Model Context Protocol (MCP).
+				even connect any other model that follows Alchemi Code&apos;s Model Context Protocol (MCP).
 			</>
 		),
 	},
@@ -136,7 +136,7 @@ const faqs: FAQItem[] = [
 		question: "Can Alchemi Code run commands and tests automatically?",
 		answer: (
 			<>
-				Yes! One of Roo Code&apos;s biggest strengths is its ability to execute commands—always optional and
+				Yes! One of Alchemi Code&apos;s biggest strengths is its ability to execute commands—always optional and
 				fully permission-based. It can run terminal commands like npm install, execute your test suites, and
 				even open a web browser for integration testing when you approve it.
 			</>
@@ -153,7 +153,7 @@ const faqs: FAQItem[] = [
 		),
 	},
 	{
-		question: "Can I contribute to Roo Code?",
+		question: "Can I contribute to Alchemi Code?",
 		answer: (
 			<>
 				Yes, please do! Alchemi Code is open-source on{" "}

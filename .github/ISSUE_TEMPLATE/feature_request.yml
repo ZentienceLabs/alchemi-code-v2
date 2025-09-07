@@ -1,13 +1,13 @@
 name: Detailed Feature Proposal
-description: Report a specific problem that needs solving in Roo Code
+description: Report a specific problem that needs solving in Alchemi Code
 labels: ["proposal", "enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        **Thank you for submitting a feature request for Roo Code!**
+        **Thank you for submitting a feature request for Alchemi Code!**
         
-        This template helps you describe problems that need solving. Focus on the problem - the Roo team will work to design solutions unless you want to contribute the implementation yourself.
+        This template helps you describe problems that need solving. Focus on the problem - the Alchemi team will work to design solutions unless you want to contribute the implementation yourself.
         
         **Quality over speed:** We prefer detailed, clear problem descriptions over quick ones. Vague requests often get closed or require multiple rounds of clarification, which wastes everyone's time.
         

@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Tham Gia Cộng Đồng Roo Code</h2>
+  <h2>Tham Gia Cộng Đồng Alchemi Code</h2>
   <p>Kết nối với các nhà phát triển, đóng góp ý tưởng và cập nhật với các công cụ lập trình mới nhất được hỗ trợ bởi AI.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Tham%20gia%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Tham gia Discord"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** là một **tác nhân lập trình tự trị** được hỗ trợ bởi AI sống trong trình soạn thảo của bạn. Nó có thể:
+**Alchemi Code** là một **tác nhân lập trình tự trị** được hỗ trợ bởi AI sống trong trình soạn thảo của bạn. Nó có thể:
 
 - Giao tiếp bằng ngôn ngữ tự nhiên
 - Đọc và ghi các tập tin trực tiếp trong không gian làm việc của bạn
@@ -71,7 +71,7 @@ Alchemi Code 3.25 mang đến những tính năng mới mạnh mẽ và cải ti
 
 ## Bắt Đầu Nhanh
 
-1. [Cài đặt Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Cài đặt Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Kết nối Nhà cung cấp AI của bạn](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Thử tác vụ đầu tiên của bạn](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -166,7 +166,7 @@ Chúng tôi sử dụng [changesets](https://github.com/changesets/changesets) �
 
 ## Tuyên Bố Miễn Trừ Trách Nhiệm
 
-**Xin lưu ý** rằng Roo Code, Inc **không** đưa ra bất kỳ tuyên bố hoặc bảo đảm nào liên quan đến bất kỳ mã, mô hình, hoặc công cụ khác được cung cấp hoặc cung cấp liên quan đến Roo Code, bất kỳ công cụ bên thứ ba liên quan, hoặc bất kỳ đầu ra nào. Bạn chịu **tất cả rủi ro** liên quan đến việc sử dụng bất kỳ công cụ hoặc đầu ra như vậy; các công cụ đó được cung cấp trên cơ sở **"NGUYÊN TRẠNG"** và **"NHƯ CÓ SẴN"**. Những rủi ro đó có thể bao gồm, không giới hạn, vi phạm sở hữu trí tuệ, lỗ hổng mạng hoặc tấn công, thành kiến, không chính xác, lỗi, khiếm khuyết, virus, thời gian ngừng hoạt động, mất mát hoặc hư hỏng tài sản, và/hoặc thương tích cá nhân. Bạn hoàn toàn chịu trách nhiệm về việc sử dụng bất kỳ công cụ hoặc đầu ra như vậy (bao gồm, không giới hạn, tính hợp pháp, phù hợp và kết quả của chúng).
+**Xin lưu ý** rằng Alchemi Code, Inc **không** đưa ra bất kỳ tuyên bố hoặc bảo đảm nào liên quan đến bất kỳ mã, mô hình, hoặc công cụ khác được cung cấp hoặc cung cấp liên quan đến Alchemi Code, bất kỳ công cụ bên thứ ba liên quan, hoặc bất kỳ đầu ra nào. Bạn chịu **tất cả rủi ro** liên quan đến việc sử dụng bất kỳ công cụ hoặc đầu ra như vậy; các công cụ đó được cung cấp trên cơ sở **"NGUYÊN TRẠNG"** và **"NHƯ CÓ SẴN"**. Những rủi ro đó có thể bao gồm, không giới hạn, vi phạm sở hữu trí tuệ, lỗ hổng mạng hoặc tấn công, thành kiến, không chính xác, lỗi, khiếm khuyết, virus, thời gian ngừng hoạt động, mất mát hoặc hư hỏng tài sản, và/hoặc thương tích cá nhân. Bạn hoàn toàn chịu trách nhiệm về việc sử dụng bất kỳ công cụ hoặc đầu ra như vậy (bao gồm, không giới hạn, tính hợp pháp, phù hợp và kết quả của chúng).
 
 ---
 
@@ -178,7 +178,7 @@ Chúng tôi rất hoan nghênh đóng góp từ cộng đồng! Bắt đầu b�
 
 ## Người Đóng Góp
 
-Cảm ơn tất cả những người đóng góp đã giúp cải thiện Roo Code!
+Cảm ơn tất cả những người đóng góp đã giúp cải thiện Alchemi Code!
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 
@@ -228,8 +228,8 @@ Cảm ơn tất cả những người đóng góp đã giúp cải thiện Roo C
 
 ## Giấy Phép
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**Hãy tận hưởng Roo Code!** Cho dù bạn giữ nó trên dây ngắn hay để nó tự do hoạt động, chúng tôi rất mong được thấy những gì bạn xây dựng. Nếu bạn có câu hỏi hoặc ý tưởng về tính năng, hãy ghé qua [cộng đồng Reddit](https://www.reddit.com/r/RooCode/) hoặc [Discord](https://discord.gg/roocode) của chúng tôi. Chúc lập trình vui vẻ!
+**Hãy tận hưởng Alchemi Code!** Cho dù bạn giữ nó trên dây ngắn hay để nó tự do hoạt động, chúng tôi rất mong được thấy những gì bạn xây dựng. Nếu bạn có câu hỏi hoặc ý tưởng về tính năng, hãy ghé qua [cộng đồng Reddit](https://www.reddit.com/r/RooCode/) hoặc [Discord](https://discord.gg/roocode) của chúng tôi. Chúc lập trình vui vẻ!

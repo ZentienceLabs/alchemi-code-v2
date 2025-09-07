@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Roo Code",
+		"name": "Alchemi Code",
 		"description": "Cały zespół programistów AI w Twoim edytorze."
 	},
 	"number_format": {
@@ -85,7 +85,7 @@
 			"processExitedWithError": "Proces Claude Code zakończył się kodem {{exitCode}}. Wyjście błędu: {{output}}",
 			"stoppedWithReason": "Claude Code zatrzymał się z powodu: {{reason}}",
 			"apiKeyModelPlanMismatch": "API keys and subscription plans allow different models. Make sure the selected model is included in your plan.",
-			"notFound": "Claude Code executable '{{claudePath}}' not found.\n\nPlease install Claude Code CLI:\n1. Visit {{installationUrl}} to download Claude Code\n2. Follow the installation instructions for your operating system\n3. Ensure the 'claude' command is available in your PATH\n4. Alternatively, configure a custom path in Roo settings under 'Claude Code Path'\n\nOriginal error: {{originalError}}"
+			"notFound": "Claude Code executable '{{claudePath}}' not found.\n\nPlease install Claude Code CLI:\n1. Visit {{installationUrl}} to download Claude Code\n2. Follow the installation instructions for your operating system\n3. Ensure the 'claude' command is available in your PATH\n4. Alternatively, configure a custom path in Alchemi settings under 'Claude Code Path'\n\nOriginal error: {{originalError}}"
 		},
 		"gemini": {
 			"generate_stream": "Błąd strumienia kontekstu generowania Gemini: {{error}}",
@@ -102,7 +102,7 @@
 			"completionError": "Błąd uzupełniania Cerebras: {{error}}"
 		},
 		"roo": {
-			"authenticationRequired": "Dostawca Roo wymaga uwierzytelnienia w chmurze. Zaloguj się do Alchemi Code Cloud."
+			"authenticationRequired": "Dostawca Alchemi wymaga uwierzytelnienia w chmurze. Zaloguj się do Alchemi Code Cloud."
 		},
 		"api": {
 			"invalidKeyInvalidChars": "Klucz API zawiera nieprawidłowe znaki."

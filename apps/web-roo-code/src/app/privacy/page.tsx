@@ -49,7 +49,7 @@ export default function Privacy() {
 					<p className="text-muted-foreground">Last Updated: August 20, 2025</p>
 
 					<p className="lead">
-						This Privacy Policy explains how Roo Code, Inc. (&quot;Roo Code,&quot; &quot;we,&quot;
+						This Privacy Policy explains how Alchemi Code, Inc. (&quot;Alchemi Code,&quot; &quot;we,&quot;
 						&quot;our,&quot; or &quot;us&quot;) collects, uses, and shares information when you:
 					</p>
 					<ul className="lead">

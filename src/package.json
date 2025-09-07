@@ -2,9 +2,9 @@
 	"name": "alchemi-code",
 	"displayName": "%extension.displayName%",
 	"description": "%extension.description%",
-	"publisher": "RooVeterinaryInc",
+	"publisher": "AlchemiStudio",
 	"version": "3.27.0",
-	"icon": "assets/icons/icon.png",
+	"icon": "assets/icons/alchemi-code-logo.png",
 	"galleryBanner": {
 		"color": "#617A91",
 		"theme": "dark"
@@ -14,7 +14,7 @@
 		"node": "20.19.2"
 	},
 	"author": {
-		"name": "Roo Code"
+		"name": "Alchemi Code"
 	},
 	"repository": {
 		"type": "git",
@@ -56,7 +56,7 @@
 				{
 					"id": "alchemi-code-ActivityBar",
 					"title": "%views.activitybar.title%",
-					"icon": "assets/icons/icon.svg"
+					"icon": "assets/images/alchemi-code-logo.svg"
 				}
 			]
 		},

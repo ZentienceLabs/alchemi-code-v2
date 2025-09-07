@@ -55,7 +55,7 @@ export function Footer() {
 							className="inline-flex items-center space-x-2 group">
 							<Image
 								src={resolvedTheme === "light" ? "/RooCode-Badge-blk.svg" : "/RooCode-Badge-white.svg"}
-								alt="Made with Roo Code"
+								alt="Made with Alchemi Code"
 								width={120}
 								height={40}
 								className="h-8 w-auto opacity-70 transition-opacity group-hover:opacity-100"
@@ -347,7 +347,7 @@ export function Footer() {
 
 				<div className="mt-16 flex border-t border-border pt-8 sm:mt-20 lg:mt-24">
 					<p className="mx-auto text-sm leading-5 text-muted-foreground">
-						&copy; {new Date().getFullYear()} Roo Code. All rights reserved.
+						&copy; {new Date().getFullYear()} Alchemi Code. All rights reserved.
 					</p>
 				</div>
 			</div>

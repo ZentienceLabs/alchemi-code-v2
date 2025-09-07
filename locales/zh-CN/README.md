@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** 是一个 AI 驱动的**自主编码代理**，它存在于您的编辑器中。它可以：
+**Alchemi Code** 是一个 AI 驱动的**自主编码代理**，它存在于您的编辑器中。它可以：
 
 - 用自然语言沟通
 - 直接在您的工作区读写文件
@@ -71,7 +71,7 @@ Alchemi Code 3.25 带来强大的新功能和重大改进，提升您的开发�
 
 ## 快速入门
 
-1. [安装 Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [安装 Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [连接您的 AI 提供者](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [尝试您的第一个任务](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -166,7 +166,7 @@ code --install-extension bin/alchemi-code-<version>.vsix
 
 ## 免责声明
 
-**请注意**，Roo Code, Inc **不**对与 Alchemi Code 相关提供或可用的任何代码、模型或其他工具，任何相关的第三方工具，或任何结果作出任何陈述或保证。您承担使用任何此类工具或输出的**所有风险**；此类工具按**"原样"**和**"可用性"**提供。此类风险可能包括但不限于知识产权侵权、网络漏洞或攻击、偏见、不准确、错误、缺陷、病毒、停机时间、财产损失或损坏和/或人身伤害。您对任何此类工具或输出的使用（包括但不限于其合法性、适当性和结果）负全部责任。
+**请注意**，Alchemi Code, Inc **不**对与 Alchemi Code 相关提供或可用的任何代码、模型或其他工具，任何相关的第三方工具，或任何结果作出任何陈述或保证。您承担使用任何此类工具或输出的**所有风险**；此类工具按**"原样"**和**"可用性"**提供。此类风险可能包括但不限于知识产权侵权、网络漏洞或攻击、偏见、不准确、错误、缺陷、病毒、停机时间、财产损失或损坏和/或人身伤害。您对任何此类工具或输出的使用（包括但不限于其合法性、适当性和结果）负全部责任。
 
 ---
 
@@ -228,8 +228,8 @@ code --install-extension bin/alchemi-code-<version>.vsix
 
 ## 许可证
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**享受 Roo Code！** 无论您是让它保持短绳还是让它自主漫游，我们都迫不及待地想看看您会构建什么。如果您有问题或功能想法，请访问我们的 [Reddit 社区](https://www.reddit.com/r/RooCode/)或 [Discord](https://discord.gg/roocode)。编码愉快！
+**享受 Alchemi Code！** 无论您是让它保持短绳还是让它自主漫游，我们都迫不及待地想看看您会构建什么。如果您有问题或功能想法，请访问我们的 [Reddit 社区](https://www.reddit.com/r/RooCode/)或 [Discord](https://discord.gg/roocode)。编码愉快！

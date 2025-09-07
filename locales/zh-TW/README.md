@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -36,7 +36,7 @@
 
 </div>
 
-**Roo Code** 是一個存在於您編輯器中的 AI 驅動**自主程式開發助手**。它能夠：
+**Alchemi Code** 是一個存在於您編輯器中的 AI 驅動**自主程式開發助手**。它能夠：
 
 - 使用自然語言與您溝通
 - 直接讀寫您工作區中的檔案
@@ -72,7 +72,7 @@ Alchemi Code 3.25 帶來強大的新功能和重大改進，以提升您的開�
 
 ## 快速開始
 
-1. [安裝 Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [安裝 Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [連接您的 AI 提供者](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [嘗試您的第一個任務](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -97,7 +97,7 @@ Alchemi Code 內建強大的[工具](https://docs.roocode.com/basic-usage/how-to
 - 控制網頁瀏覽器
 - 透過 [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp) 使用外部工具
 
-透過 MCP，您可以無限制地新增自訂工具，進一步擴充 Alchemi Code 的功能。無論是整合外部 API、連接資料庫，或建立專屬的開發工具，MCP 都提供完整的框架，讓您依據自身需求靈活擴充 Roo Code。
+透過 MCP，您可以無限制地新增自訂工具，進一步擴充 Alchemi Code 的功能。無論是整合外部 API、連接資料庫，或建立專屬的開發工具，MCP 都提供完整的框架，讓您依據自身需求靈活擴充 Alchemi Code。
 
 ### 客製化
 
@@ -167,7 +167,7 @@ code --install-extension bin/alchemi-code-<version>.vsix
 
 ## 免責聲明
 
-**請注意**，Roo Code, Inc. **不**對與 Alchemi Code 相關的任何程式碼、模型或其他工具、任何相關的第三方工具，或任何產生的輸出提供任何陳述或保證。您使用這些工具或輸出時，需自行承擔**所有相關風險**；這些工具係以**「現況」**及**「現有」**基礎提供。上述風險包括但不限於智慧財產權侵害、網路安全漏洞或攻擊、偏見、不準確性、錯誤、缺陷、病毒、停機時間、財產損失或損害，以及／或人身傷害。您須自行負責使用這些工具或輸出所產生的任何結果（包括但不限於其合法性、適當性及後果）。
+**請注意**，Alchemi Code, Inc. **不**對與 Alchemi Code 相關的任何程式碼、模型或其他工具、任何相關的第三方工具，或任何產生的輸出提供任何陳述或保證。您使用這些工具或輸出時，需自行承擔**所有相關風險**；這些工具係以**「現況」**及**「現有」**基礎提供。上述風險包括但不限於智慧財產權侵害、網路安全漏洞或攻擊、偏見、不準確性、錯誤、缺陷、病毒、停機時間、財產損失或損害，以及／或人身傷害。您須自行負責使用這些工具或輸出所產生的任何結果（包括但不限於其合法性、適當性及後果）。
 
 ---
 
@@ -229,8 +229,8 @@ code --install-extension bin/alchemi-code-<version>.vsix
 
 ## 授權
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**享受 Roo Code！** 無論您是將它拴在短繩上還是讓它自主漫遊，我們迫不及待地想看看您會建構什麼。如果您有問題或功能想法，請造訪我們的 [Reddit 社群](https://www.reddit.com/r/RooCode/)或 [Discord](https://discord.gg/roocode)。祝您開發愉快！
+**享受 Alchemi Code！** 無論您是將它拴在短繩上還是讓它自主漫遊，我們迫不及待地想看看您會建構什麼。如果您有問題或功能想法，請造訪我們的 [Reddit 社群](https://www.reddit.com/r/RooCode/)或 [Discord](https://discord.gg/roocode)。祝您開發愉快！

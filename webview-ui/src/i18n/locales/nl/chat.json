@@ -1,5 +1,5 @@
 {
-	"greeting": "Welkom bij Roo Code",
+	"greeting": "Welkom bij Alchemi Code",
 	"task": {
 		"title": "Taak",
 		"expand": "Taak uitvouwen",
@@ -111,7 +111,7 @@
 		"title": "Modi",
 		"marketplace": "Modus Marktplaats",
 		"settings": "Modus Instellingen",
-		"description": "Gespecialiseerde persona's die het gedrag van Roo aanpassen.",
+		"description": "Gespecialiseerde persona's die het gedrag van Alchemi aanpassen.",
 		"searchPlaceholder": "Zoek modi...",
 		"noResults": "Geen resultaten gevonden"
 	},
@@ -153,46 +153,46 @@
 		"current": "Huidig"
 	},
 	"instructions": {
-		"wantsToFetch": "Roo wil gedetailleerde instructies ophalen om te helpen met de huidige taak"
+		"wantsToFetch": "Alchemi wil gedetailleerde instructies ophalen om te helpen met de huidige taak"
 	},
 	"fileOperations": {
-		"wantsToRead": "Roo wil dit bestand lezen:",
-		"wantsToReadOutsideWorkspace": "Roo wil dit bestand buiten de werkruimte lezen:",
-		"didRead": "Roo heeft dit bestand gelezen:",
-		"wantsToEdit": "Roo wil dit bestand bewerken:",
-		"wantsToEditOutsideWorkspace": "Roo wil dit bestand buiten de werkruimte bewerken:",
-		"wantsToEditProtected": "Roo wil een beveiligd configuratiebestand bewerken:",
-		"wantsToCreate": "Roo wil een nieuw bestand aanmaken:",
-		"wantsToSearchReplace": "Roo wil zoeken en vervangen in dit bestand:",
-		"didSearchReplace": "Roo heeft zoeken en vervangen uitgevoerd op dit bestand:",
-		"wantsToInsert": "Roo wil inhoud invoegen in dit bestand:",
-		"wantsToInsertWithLineNumber": "Roo wil inhoud invoegen in dit bestand op regel {{lineNumber}}:",
-		"wantsToInsertAtEnd": "Roo wil inhoud toevoegen aan het einde van dit bestand:",
-		"wantsToReadAndXMore": "Roo wil dit bestand en nog {{count}} andere lezen:",
-		"wantsToReadMultiple": "Roo wil meerdere bestanden lezen:",
-		"wantsToApplyBatchChanges": "Roo wil wijzigingen toepassen op meerdere bestanden:",
-		"wantsToGenerateImage": "Roo wil een afbeelding genereren:",
-		"wantsToGenerateImageOutsideWorkspace": "Roo wil een afbeelding genereren buiten de werkruimte:",
-		"wantsToGenerateImageProtected": "Roo wil een afbeelding genereren op een beschermde locatie:",
-		"didGenerateImage": "Roo heeft een afbeelding gegenereerd:"
+		"wantsToRead": "Alchemi wil dit bestand lezen:",
+		"wantsToReadOutsideWorkspace": "Alchemi wil dit bestand buiten de werkruimte lezen:",
+		"didRead": "Alchemi heeft dit bestand gelezen:",
+		"wantsToEdit": "Alchemi wil dit bestand bewerken:",
+		"wantsToEditOutsideWorkspace": "Alchemi wil dit bestand buiten de werkruimte bewerken:",
+		"wantsToEditProtected": "Alchemi wil een beveiligd configuratiebestand bewerken:",
+		"wantsToCreate": "Alchemi wil een nieuw bestand aanmaken:",
+		"wantsToSearchReplace": "Alchemi wil zoeken en vervangen in dit bestand:",
+		"didSearchReplace": "Alchemi heeft zoeken en vervangen uitgevoerd op dit bestand:",
+		"wantsToInsert": "Alchemi wil inhoud invoegen in dit bestand:",
+		"wantsToInsertWithLineNumber": "Alchemi wil inhoud invoegen in dit bestand op regel {{lineNumber}}:",
+		"wantsToInsertAtEnd": "Alchemi wil inhoud toevoegen aan het einde van dit bestand:",
+		"wantsToReadAndXMore": "Alchemi wil dit bestand en nog {{count}} andere lezen:",
+		"wantsToReadMultiple": "Alchemi wil meerdere bestanden lezen:",
+		"wantsToApplyBatchChanges": "Alchemi wil wijzigingen toepassen op meerdere bestanden:",
+		"wantsToGenerateImage": "Alchemi wil een afbeelding genereren:",
+		"wantsToGenerateImageOutsideWorkspace": "Alchemi wil een afbeelding genereren buiten de werkruimte:",
+		"wantsToGenerateImageProtected": "Alchemi wil een afbeelding genereren op een beschermde locatie:",
+		"didGenerateImage": "Alchemi heeft een afbeelding gegenereerd:"
 	},
 	"directoryOperations": {
-		"wantsToViewTopLevel": "Roo wil de bovenliggende bestanden in deze map bekijken:",
-		"didViewTopLevel": "Roo heeft de bovenliggende bestanden in deze map bekeken:",
-		"wantsToViewRecursive": "Roo wil alle bestanden in deze map recursief bekijken:",
-		"didViewRecursive": "Roo heeft alle bestanden in deze map recursief bekeken:",
-		"wantsToViewDefinitions": "Roo wil broncode-definitienamen bekijken die in deze map worden gebruikt:",
-		"didViewDefinitions": "Roo heeft broncode-definitienamen bekeken die in deze map worden gebruikt:",
-		"wantsToSearch": "Roo wil deze map doorzoeken op <code>{{regex}}</code>:",
-		"didSearch": "Roo heeft deze map doorzocht op <code>{{regex}}</code>:",
-		"wantsToSearchOutsideWorkspace": "Roo wil deze map (buiten werkruimte) doorzoeken op <code>{{regex}}</code>:",
-		"didSearchOutsideWorkspace": "Roo heeft deze map (buiten werkruimte) doorzocht op <code>{{regex}}</code>:",
-		"wantsToViewTopLevelOutsideWorkspace": "Roo wil de bovenliggende bestanden in deze map (buiten werkruimte) bekijken:",
-		"didViewTopLevelOutsideWorkspace": "Roo heeft de bovenliggende bestanden in deze map (buiten werkruimte) bekeken:",
-		"wantsToViewRecursiveOutsideWorkspace": "Roo wil alle bestanden in deze map (buiten werkruimte) recursief bekijken:",
-		"didViewRecursiveOutsideWorkspace": "Roo heeft alle bestanden in deze map (buiten werkruimte) recursief bekeken:",
-		"wantsToViewDefinitionsOutsideWorkspace": "Roo wil broncode-definitienamen bekijken die in deze map (buiten werkruimte) worden gebruikt:",
-		"didViewDefinitionsOutsideWorkspace": "Roo heeft broncode-definitienamen bekeken die in deze map (buiten werkruimte) worden gebruikt:"
+		"wantsToViewTopLevel": "Alchemi wil de bovenliggende bestanden in deze map bekijken:",
+		"didViewTopLevel": "Alchemi heeft de bovenliggende bestanden in deze map bekeken:",
+		"wantsToViewRecursive": "Alchemi wil alle bestanden in deze map recursief bekijken:",
+		"didViewRecursive": "Alchemi heeft alle bestanden in deze map recursief bekeken:",
+		"wantsToViewDefinitions": "Alchemi wil broncode-definitienamen bekijken die in deze map worden gebruikt:",
+		"didViewDefinitions": "Alchemi heeft broncode-definitienamen bekeken die in deze map worden gebruikt:",
+		"wantsToSearch": "Alchemi wil deze map doorzoeken op <code>{{regex}}</code>:",
+		"didSearch": "Alchemi heeft deze map doorzocht op <code>{{regex}}</code>:",
+		"wantsToSearchOutsideWorkspace": "Alchemi wil deze map (buiten werkruimte) doorzoeken op <code>{{regex}}</code>:",
+		"didSearchOutsideWorkspace": "Alchemi heeft deze map (buiten werkruimte) doorzocht op <code>{{regex}}</code>:",
+		"wantsToViewTopLevelOutsideWorkspace": "Alchemi wil de bovenliggende bestanden in deze map (buiten werkruimte) bekijken:",
+		"didViewTopLevelOutsideWorkspace": "Alchemi heeft de bovenliggende bestanden in deze map (buiten werkruimte) bekeken:",
+		"wantsToViewRecursiveOutsideWorkspace": "Alchemi wil alle bestanden in deze map (buiten werkruimte) recursief bekijken:",
+		"didViewRecursiveOutsideWorkspace": "Alchemi heeft alle bestanden in deze map (buiten werkruimte) recursief bekeken:",
+		"wantsToViewDefinitionsOutsideWorkspace": "Alchemi wil broncode-definitienamen bekijken die in deze map (buiten werkruimte) worden gebruikt:",
+		"didViewDefinitionsOutsideWorkspace": "Alchemi heeft broncode-definitienamen bekeken die in deze map (buiten werkruimte) worden gebruikt:"
 	},
 	"commandOutput": "Commando-uitvoer",
 	"commandExecution": {
@@ -214,18 +214,18 @@
 	"response": "Antwoord",
 	"arguments": "Argumenten",
 	"mcp": {
-		"wantsToUseTool": "Roo wil een tool gebruiken op de {{serverName}} MCP-server:",
-		"wantsToAccessResource": "Roo wil een bron benaderen op de {{serverName}} MCP-server:"
+		"wantsToUseTool": "Alchemi wil een tool gebruiken op de {{serverName}} MCP-server:",
+		"wantsToAccessResource": "Alchemi wil een bron benaderen op de {{serverName}} MCP-server:"
 	},
 	"modes": {
-		"wantsToSwitch": "Roo wil overschakelen naar {{mode}} modus",
-		"wantsToSwitchWithReason": "Roo wil overschakelen naar {{mode}} modus omdat: {{reason}}",
-		"didSwitch": "Roo is overgeschakeld naar {{mode}} modus",
-		"didSwitchWithReason": "Roo is overgeschakeld naar {{mode}} modus omdat: {{reason}}"
+		"wantsToSwitch": "Alchemi wil overschakelen naar {{mode}} modus",
+		"wantsToSwitchWithReason": "Alchemi wil overschakelen naar {{mode}} modus omdat: {{reason}}",
+		"didSwitch": "Alchemi is overgeschakeld naar {{mode}} modus",
+		"didSwitchWithReason": "Alchemi is overgeschakeld naar {{mode}} modus omdat: {{reason}}"
 	},
 	"subtasks": {
-		"wantsToCreate": "Roo wil een nieuwe subtaak aanmaken in {{mode}} modus:",
-		"wantsToFinish": "Roo wil deze subtaak voltooien",
+		"wantsToCreate": "Alchemi wil een nieuwe subtaak aanmaken in {{mode}} modus:",
+		"wantsToFinish": "Alchemi wil deze subtaak voltooien",
 		"newTaskContent": "Subtaak-instructies",
 		"completionContent": "Subtaak voltooid",
 		"resultContent": "Subtaakresultaten",
@@ -233,14 +233,14 @@
 		"completionInstructions": "Subtaak voltooid! Je kunt de resultaten bekijken en eventuele correcties of volgende stappen voorstellen. Als alles goed is, bevestig dan om het resultaat terug te sturen naar de hoofdtaak."
 	},
 	"questions": {
-		"hasQuestion": "Roo heeft een vraag:"
+		"hasQuestion": "Alchemi heeft een vraag:"
 	},
 	"taskCompleted": "Taak voltooid",
 	"error": "Fout",
 	"diffError": {
 		"title": "Bewerking mislukt"
 	},
-	"troubleMessage": "Roo ondervindt problemen...",
+	"troubleMessage": "Alchemi ondervindt problemen...",
 	"powershell": {
 		"issues": "Het lijkt erop dat je problemen hebt met Windows PowerShell, zie deze"
 	},
@@ -262,7 +262,7 @@
 		},
 		"description": "Alchemi Code {{version}} brengt krachtige nieuwe functies en significante verbeteringen om je ontwikkelingsworkflow te verbeteren.",
 		"whatsNew": "Wat is er nieuw",
-		"feature1": "<bold>Berichtenwachtrij</bold>: Zet meerdere berichten in de wachtrij terwijl Roo werkt, zodat je je workflow kunt blijven plannen zonder onderbreking.",
+		"feature1": "<bold>Berichtenwachtrij</bold>: Zet meerdere berichten in de wachtrij terwijl Alchemi werkt, zodat je je workflow kunt blijven plannen zonder onderbreking.",
 		"feature2": "<bold>Aangepaste Slash Commando's</bold>: Maak gepersonaliseerde slash commando's voor snelle toegang tot veelgebruikte prompts en workflows, met volledige UI-beheer.",
 		"feature3": "<bold>Verbeterde Gemini Tools</bold>: Nieuwe URL-context en Google Search grounding mogelijkheden bieden Gemini modellen realtime webinformatie en verbeterde onderzoeksmogelijkheden.",
 		"hideButton": "Aankondiging verbergen",
@@ -284,7 +284,7 @@
 		"countdownDisplay": "{{count}}s"
 	},
 	"browser": {
-		"rooWantsToUse": "Roo wil de browser gebruiken:",
+		"rooWantsToUse": "Alchemi wil de browser gebruiken:",
 		"consoleLogs": "Console-logboeken",
 		"noNewLogs": "(Geen nieuwe logboeken)",
 		"screenshot": "Browserschermopname",
@@ -318,24 +318,24 @@
 	"profileViolationWarning": "Het huidige profiel is niet compatibel met de instellingen van uw organisatie",
 	"shellIntegration": {
 		"title": "Waarschuwing commando-uitvoering",
-		"description": "Je commando wordt uitgevoerd zonder VSCode-terminal shell-integratie. Om deze waarschuwing te onderdrukken kun je shell-integratie uitschakelen in het gedeelte <strong>Terminal</strong> van de <settingsLink>Roo Code-instellingen</settingsLink> of de VSCode-terminalintegratie oplossen via de onderstaande link.",
+		"description": "Je commando wordt uitgevoerd zonder VSCode-terminal shell-integratie. Om deze waarschuwing te onderdrukken kun je shell-integratie uitschakelen in het gedeelte <strong>Terminal</strong> van de <settingsLink>Alchemi Code-instellingen</settingsLink> of de VSCode-terminalintegratie oplossen via de onderstaande link.",
 		"troubleshooting": "Klik hier voor shell-integratie documentatie."
 	},
 	"ask": {
 		"autoApprovedRequestLimitReached": {
 			"title": "Limiet voor automatisch goedgekeurde verzoeken bereikt",
-			"description": "Roo heeft de automatisch goedgekeurde limiet van {{count}} API-verzoek(en) bereikt. Wil je de teller resetten en doorgaan met de taak?",
+			"description": "Alchemi heeft de automatisch goedgekeurde limiet van {{count}} API-verzoek(en) bereikt. Wil je de teller resetten en doorgaan met de taak?",
 			"button": "Resetten en doorgaan"
 		},
 		"autoApprovedCostLimitReached": {
 			"title": "Limiet voor automatisch goedgekeurde kosten bereikt",
 			"button": "Resetten en doorgaan",
-			"description": "Roo heeft de automatisch goedgekeurde kostenlimiet van ${{count}} bereikt. Wilt u de kosten resetten en doorgaan met de taak?"
+			"description": "Alchemi heeft de automatisch goedgekeurde kostenlimiet van ${{count}} bereikt. Wilt u de kosten resetten en doorgaan met de taak?"
 		}
 	},
 	"codebaseSearch": {
-		"wantsToSearch": "Roo wil de codebase doorzoeken op <code>{{query}}</code>:",
-		"wantsToSearchWithPath": "Roo wil de codebase doorzoeken op <code>{{query}}</code> in <code>{{path}}</code>:",
+		"wantsToSearch": "Alchemi wil de codebase doorzoeken op <code>{{query}}</code>:",
+		"wantsToSearchWithPath": "Alchemi wil de codebase doorzoeken op <code>{{query}}</code> in <code>{{path}}</code>:",
 		"didSearch_one": "1 resultaat gevonden",
 		"didSearch_other": "{{count}} resultaten gevonden",
 		"resultTooltip": "Gelijkenisscore: {{score}} (klik om bestand te openen)"
@@ -393,7 +393,7 @@
 		"clickToEdit": "Klik om bericht te bewerken"
 	},
 	"slashCommand": {
-		"wantsToRun": "Roo wil een slash commando uitvoeren:",
-		"didRun": "Roo heeft een slash commando uitgevoerd:"
+		"wantsToRun": "Alchemi wil een slash commando uitvoeren:",
+		"didRun": "Alchemi heeft een slash commando uitgevoerd:"
 	}
 }

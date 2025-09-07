@@ -1,6 +1,6 @@
 import type { ModelInfo } from "../model.js"
 
-// Roo provider with single model
+// Alchemi provider with single model
 export type RooModelId = "xai/grok-code-fast-1"
 
 export const rooDefaultModelId: RooModelId = "xai/grok-code-fast-1"

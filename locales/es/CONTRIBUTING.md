@@ -11,7 +11,7 @@
 </sub>
 </div>
 
-# Contribuir a Roo Code
+# Contribuir a Alchemi Code
 
 Alchemi Code es un proyecto impulsado por la comunidad, y valoramos profundamente cada contribución. Para agilizar la colaboración, operamos con un enfoque [Issue-First](#enfoque-issue-first), lo que significa que todos los [Pull Requests (PRs)](#enviar-un-pull-request) deben estar vinculados primero a un Issue de GitHub. Por favor, revisa esta guía cuidadosamente.
 
@@ -52,7 +52,7 @@ Nuestra hoja de ruta guía la dirección del proyecto. Alinea tus contribuciones
 
 Menciona la alineación con estas áreas en tus PRs.
 
-### 3. Únete a la Comunidad Roo Code
+### 3. Únete a la Comunidad Alchemi Code
 
 - **Principal:** Únete a nuestro [Discord](https://discord.gg/roocode) y envía un DM a **Hannes Rudolph (`hrudolph`)**.
 - **Alternativa:** Los colaboradores experimentados pueden participar directamente a través de [GitHub Projects](https://github.com/orgs/RooCodeInc/projects/1).
@@ -135,4 +135,4 @@ npm run install:all
 
 ## Legal
 
-Al contribuir, aceptas que tus contribuciones serán licenciadas bajo la Licencia Apache 2.0, consistente con la licencia de Roo Code.
+Al contribuir, aceptas que tus contribuciones serán licenciadas bajo la Licencia Apache 2.0, consistente con la licencia de Alchemi Code.

@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Unisciti alla Community di Roo Code</h2>
+  <h2>Unisciti alla Community di Alchemi Code</h2>
   <p>Connettiti con gli sviluppatori, contribuisci con le tue idee e rimani aggiornato con gli ultimi strumenti di codifica basati sull'IA.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Unisciti%20a%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Unisciti a Discord"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** è un **agente di codifica autonomo** basato sull'IA che vive nel tuo editor. Può:
+**Alchemi Code** è un **agente di codifica autonomo** basato sull'IA che vive nel tuo editor. Può:
 
 - Comunicare in linguaggio naturale
 - Leggere e scrivere file direttamente nel tuo workspace
@@ -54,13 +54,13 @@ Consulta il [CHANGELOG](../../CHANGELOG.md) per aggiornamenti dettagliati e corr
 
 Alchemi Code 3.25 porta nuove funzionalità potenti e miglioramenti significativi per migliorare il tuo flusso di lavoro di sviluppo!
 
-- **Coda di messaggi** - Metti in coda più messaggi mentre Roo lavora, permettendoti di continuare a pianificare il tuo flusso di lavoro senza interruzioni.
+- **Coda di messaggi** - Metti in coda più messaggi mentre Alchemi lavora, permettendoti di continuare a pianificare il tuo flusso di lavoro senza interruzioni.
 - **Comandi slash personalizzati** - Crea comandi slash personalizzati per accesso rapido a prompt e flussi di lavoro utilizzati frequentemente con gestione completa dell'interfaccia utente.
 - **Strumenti Gemini avanzati** - Nuove funzionalità di contesto URL e fondamenti di ricerca Google forniscono ai modelli Gemini informazioni web in tempo reale e capacità di ricerca avanzate.
 
 ---
 
-## Cosa Può Fare Roo Code?
+## Cosa Può Fare Alchemi Code?
 
 - 🚀 **Generare Codice** da descrizioni in linguaggio naturale
 - 🔧 **Refactoring e Debug** del codice esistente
@@ -71,7 +71,7 @@ Alchemi Code 3.25 porta nuove funzionalità potenti e miglioramenti significativ
 
 ## Avvio Rapido
 
-1. [Installa Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Installa Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Connetti il tuo Provider IA](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Prova la tua Prima Attività](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -166,7 +166,7 @@ Utilizziamo [changesets](https://github.com/changesets/changesets) per la gestio
 
 ## Disclaimer
 
-**Si prega di notare** che Roo Code, Inc **non** fa alcuna dichiarazione o garanzia riguardo a qualsiasi codice, modello o altro strumento fornito o reso disponibile in relazione a Roo Code, qualsiasi strumento di terze parti associato o qualsiasi output risultante. Ti assumi **tutti i rischi** associati all'uso di tali strumenti o output; tali strumenti sono forniti su base **"COSÌ COM'È"** e **"COME DISPONIBILE"**. Tali rischi possono includere, senza limitazione, violazione della proprietà intellettuale, vulnerabilità o attacchi informatici, pregiudizi, imprecisioni, errori, difetti, virus, tempi di inattività, perdita o danneggiamento della proprietà e/o lesioni personali. Sei l'unico responsabile del tuo utilizzo di tali strumenti o output (inclusi, senza limitazione, la legalità, l'appropriatezza e i risultati degli stessi).
+**Si prega di notare** che Alchemi Code, Inc **non** fa alcuna dichiarazione o garanzia riguardo a qualsiasi codice, modello o altro strumento fornito o reso disponibile in relazione a Alchemi Code, qualsiasi strumento di terze parti associato o qualsiasi output risultante. Ti assumi **tutti i rischi** associati all'uso di tali strumenti o output; tali strumenti sono forniti su base **"COSÌ COM'È"** e **"COME DISPONIBILE"**. Tali rischi possono includere, senza limitazione, violazione della proprietà intellettuale, vulnerabilità o attacchi informatici, pregiudizi, imprecisioni, errori, difetti, virus, tempi di inattività, perdita o danneggiamento della proprietà e/o lesioni personali. Sei l'unico responsabile del tuo utilizzo di tali strumenti o output (inclusi, senza limitazione, la legalità, l'appropriatezza e i risultati degli stessi).
 
 ---
 
@@ -178,7 +178,7 @@ Amiamo i contributi della community! Inizia leggendo il nostro [CONTRIBUTING.md]
 
 ## Contributori
 
-Grazie a tutti i nostri contributori che hanno aiutato a migliorare Roo Code!
+Grazie a tutti i nostri contributori che hanno aiutato a migliorare Alchemi Code!
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 
@@ -228,8 +228,8 @@ Grazie a tutti i nostri contributori che hanno aiutato a migliorare Roo Code!
 
 ## Licenza
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**Goditi Roo Code!** Che tu lo tenga al guinzaglio corto o lo lasci vagare autonomamente, non vediamo l'ora di vedere cosa costruirai. Se hai domande o idee per funzionalità, passa dalla nostra [community di Reddit](https://www.reddit.com/r/RooCode/) o [Discord](https://discord.gg/roocode). Buona programmazione!
+**Goditi Alchemi Code!** Che tu lo tenga al guinzaglio corto o lo lasci vagare autonomamente, non vediamo l'ora di vedere cosa costruirai. Se hai domande o idee per funzionalità, passa dalla nostra [community di Reddit](https://www.reddit.com/r/RooCode/) o [Discord](https://discord.gg/roocode). Buona programmazione!

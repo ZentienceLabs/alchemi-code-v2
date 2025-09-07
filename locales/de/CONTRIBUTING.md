@@ -11,7 +11,7 @@
 </sub>
 </div>
 
-# Beitrag zu Roo Code
+# Beitrag zu Alchemi Code
 
 Alchemi Code ist ein Community-getriebenes Projekt, und wir schätzen jeden Beitrag sehr. Für eine reibungslose Zusammenarbeit arbeiten wir nach dem [Issue-First-Ansatz](#issue-first-ansatz), was bedeutet, dass alle [Pull Requests (PRs)](#einen-pull-request-einreichen) zuerst mit einem GitHub Issue verknüpft werden müssen. Bitte lies diesen Leitfaden sorgfältig durch.
 
@@ -135,4 +135,4 @@ npm run install:all
 
 ## Rechtliches
 
-Mit deinem Beitrag erklärst du dich damit einverstanden, dass deine Beiträge unter der Apache 2.0 Lizenz lizenziert werden, konsistent mit der Lizenzierung von Roo Code.
+Mit deinem Beitrag erklärst du dich damit einverstanden, dass deine Beiträge unter der Apache 2.0 Lizenz lizenziert werden, konsistent mit der Lizenzierung von Alchemi Code.

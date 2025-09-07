@@ -26,7 +26,7 @@ export const CloudView = ({ userInfo, isAuthenticated, cloudApiUrl, onDone }: Cl
 	const { remoteControlEnabled, setRemoteControlEnabled } = useExtensionState()
 	const wasAuthenticatedRef = useRef(false)
 
-	const rooLogoUri = (window as any).IMAGES_BASE_URI + "/roo-logo.svg"
+	const rooLogoUri = (window as any).IMAGES_BASE_URI + "/alchemi-code-logo.svg"
 
 	// Track authentication state changes to detect successful logout
 	useEffect(() => {
@@ -163,7 +163,7 @@ export const CloudView = ({ userInfo, isAuthenticated, cloudApiUrl, onDone }: Cl
 									maskRepeat: "no-repeat",
 									maskSize: "contain",
 								}}>
-								<img src={rooLogoUri} alt="Roo logo" className="w-12 h-12 opacity-0" />
+								<img src={rooLogoUri} alt="Alchemi logo" className="w-12 h-12 opacity-0" />
 							</div>
 						</div>
 					</div>

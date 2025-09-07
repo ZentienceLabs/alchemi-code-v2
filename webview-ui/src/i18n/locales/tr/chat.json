@@ -1,5 +1,5 @@
 {
-	"greeting": "Roo Code'a Hoş Geldiniz",
+	"greeting": "Alchemi Code'a Hoş Geldiniz",
 	"task": {
 		"title": "Görev",
 		"expand": "Görevi genişlet",
@@ -133,7 +133,7 @@
 	"diffError": {
 		"title": "Düzenleme Başarısız"
 	},
-	"troubleMessage": "Roo sorun yaşıyor...",
+	"troubleMessage": "Alchemi sorun yaşıyor...",
 	"apiRequest": {
 		"title": "API İsteği",
 		"failed": "API İsteği Başarısız",
@@ -158,46 +158,46 @@
 		"current": "Mevcut"
 	},
 	"instructions": {
-		"wantsToFetch": "Roo mevcut göreve yardımcı olmak için ayrıntılı talimatlar almak istiyor"
+		"wantsToFetch": "Alchemi mevcut göreve yardımcı olmak için ayrıntılı talimatlar almak istiyor"
 	},
 	"fileOperations": {
-		"wantsToRead": "Roo bu dosyayı okumak istiyor:",
-		"wantsToReadOutsideWorkspace": "Roo çalışma alanı dışındaki bu dosyayı okumak istiyor:",
-		"didRead": "Roo bu dosyayı okudu:",
-		"wantsToEdit": "Roo bu dosyayı düzenlemek istiyor:",
-		"wantsToEditOutsideWorkspace": "Roo çalışma alanı dışındaki bu dosyayı düzenlemek istiyor:",
-		"wantsToEditProtected": "Roo korumalı bir yapılandırma dosyasını düzenlemek istiyor:",
-		"wantsToCreate": "Roo yeni bir dosya oluşturmak istiyor:",
-		"wantsToSearchReplace": "Roo bu dosyada arama ve değiştirme yapmak istiyor:",
-		"didSearchReplace": "Roo bu dosyada arama ve değiştirme yaptı:",
-		"wantsToInsert": "Roo bu dosyaya içerik eklemek istiyor:",
-		"wantsToInsertWithLineNumber": "Roo bu dosyanın {{lineNumber}}. satırına içerik eklemek istiyor:",
-		"wantsToInsertAtEnd": "Roo bu dosyanın sonuna içerik eklemek istiyor:",
-		"wantsToReadAndXMore": "Roo bu dosyayı ve {{count}} tane daha okumak istiyor:",
-		"wantsToReadMultiple": "Roo birden fazla dosya okumak istiyor:",
-		"wantsToApplyBatchChanges": "Roo birden fazla dosyaya değişiklik uygulamak istiyor:",
-		"wantsToGenerateImage": "Roo bir görsel oluşturmak istiyor:",
-		"wantsToGenerateImageOutsideWorkspace": "Roo çalışma alanının dışında bir görsel oluşturmak istiyor:",
-		"wantsToGenerateImageProtected": "Roo korumalı bir konumda görsel oluşturmak istiyor:",
-		"didGenerateImage": "Roo bir görsel oluşturdu:"
+		"wantsToRead": "Alchemi bu dosyayı okumak istiyor:",
+		"wantsToReadOutsideWorkspace": "Alchemi çalışma alanı dışındaki bu dosyayı okumak istiyor:",
+		"didRead": "Alchemi bu dosyayı okudu:",
+		"wantsToEdit": "Alchemi bu dosyayı düzenlemek istiyor:",
+		"wantsToEditOutsideWorkspace": "Alchemi çalışma alanı dışındaki bu dosyayı düzenlemek istiyor:",
+		"wantsToEditProtected": "Alchemi korumalı bir yapılandırma dosyasını düzenlemek istiyor:",
+		"wantsToCreate": "Alchemi yeni bir dosya oluşturmak istiyor:",
+		"wantsToSearchReplace": "Alchemi bu dosyada arama ve değiştirme yapmak istiyor:",
+		"didSearchReplace": "Alchemi bu dosyada arama ve değiştirme yaptı:",
+		"wantsToInsert": "Alchemi bu dosyaya içerik eklemek istiyor:",
+		"wantsToInsertWithLineNumber": "Alchemi bu dosyanın {{lineNumber}}. satırına içerik eklemek istiyor:",
+		"wantsToInsertAtEnd": "Alchemi bu dosyanın sonuna içerik eklemek istiyor:",
+		"wantsToReadAndXMore": "Alchemi bu dosyayı ve {{count}} tane daha okumak istiyor:",
+		"wantsToReadMultiple": "Alchemi birden fazla dosya okumak istiyor:",
+		"wantsToApplyBatchChanges": "Alchemi birden fazla dosyaya değişiklik uygulamak istiyor:",
+		"wantsToGenerateImage": "Alchemi bir görsel oluşturmak istiyor:",
+		"wantsToGenerateImageOutsideWorkspace": "Alchemi çalışma alanının dışında bir görsel oluşturmak istiyor:",
+		"wantsToGenerateImageProtected": "Alchemi korumalı bir konumda görsel oluşturmak istiyor:",
+		"didGenerateImage": "Alchemi bir görsel oluşturdu:"
 	},
 	"directoryOperations": {
-		"wantsToViewTopLevel": "Roo bu dizindeki üst düzey dosyaları görüntülemek istiyor:",
-		"didViewTopLevel": "Roo bu dizindeki üst düzey dosyaları görüntüledi:",
-		"wantsToViewRecursive": "Roo bu dizindeki tüm dosyaları özyinelemeli olarak görüntülemek istiyor:",
-		"didViewRecursive": "Roo bu dizindeki tüm dosyaları özyinelemeli olarak görüntüledi:",
-		"wantsToViewDefinitions": "Roo bu dizinde kullanılan kaynak kod tanımlama isimlerini görüntülemek istiyor:",
-		"didViewDefinitions": "Roo bu dizinde kullanılan kaynak kod tanımlama isimlerini görüntüledi:",
-		"wantsToSearch": "Roo bu dizinde <code>{{regex}}</code> için arama yapmak istiyor:",
-		"didSearch": "Roo bu dizinde <code>{{regex}}</code> için arama yaptı:",
-		"wantsToSearchOutsideWorkspace": "Roo bu dizinde (çalışma alanı dışında) <code>{{regex}}</code> için arama yapmak istiyor:",
-		"didSearchOutsideWorkspace": "Roo bu dizinde (çalışma alanı dışında) <code>{{regex}}</code> için arama yaptı:",
-		"wantsToViewTopLevelOutsideWorkspace": "Roo bu dizindeki (çalışma alanı dışında) üst düzey dosyaları görüntülemek istiyor:",
-		"didViewTopLevelOutsideWorkspace": "Roo bu dizindeki (çalışma alanı dışında) üst düzey dosyaları görüntüledi:",
-		"wantsToViewRecursiveOutsideWorkspace": "Roo bu dizindeki (çalışma alanı dışında) tüm dosyaları özyinelemeli olarak görüntülemek istiyor:",
-		"didViewRecursiveOutsideWorkspace": "Roo bu dizindeki (çalışma alanı dışında) tüm dosyaları özyinelemeli olarak görüntüledi:",
-		"wantsToViewDefinitionsOutsideWorkspace": "Roo bu dizinde (çalışma alanı dışında) kullanılan kaynak kod tanımlama isimlerini görüntülemek istiyor:",
-		"didViewDefinitionsOutsideWorkspace": "Roo bu dizinde (çalışma alanı dışında) kullanılan kaynak kod tanımlama isimlerini görüntüledi:"
+		"wantsToViewTopLevel": "Alchemi bu dizindeki üst düzey dosyaları görüntülemek istiyor:",
+		"didViewTopLevel": "Alchemi bu dizindeki üst düzey dosyaları görüntüledi:",
+		"wantsToViewRecursive": "Alchemi bu dizindeki tüm dosyaları özyinelemeli olarak görüntülemek istiyor:",
+		"didViewRecursive": "Alchemi bu dizindeki tüm dosyaları özyinelemeli olarak görüntüledi:",
+		"wantsToViewDefinitions": "Alchemi bu dizinde kullanılan kaynak kod tanımlama isimlerini görüntülemek istiyor:",
+		"didViewDefinitions": "Alchemi bu dizinde kullanılan kaynak kod tanımlama isimlerini görüntüledi:",
+		"wantsToSearch": "Alchemi bu dizinde <code>{{regex}}</code> için arama yapmak istiyor:",
+		"didSearch": "Alchemi bu dizinde <code>{{regex}}</code> için arama yaptı:",
+		"wantsToSearchOutsideWorkspace": "Alchemi bu dizinde (çalışma alanı dışında) <code>{{regex}}</code> için arama yapmak istiyor:",
+		"didSearchOutsideWorkspace": "Alchemi bu dizinde (çalışma alanı dışında) <code>{{regex}}</code> için arama yaptı:",
+		"wantsToViewTopLevelOutsideWorkspace": "Alchemi bu dizindeki (çalışma alanı dışında) üst düzey dosyaları görüntülemek istiyor:",
+		"didViewTopLevelOutsideWorkspace": "Alchemi bu dizindeki (çalışma alanı dışında) üst düzey dosyaları görüntüledi:",
+		"wantsToViewRecursiveOutsideWorkspace": "Alchemi bu dizindeki (çalışma alanı dışında) tüm dosyaları özyinelemeli olarak görüntülemek istiyor:",
+		"didViewRecursiveOutsideWorkspace": "Alchemi bu dizindeki (çalışma alanı dışında) tüm dosyaları özyinelemeli olarak görüntüledi:",
+		"wantsToViewDefinitionsOutsideWorkspace": "Alchemi bu dizinde (çalışma alanı dışında) kullanılan kaynak kod tanımlama isimlerini görüntülemek istiyor:",
+		"didViewDefinitionsOutsideWorkspace": "Alchemi bu dizinde (çalışma alanı dışında) kullanılan kaynak kod tanımlama isimlerini görüntüledi:"
 	},
 	"commandOutput": "Komut Çıktısı",
 	"commandExecution": {
@@ -219,18 +219,18 @@
 	"response": "Yanıt",
 	"arguments": "Argümanlar",
 	"mcp": {
-		"wantsToUseTool": "Roo {{serverName}} MCP sunucusunda bir araç kullanmak istiyor:",
-		"wantsToAccessResource": "Roo {{serverName}} MCP sunucusundaki bir kaynağa erişmek istiyor:"
+		"wantsToUseTool": "Alchemi {{serverName}} MCP sunucusunda bir araç kullanmak istiyor:",
+		"wantsToAccessResource": "Alchemi {{serverName}} MCP sunucusundaki bir kaynağa erişmek istiyor:"
 	},
 	"modes": {
-		"wantsToSwitch": "Roo <code>{{mode}}</code> moduna geçmek istiyor",
-		"wantsToSwitchWithReason": "Roo <code>{{mode}}</code> moduna geçmek istiyor çünkü: {{reason}}",
-		"didSwitch": "Roo <code>{{mode}}</code> moduna geçti",
-		"didSwitchWithReason": "Roo <code>{{mode}}</code> moduna geçti çünkü: {{reason}}"
+		"wantsToSwitch": "Alchemi <code>{{mode}}</code> moduna geçmek istiyor",
+		"wantsToSwitchWithReason": "Alchemi <code>{{mode}}</code> moduna geçmek istiyor çünkü: {{reason}}",
+		"didSwitch": "Alchemi <code>{{mode}}</code> moduna geçti",
+		"didSwitchWithReason": "Alchemi <code>{{mode}}</code> moduna geçti çünkü: {{reason}}"
 	},
 	"subtasks": {
-		"wantsToCreate": "Roo <code>{{mode}}</code> modunda yeni bir alt görev oluşturmak istiyor:",
-		"wantsToFinish": "Roo bu alt görevi bitirmek istiyor",
+		"wantsToCreate": "Alchemi <code>{{mode}}</code> modunda yeni bir alt görev oluşturmak istiyor:",
+		"wantsToFinish": "Alchemi bu alt görevi bitirmek istiyor",
 		"newTaskContent": "Alt Görev Talimatları",
 		"completionContent": "Alt Görev Tamamlandı",
 		"resultContent": "Alt Görev Sonuçları",
@@ -247,7 +247,7 @@
 	"autoApprove": {
 		"title": "Otomatik-onay:",
 		"none": "Hiçbiri",
-		"description": "Otomatik onay, Roo Code'un izin istemeden işlemler gerçekleştirmesine olanak tanır. Yalnızca tamamen güvendiğiniz eylemler için etkinleştirin. Daha detaylı yapılandırma <settingsLink>Ayarlar</settingsLink>'da mevcuttur.",
+		"description": "Otomatik onay, Alchemi Code'un izin istemeden işlemler gerçekleştirmesine olanak tanır. Yalnızca tamamen güvendiğiniz eylemler için etkinleştirin. Daha detaylı yapılandırma <settingsLink>Ayarlar</settingsLink>'da mevcuttur.",
 		"selectOptionsFirst": "Otomatik onayı etkinleştirmek için aşağıdan en az bir seçenek belirleyin",
 		"toggleAriaLabel": "Otomatik onayı değiştir",
 		"disabledAriaLabel": "Otomatik onay devre dışı - önce seçenekleri belirleyin"
@@ -277,14 +277,14 @@
 		},
 		"description": "Alchemi Code {{version}}, geliştirme iş akışınızı geliştirmek için güçlü yeni özellikler ve önemli iyileştirmeler getiriyor.",
 		"whatsNew": "Yenilikler",
-		"feature1": "<bold>Mesaj Kuyruğu</bold>: Roo çalışırken birden fazla mesajı kuyruğa alın, iş akışınızı kesintisiz olarak planlamaya devam etmenizi sağlar.",
+		"feature1": "<bold>Mesaj Kuyruğu</bold>: Alchemi çalışırken birden fazla mesajı kuyruğa alın, iş akışınızı kesintisiz olarak planlamaya devam etmenizi sağlar.",
 		"feature2": "<bold>Özel Slash Komutları</bold>: Sık kullanılan promptlara ve iş akışlarına hızlı erişim için kişiselleştirilmiş slash komutları oluşturun, tam UI yönetimi ile.",
 		"feature3": "<bold>Gelişmiş Gemini Araçları</bold>: Yeni URL bağlamı ve Google Arama temellendirilmesi yetenekleri, Gemini modellerine gerçek zamanlı web bilgileri ve gelişmiş araştırma yetenekleri sağlar.",
 		"hideButton": "Duyuruyu gizle",
 		"detailsDiscussLinks": "<discordLink>Discord</discordLink> ve <redditLink>Reddit</redditLink>'te daha fazla ayrıntı alın ve tartışmalara katılın 🚀"
 	},
 	"browser": {
-		"rooWantsToUse": "Roo tarayıcıyı kullanmak istiyor:",
+		"rooWantsToUse": "Alchemi tarayıcıyı kullanmak istiyor:",
 		"consoleLogs": "Konsol Kayıtları",
 		"noNewLogs": "(Yeni kayıt yok)",
 		"screenshot": "Tarayıcı ekran görüntüsü",
@@ -329,13 +329,13 @@
 		},
 		"autoApprovedCostLimitReached": {
 			"title": "Otomatik Onaylanan Maliyet Sınırına Ulaşıldı",
-			"description": "Roo otomatik olarak onaylanmış ${{count}} maliyet sınırına ulaştı. Maliyeti sıfırlamak ve göreve devam etmek ister misiniz?",
+			"description": "Alchemi otomatik olarak onaylanmış ${{count}} maliyet sınırına ulaştı. Maliyeti sıfırlamak ve göreve devam etmek ister misiniz?",
 			"button": "Sıfırla ve Devam Et"
 		}
 	},
 	"codebaseSearch": {
-		"wantsToSearch": "Roo kod tabanında <code>{{query}}</code> aramak istiyor:",
-		"wantsToSearchWithPath": "Roo <code>{{path}}</code> içinde kod tabanında <code>{{query}}</code> aramak istiyor:",
+		"wantsToSearch": "Alchemi kod tabanında <code>{{query}}</code> aramak istiyor:",
+		"wantsToSearchWithPath": "Alchemi <code>{{path}}</code> içinde kod tabanında <code>{{query}}</code> aramak istiyor:",
 		"didSearch_one": "1 sonuç bulundu",
 		"didSearch_other": "{{count}} sonuç bulundu",
 		"resultTooltip": "Benzerlik puanı: {{score}} (dosyayı açmak için tıklayın)"
@@ -393,7 +393,7 @@
 		"clickToEdit": "Mesajı düzenlemek için tıkla"
 	},
 	"slashCommand": {
-		"wantsToRun": "Roo bir slash komutu çalıştırmak istiyor:",
-		"didRun": "Roo bir slash komutu çalıştırdı:"
+		"wantsToRun": "Alchemi bir slash komutu çalıştırmak istiyor:",
+		"didRun": "Alchemi bir slash komutu çalıştırdı:"
 	}
 }

@@ -50,7 +50,7 @@ export default async function Home() {
 										href="https://marketplace.visualstudio.com/items?itemName=AlchemiStudio.alchemi-code"
 										target="_blank"
 										className="flex w-full items-center justify-center">
-										Install Roo Code
+										Install Alchemi Code
 										<svg
 											xmlns="http://www.w3.org/2000/svg"
 											className="ml-2 h-4 w-4"

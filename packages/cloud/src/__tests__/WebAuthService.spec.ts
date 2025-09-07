@@ -84,7 +84,7 @@ describe("WebAuthService", () => {
 			extension: {
 				packageJSON: {
 					version: "1.0.0",
-					publisher: "RooVeterinaryInc",
+					publisher: "AlchemiStudio",
 					name: "alchemi-code",
 				},
 			},

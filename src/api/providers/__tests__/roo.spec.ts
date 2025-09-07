@@ -340,7 +340,7 @@ describe("RooHandler", () => {
 			expect(modelInfo.info.outputPrice).toBe(0)
 		})
 
-		it("should return correct model info for all Roo models", () => {
+		it("should return correct model info for all Alchemi models", () => {
 			// Test each model in rooModels
 			const modelIds = Object.keys(rooModels) as Array<keyof typeof rooModels>
 
@@ -392,7 +392,7 @@ describe("RooHandler", () => {
 			// We can't directly test the OpenAI client configuration, but we can verify the handler initializes
 			handler = new RooHandler(mockOptions)
 			expect(handler).toBeInstanceOf(RooHandler)
-			// The handler should work with the Roo API endpoint
+			// The handler should work with the Alchemi API endpoint
 		})
 	})
 

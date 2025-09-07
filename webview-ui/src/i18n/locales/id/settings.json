@@ -31,10 +31,10 @@
 		"prompts": "Prompt",
 		"experimental": "Eksperimental",
 		"language": "Bahasa",
-		"about": "Tentang Roo Code"
+		"about": "Tentang Alchemi Code"
 	},
 	"prompts": {
-		"description": "Konfigurasi support prompt yang digunakan untuk aksi cepat seperti meningkatkan prompt, menjelaskan kode, dan memperbaiki masalah. Prompt ini membantu Roo memberikan bantuan yang lebih baik untuk tugas pengembangan umum."
+		"description": "Konfigurasi support prompt yang digunakan untuk aksi cepat seperti meningkatkan prompt, menjelaskan kode, dan memperbaiki masalah. Prompt ini membantu Alchemi memberikan bantuan yang lebih baik untuk tugas pengembangan umum."
 	},
 	"codeIndex": {
 		"title": "Pengindeksan Codebase",
@@ -130,16 +130,16 @@
 		"resetToDefault": "Reset ke default"
 	},
 	"autoApprove": {
-		"description": "Izinkan Roo untuk secara otomatis melakukan operasi tanpa memerlukan persetujuan. Aktifkan pengaturan ini hanya jika kamu sepenuhnya mempercayai AI dan memahami risiko keamanan yang terkait.",
+		"description": "Izinkan Alchemi untuk secara otomatis melakukan operasi tanpa memerlukan persetujuan. Aktifkan pengaturan ini hanya jika kamu sepenuhnya mempercayai AI dan memahami risiko keamanan yang terkait.",
 		"enabled": "Auto-Approve Diaktifkan",
 		"toggleAriaLabel": "Beralih persetujuan otomatis",
 		"disabledAriaLabel": "Persetujuan otomatis dinonaktifkan - pilih opsi terlebih dahulu",
 		"readOnly": {
 			"label": "Baca",
-			"description": "Ketika diaktifkan, Roo akan secara otomatis melihat konten direktori dan membaca file tanpa memerlukan kamu mengklik tombol Setujui.",
+			"description": "Ketika diaktifkan, Alchemi akan secara otomatis melihat konten direktori dan membaca file tanpa memerlukan kamu mengklik tombol Setujui.",
 			"outsideWorkspace": {
 				"label": "Sertakan file di luar workspace",
-				"description": "Izinkan Roo membaca file di luar workspace saat ini tanpa memerlukan persetujuan."
+				"description": "Izinkan Alchemi membaca file di luar workspace saat ini tanpa memerlukan persetujuan."
 			}
 		},
 		"write": {
@@ -148,11 +148,11 @@
 			"delayLabel": "Delay setelah menulis untuk memungkinkan diagnostik mendeteksi masalah potensial",
 			"outsideWorkspace": {
 				"label": "Sertakan file di luar workspace",
-				"description": "Izinkan Roo membuat dan mengedit file di luar workspace saat ini tanpa memerlukan persetujuan."
+				"description": "Izinkan Alchemi membuat dan mengedit file di luar workspace saat ini tanpa memerlukan persetujuan."
 			},
 			"protected": {
 				"label": "Sertakan file yang dilindungi",
-				"description": "Izinkan Roo membuat dan mengedit file yang dilindungi (seperti .rooignore dan file konfigurasi .roo/) tanpa memerlukan persetujuan."
+				"description": "Izinkan Alchemi membuat dan mengedit file yang dilindungi (seperti .rooignore dan file konfigurasi .roo/) tanpa memerlukan persetujuan."
 			}
 		},
 		"browser": {
@@ -403,7 +403,7 @@
 			}
 		},
 		"customModel": {
-			"capabilities": "Konfigurasi kemampuan dan harga untuk model kustom yang kompatibel dengan OpenAI. Hati-hati saat menentukan kemampuan model, karena dapat mempengaruhi performa Roo Code.",
+			"capabilities": "Konfigurasi kemampuan dan harga untuk model kustom yang kompatibel dengan OpenAI. Hati-hati saat menentukan kemampuan model, karena dapat mempengaruhi performa Alchemi Code.",
 			"maxTokens": {
 				"label": "Token Output Maksimum",
 				"description": "Jumlah maksimum token yang dapat dihasilkan model dalam respons. (Tentukan -1 untuk membiarkan server mengatur token maksimum.)"
@@ -450,7 +450,7 @@
 		},
 		"consecutiveMistakeLimit": {
 			"label": "Batas Kesalahan & Pengulangan",
-			"description": "Jumlah kesalahan berturut-turut atau tindakan berulang sebelum menampilkan dialog 'Roo mengalami masalah'",
+			"description": "Jumlah kesalahan berturut-turut atau tindakan berulang sebelum menampilkan dialog 'Alchemi mengalami masalah'",
 			"unlimitedDescription": "Percobaan ulang tak terbatas diaktifkan (lanjut otomatis). Dialog tidak akan pernah muncul.",
 			"warning": "⚠️ Mengatur ke 0 memungkinkan percobaan ulang tak terbatas yang dapat menghabiskan penggunaan API yang signifikan"
 		},
@@ -480,7 +480,7 @@
 	"browser": {
 		"enable": {
 			"label": "Aktifkan tool browser",
-			"description": "Ketika diaktifkan, Roo dapat menggunakan browser untuk berinteraksi dengan website ketika menggunakan model yang mendukung computer use. <0>Pelajari lebih lanjut</0>"
+			"description": "Ketika diaktifkan, Alchemi dapat menggunakan browser untuk berinteraksi dengan website ketika menggunakan model yang mendukung computer use. <0>Pelajari lebih lanjut</0>"
 		},
 		"viewport": {
 			"label": "Ukuran viewport",
@@ -508,18 +508,18 @@
 	"checkpoints": {
 		"enable": {
 			"label": "Aktifkan checkpoint otomatis",
-			"description": "Ketika diaktifkan, Roo akan secara otomatis membuat checkpoint selama eksekusi tugas, memudahkan untuk meninjau perubahan atau kembali ke state sebelumnya. <0>Pelajari lebih lanjut</0>"
+			"description": "Ketika diaktifkan, Alchemi akan secara otomatis membuat checkpoint selama eksekusi tugas, memudahkan untuk meninjau perubahan atau kembali ke state sebelumnya. <0>Pelajari lebih lanjut</0>"
 		}
 	},
 	"notifications": {
 		"sound": {
 			"label": "Aktifkan efek suara",
-			"description": "Ketika diaktifkan, Roo akan memutar efek suara untuk notifikasi dan event.",
+			"description": "Ketika diaktifkan, Alchemi akan memutar efek suara untuk notifikasi dan event.",
 			"volumeLabel": "Volume"
 		},
 		"tts": {
 			"label": "Aktifkan text-to-speech",
-			"description": "Ketika diaktifkan, Roo akan membacakan responnya menggunakan text-to-speech.",
+			"description": "Ketika diaktifkan, Alchemi akan membacakan responnya menggunakan text-to-speech.",
 			"speedLabel": "Kecepatan"
 		}
 	},
@@ -527,7 +527,7 @@
 		"description": "Kontrol informasi apa yang disertakan dalam context window AI, mempengaruhi penggunaan token dan kualitas respons",
 		"autoCondenseContextPercent": {
 			"label": "Ambang batas untuk memicu kondensasi konteks cerdas",
-			"description": "Ketika context window mencapai ambang batas ini, Roo akan secara otomatis mengondensasikannya."
+			"description": "Ketika context window mencapai ambang batas ini, Alchemi akan secara otomatis mengondensasikannya."
 		},
 		"condensingApiConfiguration": {
 			"label": "Konfigurasi API untuk Kondensasi Konteks",
@@ -543,7 +543,7 @@
 		},
 		"autoCondenseContext": {
 			"name": "Secara otomatis memicu kondensasi konteks cerdas",
-			"description": "Ketika diaktifkan, Roo akan secara otomatis mengondensasi konteks ketika ambang batas tercapai. Ketika dinonaktifkan, kamu masih dapat memicu kondensasi konteks secara manual."
+			"description": "Ketika diaktifkan, Alchemi akan secara otomatis mengondensasi konteks ketika ambang batas tercapai. Ketika dinonaktifkan, kamu masih dapat memicu kondensasi konteks secara manual."
 		},
 		"diagnostics": {
 			"includeMessages": {
@@ -589,7 +589,7 @@
 		},
 		"maxReadFile": {
 			"label": "Ambang batas auto-truncate pembacaan file",
-			"description": "Roo membaca sejumlah baris ini ketika model menghilangkan nilai start/end. Jika angka ini kurang dari total file, Roo menghasilkan indeks nomor baris dari definisi kode. Kasus khusus: -1 menginstruksikan Roo untuk membaca seluruh file (tanpa indexing), dan 0 menginstruksikannya untuk tidak membaca baris dan hanya menyediakan indeks baris untuk konteks minimal. Nilai yang lebih rendah meminimalkan penggunaan konteks awal, memungkinkan pembacaan rentang baris yang tepat selanjutnya. Permintaan start/end eksplisit tidak dibatasi oleh pengaturan ini.",
+			"description": "Alchemi membaca sejumlah baris ini ketika model menghilangkan nilai start/end. Jika angka ini kurang dari total file, Alchemi menghasilkan indeks nomor baris dari definisi kode. Kasus khusus: -1 menginstruksikan Alchemi untuk membaca seluruh file (tanpa indexing), dan 0 menginstruksikannya untuk tidak membaca baris dan hanya menyediakan indeks baris untuk konteks minimal. Nilai yang lebih rendah meminimalkan penggunaan konteks awal, memungkinkan pembacaan rentang baris yang tepat selanjutnya. Permintaan start/end eksplisit tidak dibatasi oleh pengaturan ini.",
 			"lines": "baris",
 			"always_full_read": "Selalu baca seluruh file"
 		},
@@ -668,7 +668,7 @@
 	"advanced": {
 		"diff": {
 			"label": "Aktifkan editing melalui diff",
-			"description": "Ketika diaktifkan, Roo akan dapat mengedit file lebih cepat dan akan secara otomatis menolak penulisan file penuh yang terpotong. Bekerja terbaik dengan model Claude 3.7 Sonnet terbaru.",
+			"description": "Ketika diaktifkan, Alchemi akan dapat mengedit file lebih cepat dan akan secara otomatis menolak penulisan file penuh yang terpotong. Bekerja terbaik dengan model Claude 3.7 Sonnet terbaru.",
 			"strategy": {
 				"label": "Strategi diff",
 				"options": {
@@ -689,14 +689,14 @@
 		},
 		"todoList": {
 			"label": "Aktifkan alat daftar tugas",
-			"description": "Saat diaktifkan, Roo dapat membuat dan mengelola daftar tugas untuk melacak kemajuan tugas. Ini membantu mengatur tugas kompleks menjadi langkah-langkah yang dapat dikelola."
+			"description": "Saat diaktifkan, Alchemi dapat membuat dan mengelola daftar tugas untuk melacak kemajuan tugas. Ini membantu mengatur tugas kompleks menjadi langkah-langkah yang dapat dikelola."
 		}
 	},
 	"experimental": {
 		"warning": "⚠️",
 		"autoCondenseContextPercent": {
 			"label": "Ambang batas untuk memicu kondensasi konteks cerdas",
-			"description": "Ketika context window mencapai ambang batas ini, Roo akan secara otomatis mengondensasikannya."
+			"description": "Ketika context window mencapai ambang batas ini, Alchemi akan secara otomatis mengondensasikannya."
 		},
 		"condensingApiConfiguration": {
 			"label": "Konfigurasi API untuk Kondensasi Konteks",
@@ -720,27 +720,27 @@
 		},
 		"SEARCH_AND_REPLACE": {
 			"name": "Gunakan tool search and replace eksperimental",
-			"description": "Aktifkan tool search and replace eksperimental, memungkinkan Roo mengganti beberapa instance dari term pencarian dalam satu permintaan."
+			"description": "Aktifkan tool search and replace eksperimental, memungkinkan Alchemi mengganti beberapa instance dari term pencarian dalam satu permintaan."
 		},
 		"INSERT_BLOCK": {
 			"name": "Gunakan tool insert content eksperimental",
-			"description": "Aktifkan tool insert content eksperimental, memungkinkan Roo menyisipkan konten pada nomor baris spesifik tanpa perlu membuat diff."
+			"description": "Aktifkan tool insert content eksperimental, memungkinkan Alchemi menyisipkan konten pada nomor baris spesifik tanpa perlu membuat diff."
 		},
 		"POWER_STEERING": {
 			"name": "Gunakan mode \"power steering\" eksperimental",
-			"description": "Ketika diaktifkan, Roo akan mengingatkan model tentang detail definisi mode saat ini lebih sering. Ini akan menghasilkan kepatuhan yang lebih kuat terhadap definisi peran dan instruksi kustom, tetapi akan menggunakan lebih banyak token per pesan."
+			"description": "Ketika diaktifkan, Alchemi akan mengingatkan model tentang detail definisi mode saat ini lebih sering. Ini akan menghasilkan kepatuhan yang lebih kuat terhadap definisi peran dan instruksi kustom, tetapi akan menggunakan lebih banyak token per pesan."
 		},
 		"AUTOCOMPLETE": {
 			"name": "Gunakan fitur \"autocomplete\" eksperimental",
-			"description": "Ketika diaktifkan, Roo akan memberikan saran kode inline saat kamu mengetik. Memerlukan Alchemi Code API Provider."
+			"description": "Ketika diaktifkan, Alchemi akan memberikan saran kode inline saat kamu mengetik. Memerlukan Alchemi Code API Provider."
 		},
 		"CONCURRENT_FILE_READS": {
 			"name": "Aktifkan pembacaan file bersamaan",
-			"description": "Ketika diaktifkan, Roo dapat membaca beberapa file dalam satu permintaan. Ketika dinonaktifkan, Roo harus membaca file satu per satu. Menonaktifkan ini dapat membantu saat bekerja dengan model yang kurang mampu atau ketika kamu ingin kontrol lebih terhadap akses file."
+			"description": "Ketika diaktifkan, Alchemi dapat membaca beberapa file dalam satu permintaan. Ketika dinonaktifkan, Alchemi harus membaca file satu per satu. Menonaktifkan ini dapat membantu saat bekerja dengan model yang kurang mampu atau ketika kamu ingin kontrol lebih terhadap akses file."
 		},
 		"MULTI_SEARCH_AND_REPLACE": {
 			"name": "Gunakan tool multi block diff eksperimental",
-			"description": "Ketika diaktifkan, Roo akan menggunakan tool multi block diff. Ini akan mencoba memperbarui beberapa blok kode dalam file dalam satu permintaan."
+			"description": "Ketika diaktifkan, Alchemi akan menggunakan tool multi block diff. Ini akan mencoba memperbarui beberapa blok kode dalam file dalam satu permintaan."
 		},
 		"MARKETPLACE": {
 			"name": "Aktifkan Marketplace",
@@ -748,11 +748,11 @@
 		},
 		"MULTI_FILE_APPLY_DIFF": {
 			"name": "Aktifkan edit file bersamaan",
-			"description": "Ketika diaktifkan, Roo dapat mengedit beberapa file dalam satu permintaan. Ketika dinonaktifkan, Roo harus mengedit file satu per satu. Menonaktifkan ini dapat membantu saat bekerja dengan model yang kurang mampu atau ketika kamu ingin kontrol lebih terhadap modifikasi file."
+			"description": "Ketika diaktifkan, Alchemi dapat mengedit beberapa file dalam satu permintaan. Ketika dinonaktifkan, Alchemi harus mengedit file satu per satu. Menonaktifkan ini dapat membantu saat bekerja dengan model yang kurang mampu atau ketika kamu ingin kontrol lebih terhadap modifikasi file."
 		},
 		"PREVENT_FOCUS_DISRUPTION": {
 			"name": "Pengeditan Latar Belakang",
-			"description": "Ketika diaktifkan, mencegah gangguan fokus editor. Pengeditan file terjadi di latar belakang tanpa membuka tampilan diff atau mencuri fokus. Anda dapat terus bekerja tanpa gangguan saat Roo melakukan perubahan. File mungkin dibuka tanpa fokus untuk menangkap diagnostik atau tetap tertutup sepenuhnya."
+			"description": "Ketika diaktifkan, mencegah gangguan fokus editor. Pengeditan file terjadi di latar belakang tanpa membuka tampilan diff atau mencuri fokus. Anda dapat terus bekerja tanpa gangguan saat Alchemi melakukan perubahan. File mungkin dibuka tanpa fokus untuk menangkap diagnostik atau tetap tertutup sepenuhnya."
 		},
 		"ASSISTANT_MESSAGE_PARSER": {
 			"name": "Gunakan parser pesan baru",
@@ -764,7 +764,7 @@
 		},
 		"IMAGE_GENERATION": {
 			"name": "Aktifkan pembuatan gambar AI",
-			"description": "Ketika diaktifkan, Roo dapat menghasilkan gambar dari prompt teks menggunakan model pembuatan gambar OpenRouter. Memerlukan kunci API OpenRouter yang dikonfigurasi.",
+			"description": "Ketika diaktifkan, Alchemi dapat menghasilkan gambar dari prompt teks menggunakan model pembuatan gambar OpenRouter. Memerlukan kunci API OpenRouter yang dikonfigurasi.",
 			"openRouterApiKeyLabel": "Kunci API OpenRouter",
 			"openRouterApiKeyPlaceholder": "Masukkan kunci API OpenRouter Anda",
 			"getApiKeyText": "Dapatkan kunci API Anda dari",
@@ -775,12 +775,12 @@
 		},
 		"RUN_SLASH_COMMAND": {
 			"name": "Aktifkan perintah slash yang dimulai model",
-			"description": "Ketika diaktifkan, Roo dapat menjalankan perintah slash Anda untuk mengeksekusi alur kerja."
+			"description": "Ketika diaktifkan, Alchemi dapat menjalankan perintah slash Anda untuk mengeksekusi alur kerja."
 		}
 	},
 	"promptCaching": {
 		"label": "Nonaktifkan prompt caching",
-		"description": "Ketika dicentang, Roo tidak akan menggunakan prompt caching untuk model ini."
+		"description": "Ketika dicentang, Alchemi tidak akan menggunakan prompt caching untuk model ini."
 	},
 	"temperature": {
 		"useCustom": "Gunakan temperature kustom",

@@ -278,7 +278,7 @@ export default function Terms() {
 
 					<h2 className="mt-12 text-2xl font-bold">6. Privacy & Data</h2>
 					<p>
-						Roo Code&apos;s Privacy Notice (
+						Alchemi Code&apos;s Privacy Notice (
 						<a
 							href="https://roocode.com/privacy"
 							rel="noopener noreferrer"
@@ -311,8 +311,8 @@ export default function Terms() {
 						<li>
 							<strong>Assignment.</strong>
 							<br />
-							Customer may not assign the Agreement without Roo Code&apos;s prior written consent, except
-							to a successor in a merger or sale of substantially all assets.
+							Customer may not assign the Agreement without Alchemi Code&apos;s prior written consent,
+							except to a successor in a merger or sale of substantially all assets.
 						</li>
 						<li>
 							<strong>Export Compliance.</strong>
@@ -336,7 +336,7 @@ export default function Terms() {
 
 					<h2 className="mt-12 text-2xl font-bold">10. Contact</h2>
 					<p>
-						<strong>Roo Code, Inc.</strong>
+						<strong>Alchemi Code, Inc.</strong>
 						<br />
 						98 Graceland Dr, San Rafael, CA 94901 USA
 						<br />

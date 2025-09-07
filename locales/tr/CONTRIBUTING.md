@@ -11,9 +11,9 @@
 </sub>
 </div>
 
-# Roo Code'a Katkıda Bulunma
+# Alchemi Code'a Katkıda Bulunma
 
-Roo Code, topluluk odaklı bir projedir ve her katkıyı çok önemsiyoruz. İşbirliğini kolaylaştırmak için [Issue-First](#issue-first-yaklaşımı) yaklaşımıyla çalışıyoruz; bu, tüm [Pull Request'lerin (PR'lar)](#pull-request-gönderme) önce bir GitHub Issue'ya bağlanması gerektiği anlamına gelir. Lütfen bu rehberi dikkatlice incele.
+Alchemi Code, topluluk odaklı bir projedir ve her katkıyı çok önemsiyoruz. İşbirliğini kolaylaştırmak için [Issue-First](#issue-first-yaklaşımı) yaklaşımıyla çalışıyoruz; bu, tüm [Pull Request'lerin (PR'lar)](#pull-request-gönderme) önce bir GitHub Issue'ya bağlanması gerektiği anlamına gelir. Lütfen bu rehberi dikkatlice incele.
 
 ## İçindekiler
 
@@ -135,4 +135,4 @@ npm run install:all
 
 ## Yasal
 
-Pull request göndererek, katkılarının Roo Code'un lisanslamasıyla tutarlı olarak Apache 2.0 Lisansı altında lisanslanacağını kabul etmiş olursun.
+Pull request göndererek, katkılarının Alchemi Code'un lisanslamasıyla tutarlı olarak Apache 2.0 Lisansı altında lisanslanacağını kabul etmiş olursun.

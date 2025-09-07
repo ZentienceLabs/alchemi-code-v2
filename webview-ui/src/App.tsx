@@ -243,9 +243,10 @@ const App = () => {
 
 	// Do not conditionally load ChatView, it's expensive and there's state we
 	// don't want to lose (user input, disableInput, askResponse promise, etc.)
-	return showWelcome ? (
-		<WelcomeView />
-	) : (
+	// return showWelcome ? (
+	// 	<WelcomeView />
+	// ) : (
+	return (
 		<>
 			{tab === "modes" && <ModesView onDone={() => switchTab("chat")} />}
 			{tab === "mcp" && <McpView onDone={() => switchTab("chat")} />}

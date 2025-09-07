@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** is een AI-gestuurde **autonome codeeragent** die in je editor leeft. Het kan:
+**Alchemi Code** is een AI-gestuurde **autonome codeeragent** die in je editor leeft. Het kan:
 
 - Communiceren in natuurlijke taal
 - Bestanden direct in je werkruimte lezen en schrijven
@@ -60,7 +60,7 @@ Alchemi Code 3.25 brengt krachtige nieuwe functies en significante verbeteringen
 
 ---
 
-## Wat kan Roo Code?
+## Wat kan Alchemi Code?
 
 - 🚀 **Genereer code** vanuit natuurlijke taalbeschrijvingen
 - 🔧 **Refactor & Debug** bestaande code
@@ -71,7 +71,7 @@ Alchemi Code 3.25 brengt krachtige nieuwe functies en significante verbeteringen
 
 ## Snelstart
 
-1. [Installeer Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Installeer Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Verbind je AI-provider](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Probeer je eerste taak](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -166,7 +166,7 @@ We gebruiken [changesets](https://github.com/changesets/changesets) voor versieb
 
 ## Disclaimer
 
-**Let op**: Roo Code, Inc geeft **geen** garanties of waarborgen met betrekking tot enige code, modellen of andere tools die worden geleverd of beschikbaar worden gesteld in verband met Roo Code, bijbehorende tools van derden, of enige resulterende output. Je neemt **alle risico's** die gepaard gaan met het gebruik van dergelijke tools of output; deze tools worden geleverd op een **"AS IS"** en **"AS AVAILABLE"** basis. Risico's kunnen onder meer zijn: inbreuk op intellectueel eigendom, cyberkwetsbaarheden of -aanvallen, vooringenomenheid, onnauwkeurigheden, fouten, defecten, virussen, uitval, verlies of schade aan eigendommen en/of persoonlijk letsel. Je bent zelf volledig verantwoordelijk voor het gebruik van dergelijke tools of output (inclusief, maar niet beperkt tot, de legaliteit, geschiktheid en resultaten daarvan).
+**Let op**: Alchemi Code, Inc geeft **geen** garanties of waarborgen met betrekking tot enige code, modellen of andere tools die worden geleverd of beschikbaar worden gesteld in verband met Alchemi Code, bijbehorende tools van derden, of enige resulterende output. Je neemt **alle risico's** die gepaard gaan met het gebruik van dergelijke tools of output; deze tools worden geleverd op een **"AS IS"** en **"AS AVAILABLE"** basis. Risico's kunnen onder meer zijn: inbreuk op intellectueel eigendom, cyberkwetsbaarheden of -aanvallen, vooringenomenheid, onnauwkeurigheden, fouten, defecten, virussen, uitval, verlies of schade aan eigendommen en/of persoonlijk letsel. Je bent zelf volledig verantwoordelijk voor het gebruik van dergelijke tools of output (inclusief, maar niet beperkt tot, de legaliteit, geschiktheid en resultaten daarvan).
 
 ---
 
@@ -228,8 +228,8 @@ Dank aan alle bijdragers die Alchemi Code beter hebben gemaakt!
 
 ## Licentie
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../../LICENSE)
 
 ---
 
-**Veel plezier met Roo Code!** Of je het nu kort houdt of autonoom laat werken, we zijn benieuwd wat je bouwt. Heb je vragen of ideeën voor functies, kom dan langs op onze [Reddit-community](https://www.reddit.com/r/RooCode/) of [Discord](https://discord.gg/roocode). Veel programmeerplezier!
+**Veel plezier met Alchemi Code!** Of je het nu kort houdt of autonoom laat werken, we zijn benieuwd wat je bouwt. Heb je vragen of ideeën voor functies, kom dan langs op onze [Reddit-community](https://www.reddit.com/r/RooCode/) of [Discord](https://discord.gg/roocode). Veel programmeerplezier!

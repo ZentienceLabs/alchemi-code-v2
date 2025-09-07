@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Roo Codeコミュニティに参加しよう</h2>
+  <h2>Alchemi Codeコミュニティに参加しよう</h2>
   <p>開発者とつながり、アイデアを提供し、最新のAIパワードコーディングツールで先を行きましょう。</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Discord%E3%81%AB%E5%8F%82%E5%8A%A0-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discordに参加"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code**はエディター内に存在するAIパワードの**自律型コーディングエージェント**です。以下のことができます：
+**Alchemi Code**はエディター内に存在するAIパワードの**自律型コーディングエージェント**です。以下のことができます：
 
 - 自然言語でコミュニケーション
 - ワークスペース内のファイルを直接読み書き
@@ -44,7 +44,7 @@
 - OpenAI互換または独自のAPI/モデルと統合
 - **カスタムモード**を通じて「パーソナリティ」と機能を調整
 
-柔軟なコーディングパートナー、システムアーキテクト、QAエンジニアやプロダクトマネージャーなどの専門的な役割を求めているかどうかにかかわらず、Roo Codeはより効率的にソフトウェアを構築するのを手助けします。
+柔軟なコーディングパートナー、システムアーキテクト、QAエンジニアやプロダクトマネージャーなどの専門的な役割を求めているかどうかにかかわらず、Alchemi Codeはより効率的にソフトウェアを構築するのを手助けします。
 
 詳細な更新と修正については[CHANGELOG](../../CHANGELOG.md)をご覧ください。
 
@@ -60,7 +60,7 @@ Alchemi Code 3.25は、開発ワークフローを向上させる強力な新機
 
 ---
 
-## Roo Codeでできること
+## Alchemi Codeでできること
 
 - 🚀 自然言語の説明から**コードを生成**
 - 🔧 既存のコードを**リファクタリング＆デバッグ**
@@ -71,7 +71,7 @@ Alchemi Code 3.25は、開発ワークフローを向上させる強力な新機
 
 ## クイックスタート
 
-1. [Roo Codeをインストール](https://docs.roocode.com/getting-started/installing)
+1. [Alchemi Codeをインストール](https://docs.roocode.com/getting-started/installing)
 2. [AIプロバイダーを接続](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [最初のタスクを試す](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -79,7 +79,7 @@ Alchemi Code 3.25は、開発ワークフローを向上させる強力な新機
 
 ### 複数のモード
 
-Roo Codeは専門化された[モード](https://docs.roocode.com/basic-usage/using-modes)であなたのニーズに適応します：
+Alchemi Codeは専門化された[モード](https://docs.roocode.com/basic-usage/using-modes)であなたのニーズに適応します：
 
 - **コードモード：** 汎用的なコーディングタスク向け
 - **アーキテクトモード：** 計画と技術的リーダーシップ向け
@@ -89,18 +89,18 @@ Roo Codeは専門化された[モード](https://docs.roocode.com/basic-usage/us
 
 ### スマートツール
 
-Roo Codeには強力な[ツール](https://docs.roocode.com/basic-usage/how-tools-work)が付属しています：
+Alchemi Codeには強力な[ツール](https://docs.roocode.com/basic-usage/how-tools-work)が付属しています：
 
 - プロジェクト内のファイルの読み書き
 - VS Codeターミナルでコマンドを実行
 - Webブラウザを制御
 - [MCP（モデルコンテキストプロトコル）](https://docs.roocode.com/advanced-usage/mcp)を介して外部ツールを使用
 
-MCPは無制限のカスタムツールを追加できるようにしてRoo Codeの機能を拡張します。外部APIとの統合、データベースへの接続、または特殊な開発ツールの作成 - MCPはRoo Codeの機能を拡張してあなたの特定のニーズを満たすためのフレームワークを提供します。
+MCPは無制限のカスタムツールを追加できるようにしてAlchemi Codeの機能を拡張します。外部APIとの統合、データベースへの接続、または特殊な開発ツールの作成 - MCPはAlchemi Codeの機能を拡張してあなたの特定のニーズを満たすためのフレームワークを提供します。
 
 ### カスタマイズ
 
-Roo Codeをあなた好みに動作させる方法：
+Alchemi Codeをあなた好みに動作させる方法：
 
 - パーソナライズされた動作のための[カスタム指示](https://docs.roocode.com/advanced-usage/custom-instructions)
 - 専門タスク用の[カスタムモード](https://docs.roocode.com/advanced-usage/custom-modes)
@@ -144,7 +144,7 @@ npm run dev
 ```
 
 4. **デバッグ**：
-   VSCodeで`F5`（または**実行**→**デバッグの開始**）を押すと、Roo Codeがロードされた新しいセッションが開きます。
+   VSCodeで`F5`（または**実行**→**デバッグの開始**）を押すと、Alchemi Codeがロードされた新しいセッションが開きます。
 
 ウェブビューへの変更はすぐに表示されます。コア拡張機能への変更には拡張機能ホストの再起動が必要です。
 
@@ -166,7 +166,7 @@ code --install-extension bin/alchemi-code-<version>.vsix
 
 ## 免責事項
 
-**ご注意ください**：Roo Code, Incは、Roo Codeに関連して提供または利用可能になるコード、モデル、またはその他のツール、関連するサードパーティツール、または結果的な出力に関して、**いかなる表明や保証も行いません**。そのようなツールや出力の使用に関連するすべてのリスクはお客様が負うものとします。そのようなツールは**「現状のまま」**および**「利用可能な状態」**で提供されます。そのようなリスクには、知的財産権の侵害、サイバー脆弱性や攻撃、バイアス、不正確さ、エラー、欠陥、ウイルス、ダウンタイム、財産の損失または損害、および/または人身傷害が含まれますが、これらに限定されません。お客様は、そのようなツールまたは出力の使用について（適法性、適切性、および結果を含むがこれらに限定されない）単独で責任を負います。
+**ご注意ください**：Alchemi Code, Incは、Alchemi Codeに関連して提供または利用可能になるコード、モデル、またはその他のツール、関連するサードパーティツール、または結果的な出力に関して、**いかなる表明や保証も行いません**。そのようなツールや出力の使用に関連するすべてのリスクはお客様が負うものとします。そのようなツールは**「現状のまま」**および**「利用可能な状態」**で提供されます。そのようなリスクには、知的財産権の侵害、サイバー脆弱性や攻撃、バイアス、不正確さ、エラー、欠陥、ウイルス、ダウンタイム、財産の損失または損害、および/または人身傷害が含まれますが、これらに限定されません。お客様は、そのようなツールまたは出力の使用について（適法性、適切性、および結果を含むがこれらに限定されない）単独で責任を負います。
 
 ---
 
@@ -178,7 +178,7 @@ code --install-extension bin/alchemi-code-<version>.vsix
 
 ## 貢献者
 
-Roo Codeの改善に貢献してくれたすべての貢献者に感謝します！
+Alchemi Codeの改善に貢献してくれたすべての貢献者に感謝します！
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 
@@ -228,8 +228,8 @@ Roo Codeの改善に貢献してくれたすべての貢献者に感謝します
 
 ## ライセンス
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**Roo Codeをお楽しみください！** 短いリードで保持するか、自律的に動き回らせるかにかかわらず、あなたが何を構築するのか楽しみにしています。質問や機能のアイデアがある場合は、[Redditコミュニティ](https://www.reddit.com/r/RooCode/)や[Discord](https://discord.gg/roocode)にお立ち寄りください。ハッピーコーディング！
+**Alchemi Codeをお楽しみください！** 短いリードで保持するか、自律的に動き回らせるかにかかわらず、あなたが何を構築するのか楽しみにしています。質問や機能のアイデアがある場合は、[Redditコミュニティ](https://www.reddit.com/r/RooCode/)や[Discord](https://discord.gg/roocode)にお立ち寄りください。ハッピーコーディング！

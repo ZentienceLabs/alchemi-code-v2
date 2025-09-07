@@ -50,3 +50,4 @@ logs
 # Qdrant
 qdrant_storage/
 .history/
+.claude/

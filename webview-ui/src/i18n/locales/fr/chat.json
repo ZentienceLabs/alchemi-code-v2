@@ -1,5 +1,5 @@
 {
-	"greeting": "Bienvenue sur Roo Code",
+	"greeting": "Bienvenue sur Alchemi Code",
 	"task": {
 		"title": "Tâche",
 		"expand": "Développer la tâche",
@@ -133,7 +133,7 @@
 	"diffError": {
 		"title": "Modification échouée"
 	},
-	"troubleMessage": "Roo rencontre des difficultés...",
+	"troubleMessage": "Alchemi rencontre des difficultés...",
 	"apiRequest": {
 		"title": "Requête API",
 		"failed": "Échec de la requête API",
@@ -158,46 +158,46 @@
 		"current": "Actuel"
 	},
 	"fileOperations": {
-		"wantsToRead": "Roo veut lire ce fichier :",
-		"wantsToReadOutsideWorkspace": "Roo veut lire ce fichier en dehors de l'espace de travail :",
-		"didRead": "Roo a lu ce fichier :",
-		"wantsToEdit": "Roo veut éditer ce fichier :",
-		"wantsToEditOutsideWorkspace": "Roo veut éditer ce fichier en dehors de l'espace de travail :",
-		"wantsToEditProtected": "Roo veut éditer un fichier de configuration protégé :",
-		"wantsToCreate": "Roo veut créer un nouveau fichier :",
-		"wantsToSearchReplace": "Roo veut effectuer une recherche et remplacement sur ce fichier :",
-		"didSearchReplace": "Roo a effectué une recherche et remplacement sur ce fichier :",
-		"wantsToInsert": "Roo veut insérer du contenu dans ce fichier :",
-		"wantsToInsertWithLineNumber": "Roo veut insérer du contenu dans ce fichier à la ligne {{lineNumber}} :",
-		"wantsToInsertAtEnd": "Roo veut ajouter du contenu à la fin de ce fichier :",
-		"wantsToReadAndXMore": "Roo veut lire ce fichier et {{count}} de plus :",
-		"wantsToReadMultiple": "Roo souhaite lire plusieurs fichiers :",
-		"wantsToApplyBatchChanges": "Roo veut appliquer des modifications à plusieurs fichiers :",
-		"wantsToGenerateImage": "Roo veut générer une image :",
-		"wantsToGenerateImageOutsideWorkspace": "Roo veut générer une image en dehors de l'espace de travail :",
-		"wantsToGenerateImageProtected": "Roo veut générer une image dans un emplacement protégé :",
-		"didGenerateImage": "Roo a généré une image :"
+		"wantsToRead": "Alchemi veut lire ce fichier :",
+		"wantsToReadOutsideWorkspace": "Alchemi veut lire ce fichier en dehors de l'espace de travail :",
+		"didRead": "Alchemi a lu ce fichier :",
+		"wantsToEdit": "Alchemi veut éditer ce fichier :",
+		"wantsToEditOutsideWorkspace": "Alchemi veut éditer ce fichier en dehors de l'espace de travail :",
+		"wantsToEditProtected": "Alchemi veut éditer un fichier de configuration protégé :",
+		"wantsToCreate": "Alchemi veut créer un nouveau fichier :",
+		"wantsToSearchReplace": "Alchemi veut effectuer une recherche et remplacement sur ce fichier :",
+		"didSearchReplace": "Alchemi a effectué une recherche et remplacement sur ce fichier :",
+		"wantsToInsert": "Alchemi veut insérer du contenu dans ce fichier :",
+		"wantsToInsertWithLineNumber": "Alchemi veut insérer du contenu dans ce fichier à la ligne {{lineNumber}} :",
+		"wantsToInsertAtEnd": "Alchemi veut ajouter du contenu à la fin de ce fichier :",
+		"wantsToReadAndXMore": "Alchemi veut lire ce fichier et {{count}} de plus :",
+		"wantsToReadMultiple": "Alchemi souhaite lire plusieurs fichiers :",
+		"wantsToApplyBatchChanges": "Alchemi veut appliquer des modifications à plusieurs fichiers :",
+		"wantsToGenerateImage": "Alchemi veut générer une image :",
+		"wantsToGenerateImageOutsideWorkspace": "Alchemi veut générer une image en dehors de l'espace de travail :",
+		"wantsToGenerateImageProtected": "Alchemi veut générer une image dans un emplacement protégé :",
+		"didGenerateImage": "Alchemi a généré une image :"
 	},
 	"instructions": {
-		"wantsToFetch": "Roo veut récupérer des instructions détaillées pour aider à la tâche actuelle"
+		"wantsToFetch": "Alchemi veut récupérer des instructions détaillées pour aider à la tâche actuelle"
 	},
 	"directoryOperations": {
-		"wantsToViewTopLevel": "Roo veut voir les fichiers de premier niveau dans ce répertoire :",
-		"didViewTopLevel": "Roo a vu les fichiers de premier niveau dans ce répertoire :",
-		"wantsToViewRecursive": "Roo veut voir récursivement tous les fichiers dans ce répertoire :",
-		"didViewRecursive": "Roo a vu récursivement tous les fichiers dans ce répertoire :",
-		"wantsToViewDefinitions": "Roo veut voir les noms de définitions de code source utilisés dans ce répertoire :",
-		"didViewDefinitions": "Roo a vu les noms de définitions de code source utilisés dans ce répertoire :",
-		"wantsToSearch": "Roo veut rechercher dans ce répertoire <code>{{regex}}</code> :",
-		"didSearch": "Roo a recherché dans ce répertoire <code>{{regex}}</code> :",
-		"wantsToSearchOutsideWorkspace": "Roo veut rechercher dans ce répertoire (hors espace de travail) <code>{{regex}}</code> :",
-		"didSearchOutsideWorkspace": "Roo a recherché dans ce répertoire (hors espace de travail) <code>{{regex}}</code> :",
-		"wantsToViewTopLevelOutsideWorkspace": "Roo veut voir les fichiers de premier niveau dans ce répertoire (hors espace de travail) :",
-		"didViewTopLevelOutsideWorkspace": "Roo a vu les fichiers de premier niveau dans ce répertoire (hors espace de travail) :",
-		"wantsToViewRecursiveOutsideWorkspace": "Roo veut voir récursivement tous les fichiers dans ce répertoire (hors espace de travail) :",
-		"didViewRecursiveOutsideWorkspace": "Roo a vu récursivement tous les fichiers dans ce répertoire (hors espace de travail) :",
-		"wantsToViewDefinitionsOutsideWorkspace": "Roo veut voir les noms de définitions de code source utilisés dans ce répertoire (hors espace de travail) :",
-		"didViewDefinitionsOutsideWorkspace": "Roo a vu les noms de définitions de code source utilisés dans ce répertoire (hors espace de travail) :"
+		"wantsToViewTopLevel": "Alchemi veut voir les fichiers de premier niveau dans ce répertoire :",
+		"didViewTopLevel": "Alchemi a vu les fichiers de premier niveau dans ce répertoire :",
+		"wantsToViewRecursive": "Alchemi veut voir récursivement tous les fichiers dans ce répertoire :",
+		"didViewRecursive": "Alchemi a vu récursivement tous les fichiers dans ce répertoire :",
+		"wantsToViewDefinitions": "Alchemi veut voir les noms de définitions de code source utilisés dans ce répertoire :",
+		"didViewDefinitions": "Alchemi a vu les noms de définitions de code source utilisés dans ce répertoire :",
+		"wantsToSearch": "Alchemi veut rechercher dans ce répertoire <code>{{regex}}</code> :",
+		"didSearch": "Alchemi a recherché dans ce répertoire <code>{{regex}}</code> :",
+		"wantsToSearchOutsideWorkspace": "Alchemi veut rechercher dans ce répertoire (hors espace de travail) <code>{{regex}}</code> :",
+		"didSearchOutsideWorkspace": "Alchemi a recherché dans ce répertoire (hors espace de travail) <code>{{regex}}</code> :",
+		"wantsToViewTopLevelOutsideWorkspace": "Alchemi veut voir les fichiers de premier niveau dans ce répertoire (hors espace de travail) :",
+		"didViewTopLevelOutsideWorkspace": "Alchemi a vu les fichiers de premier niveau dans ce répertoire (hors espace de travail) :",
+		"wantsToViewRecursiveOutsideWorkspace": "Alchemi veut voir récursivement tous les fichiers dans ce répertoire (hors espace de travail) :",
+		"didViewRecursiveOutsideWorkspace": "Alchemi a vu récursivement tous les fichiers dans ce répertoire (hors espace de travail) :",
+		"wantsToViewDefinitionsOutsideWorkspace": "Alchemi veut voir les noms de définitions de code source utilisés dans ce répertoire (hors espace de travail) :",
+		"didViewDefinitionsOutsideWorkspace": "Alchemi a vu les noms de définitions de code source utilisés dans ce répertoire (hors espace de travail) :"
 	},
 	"commandOutput": "Sortie de commande",
 	"commandExecution": {
@@ -219,18 +219,18 @@
 	"response": "Réponse",
 	"arguments": "Arguments",
 	"mcp": {
-		"wantsToUseTool": "Roo veut utiliser un outil sur le serveur MCP {{serverName}} :",
-		"wantsToAccessResource": "Roo veut accéder à une ressource sur le serveur MCP {{serverName}} :"
+		"wantsToUseTool": "Alchemi veut utiliser un outil sur le serveur MCP {{serverName}} :",
+		"wantsToAccessResource": "Alchemi veut accéder à une ressource sur le serveur MCP {{serverName}} :"
 	},
 	"modes": {
-		"wantsToSwitch": "Roo veut passer au mode <code>{{mode}}</code>",
-		"wantsToSwitchWithReason": "Roo veut passer au mode <code>{{mode}}</code> car : {{reason}}",
-		"didSwitch": "Roo est passé au mode <code>{{mode}}</code>",
-		"didSwitchWithReason": "Roo est passé au mode <code>{{mode}}</code> car : {{reason}}"
+		"wantsToSwitch": "Alchemi veut passer au mode <code>{{mode}}</code>",
+		"wantsToSwitchWithReason": "Alchemi veut passer au mode <code>{{mode}}</code> car : {{reason}}",
+		"didSwitch": "Alchemi est passé au mode <code>{{mode}}</code>",
+		"didSwitchWithReason": "Alchemi est passé au mode <code>{{mode}}</code> car : {{reason}}"
 	},
 	"subtasks": {
-		"wantsToCreate": "Roo veut créer une nouvelle sous-tâche en mode <code>{{mode}}</code> :",
-		"wantsToFinish": "Roo veut terminer cette sous-tâche",
+		"wantsToCreate": "Alchemi veut créer une nouvelle sous-tâche en mode <code>{{mode}}</code> :",
+		"wantsToFinish": "Alchemi veut terminer cette sous-tâche",
 		"newTaskContent": "Instructions de la sous-tâche",
 		"completionContent": "Sous-tâche terminée",
 		"resultContent": "Résultats de la sous-tâche",
@@ -238,7 +238,7 @@
 		"completionInstructions": "Sous-tâche terminée ! Vous pouvez examiner les résultats et suggérer des corrections ou les prochaines étapes. Si tout semble bon, confirmez pour retourner le résultat à la tâche parente."
 	},
 	"questions": {
-		"hasQuestion": "Roo a une question :"
+		"hasQuestion": "Alchemi a une question :"
 	},
 	"taskCompleted": "Tâche terminée",
 	"powershell": {
@@ -277,14 +277,14 @@
 		},
 		"description": "Alchemi Code {{version}} apporte de puissantes nouvelles fonctionnalités et des améliorations significatives pour améliorer ton flux de travail de développement.",
 		"whatsNew": "Quoi de neuf",
-		"feature1": "<bold>File d'Attente de Messages</bold> : Mettez en file d'attente plusieurs messages pendant que Roo travaille, vous permettant de continuer à planifier votre flux de travail sans interruption.",
+		"feature1": "<bold>File d'Attente de Messages</bold> : Mettez en file d'attente plusieurs messages pendant que Alchemi travaille, vous permettant de continuer à planifier votre flux de travail sans interruption.",
 		"feature2": "<bold>Commandes Slash Personnalisées</bold> : Créez des commandes slash personnalisées pour un accès rapide aux prompts et flux de travail fréquemment utilisés, avec une gestion complète de l'interface utilisateur.",
 		"feature3": "<bold>Outils Gemini Améliorés</bold> : De nouvelles capacités de contexte d'URL et de fondation de recherche Google fournissent aux modèles Gemini des informations web en temps réel et des capacités de recherche améliorées.",
 		"hideButton": "Masquer l'annonce",
 		"detailsDiscussLinks": "Obtenez plus de détails et participez aux discussions sur <discordLink>Discord</discordLink> et <redditLink>Reddit</redditLink> 🚀"
 	},
 	"browser": {
-		"rooWantsToUse": "Roo veut utiliser le navigateur :",
+		"rooWantsToUse": "Alchemi veut utiliser le navigateur :",
 		"consoleLogs": "Journaux de console",
 		"noNewLogs": "(Pas de nouveaux journaux)",
 		"screenshot": "Capture d'écran du navigateur",
@@ -318,24 +318,24 @@
 	"profileViolationWarning": "Le profil actuel n'est pas compatible avec les paramètres de votre organisation",
 	"shellIntegration": {
 		"title": "Avertissement d'exécution de commande",
-		"description": "Votre commande est exécutée sans l'intégration shell du terminal VSCode. Pour supprimer cet avertissement, vous pouvez désactiver l'intégration shell dans la section <strong>Terminal</strong> des <settingsLink>paramètres de Roo Code</settingsLink> ou résoudre les problèmes d'intégration du terminal VSCode en utilisant le lien ci-dessous.",
+		"description": "Votre commande est exécutée sans l'intégration shell du terminal VSCode. Pour supprimer cet avertissement, vous pouvez désactiver l'intégration shell dans la section <strong>Terminal</strong> des <settingsLink>paramètres de Alchemi Code</settingsLink> ou résoudre les problèmes d'intégration du terminal VSCode en utilisant le lien ci-dessous.",
 		"troubleshooting": "Cliquez ici pour la documentation d'intégration shell."
 	},
 	"ask": {
 		"autoApprovedRequestLimitReached": {
 			"title": "Limite de requêtes auto-approuvées atteinte",
-			"description": "Roo a atteint la limite auto-approuvée de {{count}} requête(s) API. Souhaitez-vous réinitialiser le compteur et poursuivre la tâche ?",
+			"description": "Alchemi a atteint la limite auto-approuvée de {{count}} requête(s) API. Souhaitez-vous réinitialiser le compteur et poursuivre la tâche ?",
 			"button": "Réinitialiser et continuer"
 		},
 		"autoApprovedCostLimitReached": {
 			"title": "Limite de coût en auto-approbation atteinte",
-			"description": "Roo a atteint la limite de coût auto-approuvée de ${{count}}. Souhaitez-vous réinitialiser le coût et poursuivre la tâche ?",
+			"description": "Alchemi a atteint la limite de coût auto-approuvée de ${{count}}. Souhaitez-vous réinitialiser le coût et poursuivre la tâche ?",
 			"button": "Réinitialiser et Continuer"
 		}
 	},
 	"codebaseSearch": {
-		"wantsToSearch": "Roo veut rechercher dans la base de code <code>{{query}}</code> :",
-		"wantsToSearchWithPath": "Roo veut rechercher dans la base de code <code>{{query}}</code> dans <code>{{path}}</code> :",
+		"wantsToSearch": "Alchemi veut rechercher dans la base de code <code>{{query}}</code> :",
+		"wantsToSearchWithPath": "Alchemi veut rechercher dans la base de code <code>{{query}}</code> dans <code>{{path}}</code> :",
 		"didSearch_one": "1 résultat trouvé",
 		"didSearch_other": "{{count}} résultats trouvés",
 		"resultTooltip": "Score de similarité : {{score}} (cliquer pour ouvrir le fichier)"
@@ -393,7 +393,7 @@
 		"clickToEdit": "Cliquez pour modifier le message"
 	},
 	"slashCommand": {
-		"wantsToRun": "Roo veut exécuter une commande slash:",
-		"didRun": "Roo a exécuté une commande slash:"
+		"wantsToRun": "Alchemi veut exécuter une commande slash:",
+		"didRun": "Alchemi a exécuté une commande slash:"
 	}
 }

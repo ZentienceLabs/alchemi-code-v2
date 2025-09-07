@@ -15,7 +15,7 @@ describe("DEFAULT_HEADERS", () => {
 	})
 
 	it("should have correct X-Title value", () => {
-		expect(DEFAULT_HEADERS["X-Title"]).toBe("Roo Code")
+		expect(DEFAULT_HEADERS["X-Title"]).toBe("Alchemi Code")
 	})
 
 	it("should have correct User-Agent format", () => {

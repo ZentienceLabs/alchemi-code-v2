@@ -152,7 +152,7 @@ describe("extractTextFromXLSX", () => {
 			const worksheet = workbook.addWorksheet("Sheet1")
 
 			worksheet.getCell("A1").value = {
-				text: "Roo Code",
+				text: "Alchemi Code",
 				hyperlink: "https://roocode.com/",
 			}
 

@@ -11,7 +11,7 @@
 </sub>
 </div>
 
-# Berkontribusi pada Roo Code
+# Berkontribusi pada Alchemi Code
 
 Alchemi Code adalah proyek yang didorong oleh komunitas, dan kami sangat menghargai setiap kontribusi. Untuk memperlancar kolaborasi, kami beroperasi berdasarkan pendekatan [Issue-First](#issue-first-approach), yang berarti semua [Pull Request (PR)](#submitting-a-pull-request) harus terlebih dahulu ditautkan ke GitHub Issue. Harap tinjau panduan ini dengan cermat.
 
@@ -52,7 +52,7 @@ Peta jalan kami memandu arah proyek. Selaraskan kontribusi kamu dengan tujuan ut
 
 Sebutkan keselarasan dengan area ini di PR kamu.
 
-### 3. Bergabung dengan Komunitas Roo Code
+### 3. Bergabung dengan Komunitas Alchemi Code
 
 - **Utama:** Bergabunglah dengan [Discord](https://discord.gg/roocode) kami dan DM **Hannes Rudolph (`hrudolph`)**.
 - **Alternatif:** Kontributor berpengalaman dapat berinteraksi langsung melalui [GitHub Projects](https://github.com/orgs/RooCodeInc/projects/1).
@@ -135,4 +135,4 @@ pnpm install
 
 ## Legal
 
-Dengan berkontribusi, kamu setuju kontribusi kamu akan dilisensikan di bawah Lisensi Apache 2.0, konsisten dengan lisensi Roo Code.
+Dengan berkontribusi, kamu setuju kontribusi kamu akan dilisensikan di bawah Lisensi Apache 2.0, konsisten dengan lisensi Alchemi Code.

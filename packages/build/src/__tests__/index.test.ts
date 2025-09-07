@@ -9,16 +9,16 @@ describe("generatePackageJson", () => {
 				name: "alchemi-code",
 				displayName: "%extension.displayName%",
 				description: "%extension.description%",
-				publisher: "RooVeterinaryInc",
+				publisher: "AlchemiStudio",
 				version: "3.17.2",
-				icon: "assets/icons/icon.png",
+				icon: "assets/icons/alchemi-code-logo.png",
 				contributes: {
 					viewsContainers: {
 						activitybar: [
 							{
 								id: "alchemi-code-ActivityBar",
 								title: "%views.activitybar.title%",
-								icon: "assets/icons/icon.svg",
+								icon: "assets/icons/alchemi-code-logo.svg",
 							},
 						],
 					},
@@ -110,7 +110,7 @@ describe("generatePackageJson", () => {
 			overrideJson: {
 				name: "roo-code-nightly",
 				displayName: "Alchemi Code Nightly",
-				publisher: "RooVeterinaryInc",
+				publisher: "AlchemiStudio",
 				version: "0.0.1",
 				icon: "assets/icons/icon-nightly.png",
 				scripts: {},
@@ -122,7 +122,7 @@ describe("generatePackageJson", () => {
 			name: "roo-code-nightly",
 			displayName: "Alchemi Code Nightly",
 			description: "%extension.description%",
-			publisher: "RooVeterinaryInc",
+			publisher: "AlchemiStudio",
 			version: "0.0.1",
 			icon: "assets/icons/icon-nightly.png",
 			contributes: {
@@ -131,7 +131,7 @@ describe("generatePackageJson", () => {
 						{
 							id: "roo-code-nightly-ActivityBar",
 							title: "%views.activitybar.title%",
-							icon: "assets/icons/icon.svg",
+							icon: "assets/icons/alchemi-code-logo.svg",
 						},
 					],
 				},

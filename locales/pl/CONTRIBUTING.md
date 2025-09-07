@@ -11,7 +11,7 @@
 </sub>
 </div>
 
-# Współtworzenie Roo Code
+# Współtworzenie Alchemi Code
 
 Alchemi Code to projekt napędzany przez społeczność i bardzo cenimy każdy wkład. Aby usprawnić współpracę, działamy według zasady [Issue-First](#podejście-issue-first), co oznacza, że wszystkie [Pull Requesty (PR)](#zgłaszanie-pull-requesta) muszą najpierw być powiązane z GitHub Issue. Prosimy o uważne zapoznanie się z tym przewodnikiem.
 
@@ -52,7 +52,7 @@ Nasza roadmapa wyznacza kierunek projektu. Dostosuj swój wkład do tych kluczow
 
 Wspomnij o powiązaniu z tymi obszarami w swoich PR.
 
-### 3. Dołącz do społeczności Roo Code
+### 3. Dołącz do społeczności Alchemi Code
 
 - **Główna metoda:** Dołącz do naszego [Discorda](https://discord.gg/roocode) i wyślij wiadomość prywatną do **Hannes Rudolph (`hrudolph`)**.
 - **Alternatywa:** Doświadczeni współtwórcy mogą angażować się bezpośrednio przez [GitHub Projects](https://github.com/orgs/RooCodeInc/projects/1).
@@ -135,4 +135,4 @@ npm run install:all
 
 ## Prawne
 
-Zgłaszając pull request, zgadzasz się, że twój wkład będzie licencjonowany na licencji Apache 2.0, zgodnie z licencją Roo Code.
+Zgłaszając pull request, zgadzasz się, że twój wkład będzie licencjonowany na licencji Apache 2.0, zgodnie z licencją Alchemi Code.

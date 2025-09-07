@@ -13,7 +13,7 @@
 
 # Alchemi Code 기여 가이드
 
-Roo Code는 커뮤니티 주도의 프로젝트이며, 모든 기여를 소중하게 생각합니다. 협업을 간소화하기 위해 [Issue-First](#issue-first-접근법) 원칙을 적용하고 있으며, 이는 모든 [Pull Request (PR)](#pull-request-제출)가 먼저 GitHub Issue와 연결되어야 함을 의미합니다. 이 가이드를 주의 깊게 검토해 주세요.
+Alchemi Code는 커뮤니티 주도의 프로젝트이며, 모든 기여를 소중하게 생각합니다. 협업을 간소화하기 위해 [Issue-First](#issue-first-접근법) 원칙을 적용하고 있으며, 이는 모든 [Pull Request (PR)](#pull-request-제출)가 먼저 GitHub Issue와 연결되어야 함을 의미합니다. 이 가이드를 주의 깊게 검토해 주세요.
 
 ## 목차
 
@@ -135,4 +135,4 @@ npm run install:all
 
 ## 법적 안내
 
-기여함으로써, 귀하의 기여가 Roo Code의 라이선스와 일치하는 Apache 2.0 라이선스 하에 제공됨에 동의합니다.
+기여함으로써, 귀하의 기여가 Alchemi Code의 라이선스와 일치하는 Apache 2.0 라이선스 하에 제공됨에 동의합니다.

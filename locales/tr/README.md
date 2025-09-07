@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code**, editörünüzde çalışan yapay zeka destekli **otonom kodlama aracı**dır. Yapabilecekleri:
+**Alchemi Code**, editörünüzde çalışan yapay zeka destekli **otonom kodlama aracı**dır. Yapabilecekleri:
 
 - Doğal dil ile iletişim kurma
 - Çalışma alanınızda doğrudan dosyaları okuma ve yazma
@@ -71,7 +71,7 @@ Alchemi Code 3.25 geliştirme iş akışınızı geliştirmek için güçlü yen
 
 ## Hızlı Başlangıç
 
-1. [Roo Code'u Yükleyin](https://docs.roocode.com/getting-started/installing)
+1. [Alchemi Code'u Yükleyin](https://docs.roocode.com/getting-started/installing)
 2. [Yapay Zeka Sağlayıcınızı Bağlayın](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [İlk Görevinizi Deneyin](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -79,7 +79,7 @@ Alchemi Code 3.25 geliştirme iş akışınızı geliştirmek için güçlü yen
 
 ### Çoklu Modlar
 
-Roo Code, özelleştirilmiş [modlar](https://docs.roocode.com/basic-usage/using-modes) ile ihtiyaçlarınıza uyum sağlar:
+Alchemi Code, özelleştirilmiş [modlar](https://docs.roocode.com/basic-usage/using-modes) ile ihtiyaçlarınıza uyum sağlar:
 
 - **Kod Modu:** Genel kodlama görevleri için
 - **Mimar Modu:** Planlama ve teknik liderlik için
@@ -89,18 +89,18 @@ Roo Code, özelleştirilmiş [modlar](https://docs.roocode.com/basic-usage/using
 
 ### Akıllı Araçlar
 
-Roo Code, şunları yapabilen güçlü [araçlar](https://docs.roocode.com/basic-usage/how-tools-work) ile gelir:
+Alchemi Code, şunları yapabilen güçlü [araçlar](https://docs.roocode.com/basic-usage/how-tools-work) ile gelir:
 
 - Projenizde dosyaları okuma ve yazma
 - VS Code terminalinizde komutları çalıştırma
 - Web tarayıcısını kontrol etme
 - [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp) aracılığıyla harici araçları kullanma
 
-MCP, sınırsız özel araç eklemenize izin vererek Roo Code'un yeteneklerini genişletir. Harici API'lerle entegre olun, veritabanlarına bağlanın veya özel geliştirme araçları oluşturun - MCP, Roo Code'un işlevselliğini özel ihtiyaçlarınızı karşılamak üzere genişletmek için çerçeve sağlar.
+MCP, sınırsız özel araç eklemenize izin vererek Alchemi Code'un yeteneklerini genişletir. Harici API'lerle entegre olun, veritabanlarına bağlanın veya özel geliştirme araçları oluşturun - MCP, Alchemi Code'un işlevselliğini özel ihtiyaçlarınızı karşılamak üzere genişletmek için çerçeve sağlar.
 
 ### Özelleştirme
 
-Roo Code'u kendi tarzınıza göre çalıştırın:
+Alchemi Code'u kendi tarzınıza göre çalıştırın:
 
 - Kişiselleştirilmiş davranış için [Özel Talimatlar](https://docs.roocode.com/advanced-usage/custom-instructions)
 - Özelleştirilmiş görevler için [Özel Modlar](https://docs.roocode.com/advanced-usage/custom-modes)
@@ -166,7 +166,7 @@ Sürüm oluşturma ve yayınlama için [changesets](https://github.com/changeset
 
 ## Sorumluluk Reddi
 
-**Lütfen dikkat** Roo Code, Inc, Alchemi Code ile bağlantılı olarak sağlanan veya kullanıma sunulan herhangi bir kod, model veya diğer araçlar, ilgili herhangi bir üçüncü taraf aracı veya herhangi bir sonuç çıktısı hakkında **hiçbir** temsil veya garanti vermemektedir. Bu tür araçların veya çıktıların kullanımıyla ilişkili **tüm riskleri** üstlenirsiniz; bu tür araçlar **"OLDUĞU GİBİ"** ve **"MEVCUT OLDUĞU GİBİ"** temelinde sağlanır. Bu riskler, fikri mülkiyet ihlali, siber güvenlik açıkları veya saldırılar, önyargı, yanlışlıklar, hatalar, kusurlar, virüsler, kesinti süresi, mal kaybı veya hasarı ve/veya kişisel yaralanma dâhil ancak bunlarla sınırlı olmamak üzere içerebilir. Bu tür araçların veya çıktıların kullanımından (yasallık, uygunluk ve sonuçlar dâhil ancak bunlarla sınırlı olmamak üzere) yalnızca siz sorumlusunuz.
+**Lütfen dikkat** Alchemi Code, Inc, Alchemi Code ile bağlantılı olarak sağlanan veya kullanıma sunulan herhangi bir kod, model veya diğer araçlar, ilgili herhangi bir üçüncü taraf aracı veya herhangi bir sonuç çıktısı hakkında **hiçbir** temsil veya garanti vermemektedir. Bu tür araçların veya çıktıların kullanımıyla ilişkili **tüm riskleri** üstlenirsiniz; bu tür araçlar **"OLDUĞU GİBİ"** ve **"MEVCUT OLDUĞU GİBİ"** temelinde sağlanır. Bu riskler, fikri mülkiyet ihlali, siber güvenlik açıkları veya saldırılar, önyargı, yanlışlıklar, hatalar, kusurlar, virüsler, kesinti süresi, mal kaybı veya hasarı ve/veya kişisel yaralanma dâhil ancak bunlarla sınırlı olmamak üzere içerebilir. Bu tür araçların veya çıktıların kullanımından (yasallık, uygunluk ve sonuçlar dâhil ancak bunlarla sınırlı olmamak üzere) yalnızca siz sorumlusunuz.
 
 ---
 
@@ -178,7 +178,7 @@ Topluluk katkılarını seviyoruz! [CONTRIBUTING.md](CONTRIBUTING.md) dosyasın�
 
 ## Katkıda Bulunanlar
 
-Roo Code'u daha iyi hale getirmeye yardımcı olan tüm katkıda bulunanlara teşekkür ederiz!
+Alchemi Code'u daha iyi hale getirmeye yardımcı olan tüm katkıda bulunanlara teşekkür ederiz!
 
 <!-- START CONTRIBUTORS SECTION - AUTO-GENERATED, DO NOT EDIT MANUALLY -->
 
@@ -228,8 +228,8 @@ Roo Code'u daha iyi hale getirmeye yardımcı olan tüm katkıda bulunanlara te�
 
 ## Lisans
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**Roo Code'un keyfini çıkarın!** İster kısa bir tasmayla tutun ister otonom dolaşmasına izin verin, ne inşa edeceğinizi görmek için sabırsızlanıyoruz. Sorularınız veya özellik fikirleriniz varsa, [Reddit topluluğumuza](https://www.reddit.com/r/RooCode/) veya [Discord'umuza](https://discord.gg/roocode) uğrayın. Mutlu kodlamalar!
+**Alchemi Code'un keyfini çıkarın!** İster kısa bir tasmayla tutun ister otonom dolaşmasına izin verin, ne inşa edeceğinizi görmek için sabırsızlanıyoruz. Sorularınız veya özellik fikirleriniz varsa, [Reddit topluluğumuza](https://www.reddit.com/r/RooCode/) veya [Discord'umuza](https://discord.gg/roocode) uğrayın. Mutlu kodlamalar!

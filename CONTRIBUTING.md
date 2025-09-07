@@ -11,7 +11,7 @@
 </sub>
 </div>
 
-# Contributing to Roo Code
+# Contributing to Alchemi Code
 
 Alchemi Code is a community-driven project, and we deeply value every contribution. To streamline collaboration, we operate on an [Issue-First](#issue-first-approach) basis, meaning all [Pull Requests (PRs)](#submitting-a-pull-request) must first be linked to a GitHub Issue. Please review this guide carefully.
 
@@ -135,4 +135,4 @@ pnpm install
 
 ## Legal
 
-By contributing, you agree your contributions will be licensed under the Apache 2.0 License, consistent with Roo Code's licensing.
+By contributing, you agree your contributions will be licensed under the Apache 2.0 License, consistent with Alchemi Code's licensing.

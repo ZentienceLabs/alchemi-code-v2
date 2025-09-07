@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h2>Junte-se à Comunidade Roo Code</h2>
+  <h2>Junte-se à Comunidade Alchemi Code</h2>
   <p>Conecte-se com desenvolvedores, contribua com ideias e mantenha-se atualizado com as ferramentas de codificação mais recentes com IA.</p>
   
   <a href="https://discord.gg/roocode" target="_blank"><img src="https://img.shields.io/badge/Entrar%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Entrar no Discord"></a>
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<h1>Roo Code</h1>
+<h1>Alchemi Code</h1>
 <p align="center">
 <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
 </p>
@@ -35,7 +35,7 @@
 
 </div>
 
-**Roo Code** é um **agente de codificação autônomo** movido a IA que reside no seu editor. Ele pode:
+**Alchemi Code** é um **agente de codificação autônomo** movido a IA que reside no seu editor. Ele pode:
 
 - Comunicar-se em linguagem natural
 - Ler e escrever arquivos diretamente no seu espaço de trabalho
@@ -71,7 +71,7 @@ O Alchemi Code 3.25 traz novos recursos poderosos e melhorias significativas par
 
 ## Início Rápido
 
-1. [Instale o Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Instale o Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Conecte seu provedor de IA](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Experimente sua primeira tarefa](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -166,7 +166,7 @@ Usamos [changesets](https://github.com/changesets/changesets) para versionamento
 
 ## Aviso Legal
 
-**Por favor, note** que a Roo Code, Inc **não** faz nenhuma representação ou garantia em relação a qualquer código, modelos ou outras ferramentas fornecidas ou disponibilizadas em conexão com o Roo Code, quaisquer ferramentas de terceiros associadas, ou quaisquer saídas resultantes. Você assume **todos os riscos** associados ao uso de tais ferramentas ou saídas; tais ferramentas são fornecidas em uma base **"COMO ESTÁ"** e **"COMO DISPONÍVEL"**. Tais riscos podem incluir, sem limitação, violação de propriedade intelectual, vulnerabilidades cibernéticas ou ataques, viés, imprecisões, erros, defeitos, vírus, tempo de inatividade, perda ou dano de propriedade e/ou lesões pessoais. Você é o único responsável pelo seu uso de tais ferramentas ou saídas (incluindo, sem limitação, a legalidade, adequação e resultados das mesmas).
+**Por favor, note** que a Alchemi Code, Inc **não** faz nenhuma representação ou garantia em relação a qualquer código, modelos ou outras ferramentas fornecidas ou disponibilizadas em conexão com o Alchemi Code, quaisquer ferramentas de terceiros associadas, ou quaisquer saídas resultantes. Você assume **todos os riscos** associados ao uso de tais ferramentas ou saídas; tais ferramentas são fornecidas em uma base **"COMO ESTÁ"** e **"COMO DISPONÍVEL"**. Tais riscos podem incluir, sem limitação, violação de propriedade intelectual, vulnerabilidades cibernéticas ou ataques, viés, imprecisões, erros, defeitos, vírus, tempo de inatividade, perda ou dano de propriedade e/ou lesões pessoais. Você é o único responsável pelo seu uso de tais ferramentas ou saídas (incluindo, sem limitação, a legalidade, adequação e resultados das mesmas).
 
 ---
 
@@ -228,8 +228,8 @@ Obrigado a todos os nossos contribuidores que ajudaram a tornar o Alchemi Code m
 
 ## Licença
 
-[Apache 2.0 © 2025 Roo Code, Inc.](../LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](../LICENSE)
 
 ---
 
-**Aproveite o Roo Code!** Seja você o mantenha em uma coleira curta ou deixe-o vagar autonomamente, mal podemos esperar para ver o que você construirá. Se você tiver dúvidas ou ideias de recursos, passe por nossa [comunidade Reddit](https://www.reddit.com/r/RooCode/) ou [Discord](https://discord.gg/roocode). Feliz codificação!
+**Aproveite o Alchemi Code!** Seja você o mantenha em uma coleira curta ou deixe-o vagar autonomamente, mal podemos esperar para ver o que você construirá. Se você tiver dúvidas ou ideias de recursos, passe por nossa [comunidade Reddit](https://www.reddit.com/r/RooCode/) ou [Discord](https://discord.gg/roocode). Feliz codificação!

@@ -34,7 +34,7 @@
 	"roleDefinition": {
 		"title": "Definição de função",
 		"resetToDefault": "Restaurar para padrão",
-		"description": "Defina a expertise e personalidade do Roo para este modo. Esta descrição molda como o Roo se apresenta e aborda tarefas."
+		"description": "Defina a expertise e personalidade do Alchemi para este modo. Esta descrição molda como o Alchemi se apresenta e aborda tarefas."
 	},
 	"description": {
 		"title": "Descrição curta (para humanos)",
@@ -106,7 +106,7 @@
 		"types": {
 			"ENHANCE": {
 				"label": "Aprimorar Prompt",
-				"description": "Use o aprimoramento de prompt para obter sugestões ou melhorias personalizadas para suas entradas. Isso garante que o Roo entenda sua intenção e forneça as melhores respostas possíveis. Disponível através do ícone ✨ no chat."
+				"description": "Use o aprimoramento de prompt para obter sugestões ou melhorias personalizadas para suas entradas. Isso garante que o Alchemi entenda sua intenção e forneça as melhores respostas possíveis. Disponível através do ícone ✨ no chat."
 			},
 			"CONDENSE": {
 				"label": "Condensação de Contexto",
@@ -175,7 +175,7 @@
 		},
 		"roleDefinition": {
 			"label": "Definição de função",
-			"description": "Defina a expertise e personalidade do Roo para este modo."
+			"description": "Defina a expertise e personalidade do Alchemi para este modo."
 		},
 		"whenToUse": {
 			"label": "Quando usar (opcional)",

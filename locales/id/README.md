@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h1>Roo Code</h1>
+  <h1>Alchemi Code</h1>
   <p align="center">
   <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
   </p>
@@ -34,7 +34,7 @@
 
 </div>
 
-**Roo Code** adalah **agen coding otonom** bertenaga AI yang hidup di editor kamu. Ia dapat:
+**Alchemi Code** adalah **agen coding otonom** bertenaga AI yang hidup di editor kamu. Ia dapat:
 
 - Berkomunikasi dalam bahasa alami
 - Membaca dan menulis file langsung di workspace kamu
@@ -53,13 +53,13 @@ Lihat [CHANGELOG](../../CHANGELOG.md) untuk update dan perbaikan detail.
 
 Alchemi Code 3.25 menghadirkan fitur-fitur baru yang powerful dan peningkatan signifikan untuk meningkatkan workflow development kamu!
 
-- **Antrian pesan** - Antrikan beberapa pesan saat Roo bekerja, memungkinkan kamu terus merencanakan alur kerja tanpa gangguan.
+- **Antrian pesan** - Antrikan beberapa pesan saat Alchemi bekerja, memungkinkan kamu terus merencanakan alur kerja tanpa gangguan.
 - **Perintah slash kustom** - Buat perintah slash yang dipersonalisasi untuk akses cepat ke prompt dan alur kerja yang sering digunakan dengan manajemen UI lengkap.
 - **Alat Gemini lanjutan** - Fitur konteks URL dan dasar pencarian Google baru memberikan model Gemini informasi web real-time dan kemampuan penelitian lanjutan.
 
 ---
 
-## Apa yang Bisa Dilakukan Roo Code?
+## Apa yang Bisa Dilakukan Alchemi Code?
 
 - 🚀 **Generate Code** dari deskripsi bahasa alami
 - 🔧 **Refactor & Debug** kode yang ada
@@ -70,7 +70,7 @@ Alchemi Code 3.25 menghadirkan fitur-fitur baru yang powerful dan peningkatan si
 
 ## Mulai Cepat
 
-1. [Install Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Install Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Hubungkan AI Provider Kamu](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Coba Tugas Pertama Kamu](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -160,7 +160,7 @@ Kami menggunakan [changesets](https://github.com/changesets/changesets) untuk ve
 
 ## Disclaimer
 
-**Harap dicatat** bahwa Roo Code, Inc **tidak** membuat representasi atau jaminan apapun mengenai kode, model, atau tools lain yang disediakan atau tersedia dalam hubungannya dengan Roo Code, tools pihak ketiga terkait, atau output yang dihasilkan. Kamu menanggung **semua risiko** yang terkait dengan penggunaan tools atau output tersebut; tools tersebut disediakan atas dasar **"SEBAGAIMANA ADANYA"** dan **"SEBAGAIMANA TERSEDIA"**. Risiko tersebut dapat mencakup, tanpa terbatas pada, pelanggaran kekayaan intelektual, kerentanan atau serangan siber, bias, ketidakakuratan, kesalahan, cacat, virus, downtime, kehilangan properti atau kerusakan, dan/atau cedera pribadi. Kamu bertanggung jawab penuh atas penggunaan tools atau output tersebut (termasuk, tanpa terbatas pada, legalitas, kesesuaian, dan hasilnya).
+**Harap dicatat** bahwa Alchemi Code, Inc **tidak** membuat representasi atau jaminan apapun mengenai kode, model, atau tools lain yang disediakan atau tersedia dalam hubungannya dengan Alchemi Code, tools pihak ketiga terkait, atau output yang dihasilkan. Kamu menanggung **semua risiko** yang terkait dengan penggunaan tools atau output tersebut; tools tersebut disediakan atas dasar **"SEBAGAIMANA ADANYA"** dan **"SEBAGAIMANA TERSEDIA"**. Risiko tersebut dapat mencakup, tanpa terbatas pada, pelanggaran kekayaan intelektual, kerentanan atau serangan siber, bias, ketidakakuratan, kesalahan, cacat, virus, downtime, kehilangan properti atau kerusakan, dan/atau cedera pribadi. Kamu bertanggung jawab penuh atas penggunaan tools atau output tersebut (termasuk, tanpa terbatas pada, legalitas, kesesuaian, dan hasilnya).
 
 ---
 
@@ -222,8 +222,8 @@ Terima kasih kepada semua kontributor kami yang telah membantu membuat Alchemi C
 
 ## License
 
-[Apache 2.0 © 2025 Roo Code, Inc.](./LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](./LICENSE)
 
 ---
 
-**Nikmati Roo Code!** Baik kamu menggunakannya dengan ketat atau membiarkannya berjalan otonom, kami tidak sabar melihat apa yang kamu bangun. Jika kamu memiliki pertanyaan atau ide fitur, kunjungi [komunitas Reddit](https://www.reddit.com/r/RooCode/) atau [Discord](https://discord.gg/roocode) kami. Selamat coding!
+**Nikmati Alchemi Code!** Baik kamu menggunakannya dengan ketat atau membiarkannya berjalan otonom, kami tidak sabar melihat apa yang kamu bangun. Jika kamu memiliki pertanyaan atau ide fitur, kunjungi [komunitas Reddit](https://www.reddit.com/r/RooCode/) atau [Discord](https://discord.gg/roocode) kami. Selamat coding!

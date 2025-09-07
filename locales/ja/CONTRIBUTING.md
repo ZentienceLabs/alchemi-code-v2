@@ -135,4 +135,4 @@ npm run install:all
 
 ## 法的事項
 
-Pull Requestを提出することで、あなたの貢献がRoo Codeと同じApache 2.0ライセンスの下で提供されることに同意したことになります。
+Pull Requestを提出することで、あなたの貢献がAlchemi Codeと同じApache 2.0ライセンスの下で提供されることに同意したことになります。

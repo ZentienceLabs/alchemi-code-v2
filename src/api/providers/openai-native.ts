@@ -275,7 +275,7 @@ export class OpenAiNativeHandler extends BaseProvider implements SingleCompletio
 						: OPENAI_NATIVE_DEFAULT_TEMPERATURE),
 			}),
 			// Explicitly include the calculated max output tokens.
-			// Use the per-request reserved output computed by Roo (params.maxTokens from getModelParams).
+			// Use the per-request reserved output computed by Alchemi (params.maxTokens from getModelParams).
 			...(model.maxTokens ? { max_output_tokens: model.maxTokens } : {}),
 			...(requestPreviousResponseId && { previous_response_id: requestPreviousResponseId }),
 			// Include tier when selected and supported by the model, or when explicitly "default"

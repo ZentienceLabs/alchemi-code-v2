@@ -47,7 +47,7 @@ export const features: Feature[] = [
 		icon: <Puzzle className="h-6 w-6 text-white" />,
 		title: "Fully Customizable",
 		description:
-			"Create or tweak modes, define usage rules, and shape Roo Code's behavior precisely—your code, your way.",
+			"Create or tweak modes, define usage rules, and shape Alchemi Code's behavior precisely—your code, your way.",
 	},
 	{
 		icon: <Globe className="h-6 w-6 text-white" />,

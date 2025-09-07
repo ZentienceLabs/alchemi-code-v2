@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-  <h1>Roo Code</h1>
+  <h1>Alchemi Code</h1>
   <p align="center">
   <img src="https://media.githubusercontent.com/media/RooCodeInc/Roo-Code/main/src/assets/docs/demo.gif" width="100%" />
   </p>
@@ -34,7 +34,7 @@
 
 </div>
 
-**Roo Code** is an AI-powered **autonomous coding agent** that lives in your editor. It can:
+**Alchemi Code** is an AI-powered **autonomous coding agent** that lives in your editor. It can:
 
 - Communicate in natural language
 - Read and write files directly in your workspace
@@ -53,7 +53,7 @@ Check out the [CHANGELOG](CHANGELOG.md) for detailed updates and fixes.
 
 Alchemi Code 3.25 brings powerful new features and significant improvements to enhance your development workflow!
 
-- **Message Queueing** - Queue multiple messages while Roo is working, allowing you to continue planning your workflow without interruption.
+- **Message Queueing** - Queue multiple messages while Alchemi is working, allowing you to continue planning your workflow without interruption.
 - **Custom Slash Commands** - Create personalized slash commands for quick access to frequently used prompts and workflows, with full UI management.
 - **Enhanced Gemini Tools** - New URL context and Google Search grounding capabilities provide Gemini models with real-time web information and enhanced research abilities.
 
@@ -70,7 +70,7 @@ Alchemi Code 3.25 brings powerful new features and significant improvements to e
 
 ## Quick Start
 
-1. [Install Roo Code](https://docs.roocode.com/getting-started/installing)
+1. [Install Alchemi Code](https://docs.roocode.com/getting-started/installing)
 2. [Connect Your AI Provider](https://docs.roocode.com/getting-started/connecting-api-provider)
 3. [Try Your First Task](https://docs.roocode.com/getting-started/your-first-task)
 
@@ -95,7 +95,7 @@ Alchemi Code comes with powerful [tools](https://docs.roocode.com/basic-usage/ho
 - Control a web browser
 - Use external tools via [MCP (Model Context Protocol)](https://docs.roocode.com/advanced-usage/mcp)
 
-MCP extends Roo Code's capabilities by allowing you to add unlimited custom tools. Integrate with external APIs, connect to databases, or create specialized development tools - MCP provides the framework to expand Roo Code's functionality to meet your specific needs.
+MCP extends Alchemi Code's capabilities by allowing you to add unlimited custom tools. Integrate with external APIs, connect to databases, or create specialized development tools - MCP provides the framework to expand Alchemi Code's functionality to meet your specific needs.
 
 ### Customization
 
@@ -192,7 +192,7 @@ We use [changesets](https://github.com/changesets/changesets) for versioning and
 
 ## Disclaimer
 
-**Please note** that Roo Code, Inc does **not** make any representations or warranties regarding any code, models, or other tools provided or made available in connection with Roo Code, any associated third-party tools, or any resulting outputs. You assume **all risks** associated with the use of any such tools or outputs; such tools are provided on an **"AS IS"** and **"AS AVAILABLE"** basis. Such risks may include, without limitation, intellectual property infringement, cyber vulnerabilities or attacks, bias, inaccuracies, errors, defects, viruses, downtime, property loss or damage, and/or personal injury. You are solely responsible for your use of any such tools or outputs (including, without limitation, the legality, appropriateness, and results thereof).
+**Please note** that Alchemi Code, Inc does **not** make any representations or warranties regarding any code, models, or other tools provided or made available in connection with Alchemi Code, any associated third-party tools, or any resulting outputs. You assume **all risks** associated with the use of any such tools or outputs; such tools are provided on an **"AS IS"** and **"AS AVAILABLE"** basis. Such risks may include, without limitation, intellectual property infringement, cyber vulnerabilities or attacks, bias, inaccuracies, errors, defects, viruses, downtime, property loss or damage, and/or personal injury. You are solely responsible for your use of any such tools or outputs (including, without limitation, the legality, appropriateness, and results thereof).
 
 ---
 
@@ -254,8 +254,8 @@ Thanks to all our contributors who have helped make Alchemi Code better!
 
 ## License
 
-[Apache 2.0 © 2025 Roo Code, Inc.](./LICENSE)
+[Apache 2.0 © 2025 Alchemi Code, Inc.](./LICENSE)
 
 ---
 
-**Enjoy Roo Code!** Whether you keep it on a short leash or let it roam autonomously, we can’t wait to see what you build. If you have questions or feature ideas, drop by our [Reddit community](https://www.reddit.com/r/RooCode/) or [Discord](https://discord.gg/roocode). Happy coding!
+**Enjoy Alchemi Code!** Whether you keep it on a short leash or let it roam autonomously, we can’t wait to see what you build. If you have questions or feature ideas, drop by our [Reddit community](https://www.reddit.com/r/RooCode/) or [Discord](https://discord.gg/roocode). Happy coding!
