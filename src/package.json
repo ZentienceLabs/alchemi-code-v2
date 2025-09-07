@@ -91,19 +91,9 @@
 				"icon": "$(history)"
 			},
 			{
-				"command": "alchemi-code.marketplaceButtonClicked",
-				"title": "%command.marketplace.title%",
-				"icon": "$(extensions)"
-			},
-			{
 				"command": "alchemi-code.popoutButtonClicked",
 				"title": "%command.openInEditor.title%",
 				"icon": "$(link-external)"
-			},
-			{
-				"command": "alchemi-code.cloudButtonClicked",
-				"title": "%command.cloud.title%",
-				"icon": "$(cloud)"
 			},
 			{
 				"command": "alchemi-code.settingsButtonClicked",
@@ -224,18 +214,8 @@
 					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
-					"command": "alchemi-code.marketplaceButtonClicked",
-					"group": "navigation@2",
-					"when": "view == alchemi-code.SidebarProvider"
-				},
-				{
 					"command": "alchemi-code.settingsButtonClicked",
 					"group": "navigation@3",
-					"when": "view == alchemi-code.SidebarProvider"
-				},
-				{
-					"command": "alchemi-code.cloudButtonClicked",
-					"group": "navigation@4",
 					"when": "view == alchemi-code.SidebarProvider"
 				},
 				{
@@ -266,18 +246,8 @@
 					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{
-					"command": "alchemi-code.marketplaceButtonClicked",
-					"group": "navigation@2",
-					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
-				},
-				{
 					"command": "alchemi-code.settingsButtonClicked",
 					"group": "navigation@3",
-					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
-				},
-				{
-					"command": "alchemi-code.cloudButtonClicked",
-					"group": "navigation@4",
 					"when": "activeWebviewPanelId == alchemi-code.TabPanelProvider"
 				},
 				{

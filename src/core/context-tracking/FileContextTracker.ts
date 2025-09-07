@@ -64,8 +64,8 @@ export class FileContextTracker {
 
 		// Track file changes
 		watcher.onDidChange(() => {
-			if (this.recentlyEditedByRoo.has(filePath)) {
-				this.recentlyEditedByRoo.delete(filePath) // This was an edit by Roo, no need to inform Roo
+			if (this.recentlyEditedByAlchemi.has(filePath)) {
+				this.recentlyEditedByAlchemi.delete(filePath) // This was an edit by Roo, no need to inform Roo
 			} else {
 				this.recentlyModifiedFiles.add(filePath) // This was a user edit, we will inform Roo
 				this.trackFileContext(filePath, "user_edited") // Update the task metadata with file tracking
@@ -214,7 +214,7 @@ export class FileContextTracker {
 
 	// Marks a file as edited by Alchemi to prevent false positives in file watchers
 	markFileAsEditedByRoo(filePath: string): void {
-		this.recentlyEditedByRoo.add(filePath)
+		this.recentlyEditedByAlchemi.add(filePath)
 	}
 
 	// Disposes all file watchers
