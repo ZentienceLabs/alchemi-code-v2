@@ -388,7 +388,7 @@ describe("RooHandler", () => {
 		})
 
 		it("should use correct API endpoint", () => {
-			// The base URL should be set to Roo's API endpoint
+			// The base URL should be set to Alchemi's API endpoint
 			// We can't directly test the OpenAI client configuration, but we can verify the handler initializes
 			handler = new RooHandler(mockOptions)
 			expect(handler).toBeInstanceOf(RooHandler)

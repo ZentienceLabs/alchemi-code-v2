@@ -231,7 +231,7 @@ export class OpenAiNativeHandler extends BaseProvider implements SingleCompletio
 		metadata?: ApiHandlerCreateMessageMetadata,
 	): any {
 		// Build a request body (also used for fallback)
-		// Ensure we explicitly pass max_output_tokens for GPT‑5 based on Roo's reserved model response calculation
+		// Ensure we explicitly pass max_output_tokens for GPT‑5 based on Alchemi's reserved model response calculation
 		// so requests do not default to very large limits (e.g., 120k).
 		interface Gpt5RequestBody {
 			model: string

@@ -34,7 +34,7 @@
 	"roleDefinition": {
 		"title": "Roldefinitie",
 		"resetToDefault": "Terugzetten naar standaard",
-		"description": "Definieer Roo's expertise en persoonlijkheid voor deze modus. Deze beschrijving bepaalt hoe Alchemi zich presenteert en taken benadert."
+		"description": "Definieer Alchemi's expertise en persoonlijkheid voor deze modus. Deze beschrijving bepaalt hoe Alchemi zich presenteert en taken benadert."
 	},
 	"description": {
 		"title": "Korte beschrijving (voor mensen)",
@@ -175,7 +175,7 @@
 		},
 		"roleDefinition": {
 			"label": "Roldefinitie",
-			"description": "Definieer Roo's expertise en persoonlijkheid voor deze modus."
+			"description": "Definieer Alchemi's expertise en persoonlijkheid voor deze modus."
 		},
 		"whenToUse": {
 			"label": "Wanneer te gebruiken (optioneel)",

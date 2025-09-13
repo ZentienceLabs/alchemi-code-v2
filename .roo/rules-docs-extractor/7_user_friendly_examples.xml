@@ -175,7 +175,7 @@ The [`read_file`](/tools/read-file) tool accepts multiple files in a single requ
 
 ## Configuration
 
-Customize in Roo's settings:
+Customize in Alchemi's settings:
 
 1. **Enable/Disable Concurrent File Reads**
    - **Does**: Toggles whether Alchemi can read multiple files at once.
