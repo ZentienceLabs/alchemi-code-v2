@@ -4,6 +4,7 @@ out
 out-*
 node_modules
 package-lock.json
+pnpm-lock.yaml
 coverage/
 mock/
 
@@ -51,3 +52,6 @@ logs
 qdrant_storage/
 .history/
 .claude/
+
+
+pnpm-lock.yaml
